@@ -7,7 +7,7 @@
   let market = null, tokens = [];
   function nav(path = location.pathname) {
     const items = [['/', 'System'], ['/markets', 'Markets'], ['/launch', 'Launch'], ['/docs', 'Docs']];
-    return `<nav class="rome-nav">${items.map(([href,label]) => `<a href="${href}" data-route class="${(href === '/' ? path === '/' : path.startsWith(href)) ? 'active' : ''}">${label}</a>`).join('')}<a class="rome-launch-btn" href="/launch" data-route>Launch ↗</a></nav>`;
+    return `<nav class="rome-nav">${items.map(([href,label]) => `<a href="${href}" data-route class="${(href === '/' ? path === '/' : path.startsWith(href)) ? 'active' : ''}">${label}</a>`).join('')}<a href="https://x.com/romepadx" target="_blank" rel="noopener">@romepadx</a><a class="rome-launch-btn" href="/launch" data-route>Launch ↗</a></nav>`;
   }
   function shell(content) {
     document.title = 'ROME · Ecosystem Launchpad';
