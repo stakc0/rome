@@ -7,7 +7,7 @@ const require = createRequire(import.meta.url);
 const { OnlinePumpSdk, PUMP_SDK, getBuyTokenAmountFromSolAmount } = require('@pump-fun/pump-sdk');
 
 const TREASURY = new PublicKey('1iqoin4QcFPeVusTYdmQFZoonbZAXAhucvLxhpf78gN');
-const ROME_PAIR_MINT = new PublicKey('FQSsRzYw7jyqbJBoqf7XVy23ejXgyVuQWREhY7M5pump');
+const ROME_PAIR_MINT = new PublicKey('58mVnPymLGzCZbvgJdPGRb3JCJ95RYjvfyJNETU1pump');
 const ROME_SITE = (process.env.SITE_URL || 'https://rome.fun').replace(/\/$/, '');
 const DB_REF = process.env.WEBD_SUPABASE_PROJECT_REF || 'saneojmlgtmvtglgwdcj';
 function sqlText(value){return `'${String(value??'').replaceAll("'","''")}'`;}

@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {readFile} from 'node:fs/promises';
 const launch=await readFile(new URL('../launch-direct.mjs',import.meta.url),'utf8');
 const index=await readFile(new URL('../index.html',import.meta.url),'utf8');
-assert.match(launch,/FQSsRzYw7jyqbJBoqf7XVy23ejXgyVuQWREhY7M5pump/);
+assert.match(launch,/58mVnPymLGzCZbvgJdPGRb3JCJ95RYjvfyJNETU1pump/);
 assert.match(launch,/createV2Instruction/);
 assert.match(launch,/not live or Pump-eligible yet/);
 assert.doesNotMatch(launch,/iq_launch_passes|IQ gate/i);

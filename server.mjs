@@ -12,7 +12,7 @@ const cache=new Map();let manifest;
 async function inventory(){return manifest||(manifest=JSON.parse(await readFile(path.join(ROOT,'dist/runtime-manifest.json'),'utf8')));}
 let raffleCache=null;
 
-const MAIN_TOKEN='FQSsRzYw7jyqbJBoqf7XVy23ejXgyVuQWREhY7M5pump';
+const MAIN_TOKEN='58mVnPymLGzCZbvgJdPGRb3JCJ95RYjvfyJNETU1pump';
 const SITE_URL=(process.env.SITE_URL||'https://rome.fun').replace(/\/$/,'');
 const X_URL='https://x.com/rome';
 let tokenCache=null;
@@ -58,7 +58,7 @@ export async function handler(req,res){try{
   json(res,200,result);return;
  }
  if(url.pathname.startsWith('/api/market/')){if(req.method!=='GET'){json(res,405,{error:'GET required'});return;}try{json(res,200,await marketRead(url));}catch(error){if(error.status===404){json(res,200,{state:'awaiting',mint:url.searchParams.get('token')||url.pathname.split('/').pop(),message:error.message,source:'public-market-provider'});}else json(res,error.status||502,{error:error.message});}return;}
- if(url.pathname==='/api/health'){json(res,200,{status:'ok',application:'rome-launchpad',publicReads:true,operatorWritesConfigured:true,launchBackend:'direct-pump-v2-custom-quote',pairMint:'FQSsRzYw7jyqbJBoqf7XVy23ejXgyVuQWREhY7M5pump',rpcConfigured:Boolean(process.env.PUMP_RPC_URL||process.env.LOOT_RPC_URL)});return;}
+ if(url.pathname==='/api/health'){json(res,200,{status:'ok',application:'rome-launchpad',publicReads:true,operatorWritesConfigured:true,launchBackend:'direct-pump-v2-custom-quote',pairMint:'58mVnPymLGzCZbvgJdPGRb3JCJ95RYjvfyJNETU1pump',rpcConfigured:Boolean(process.env.PUMP_RPC_URL||process.env.LOOT_RPC_URL)});return;}
  if(url.pathname==='/api/rpc'){
   if(req.method!=='POST'){json(res,405,{error:'POST required'});return;}const payload=await body(req);const list=Array.isArray(payload)?payload:[payload];if(list.length>30||list.some(p=>!RPC_METHODS.has(p?.method))){json(res,403,{error:'Only public read-only RPC methods are enabled. No transaction was submitted.'});return;}
   const response=await fetch(process.env.LOOT_RPC_URL||'https://api.mainnet-beta.solana.com',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify(payload),signal:AbortSignal.timeout(15000)});res.writeHead(response.status,{'Content-Type':response.headers.get('content-type')||MIME['.json'],'Cache-Control':'no-store'});res.end(Buffer.from(await response.arrayBuffer()));return;
