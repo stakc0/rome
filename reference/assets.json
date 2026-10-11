@@ -1,0 +1,3116 @@
+{
+  "origin": "https://loot.family",
+  "assets": [
+    {
+      "url": "https://axiomtrading-v2.axiom-cdn.io/2WZnseF9pVjbEgbyuiPA9uukpDGymsMF2JcfLQGypump.webp",
+      "localPath": "public/captured/external/821961c82ac3369ad6e1b09a.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 12010,
+      "sourceSha256": "5e61e25f39e43703f1ec4a5d7c6079eeb5ff305bf986278626ecf3b9f547f32b",
+      "localSha256": "5e61e25f39e43703f1ec4a5d7c6079eeb5ff305bf986278626ecf3b9f547f32b"
+    },
+    {
+      "url": "https://axiomtrading-v2.axiom-cdn.io/5FDRxLEMremdJH1QK4B1KESaU6khzHrZ2Lppq7iHGwCg.webp",
+      "localPath": "public/captured/external/364a2bc6b72e99dd669f500b.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 13274,
+      "sourceSha256": "90fc044d06d8368ae2cdf4295b7e454aaf46219303adfe9eec43ff707baa9f6d",
+      "localSha256": "90fc044d06d8368ae2cdf4295b7e454aaf46219303adfe9eec43ff707baa9f6d"
+    },
+    {
+      "url": "https://axiomtrading-v2.axiom-cdn.io/61UP5x27K9iNcBUwnrTFTwntpdTn9uCBPfdiVfdWuKrg.webp",
+      "localPath": "public/captured/external/2235862f02747a7fcc3d74c3.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 7098,
+      "sourceSha256": "941b53adcb59a15f9beba7ac385d50501e7027d2ef2c433662cf22387fe8895c",
+      "localSha256": "941b53adcb59a15f9beba7ac385d50501e7027d2ef2c433662cf22387fe8895c"
+    },
+    {
+      "url": "https://axiomtrading-v2.axiom-cdn.io/8vLn15PE7P8qP2rgDcrHgo1U4SvMqWzoG575x2cdioos.webp",
+      "localPath": "public/captured/external/90ce79fedffa64dcd5c13076.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 9454,
+      "sourceSha256": "dcc98b37823ac60c28db09a7d88a0e70f123f09fe93de6888d94c55b339a3042",
+      "localSha256": "dcc98b37823ac60c28db09a7d88a0e70f123f09fe93de6888d94c55b339a3042"
+    },
+    {
+      "url": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/76eFuEdFqKQGoXdhiCz1JEvRcabvQPh7vh1f4C9n6b2x.webp",
+      "localPath": "public/captured/external/7d602bc02481ded746a0059d.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 31140,
+      "sourceSha256": "0e18696feb3ca94de55fc7f6a20ea8aa6729f8cd9ae9ffb93656d1ce542835f7",
+      "localSha256": "0e18696feb3ca94de55fc7f6a20ea8aa6729f8cd9ae9ffb93656d1ce542835f7"
+    },
+    {
+      "url": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/8i3QuAhMqU1btgt3crgegDNxFTU8gcUNSW4c3uqRpump.webp",
+      "localPath": "public/captured/external/50f90342117b358adf1d0f1c.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 15660,
+      "sourceSha256": "7613496a4d09dd793756f9e7e6c6c9986ea26ad4919ca17a3b205f88e0170138",
+      "localSha256": "7613496a4d09dd793756f9e7e6c6c9986ea26ad4919ca17a3b205f88e0170138"
+    },
+    {
+      "url": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/CB138sUYCYqnHJqaS29MRtTz986cM5X4XTFQsgbebonk.webp",
+      "localPath": "public/captured/external/ceafbdcbd6693d0eaf05682c.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 13218,
+      "sourceSha256": "401e855d455976f99c33114d6b0d07822aaf8f3225fa8e621f468d102be25f63",
+      "localSha256": "401e855d455976f99c33114d6b0d07822aaf8f3225fa8e621f468d102be25f63"
+    },
+    {
+      "url": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/CvtCSMDByj1oC15WMZPtA7QoVfJsShcZpzBuR44Dpump.webp",
+      "localPath": "public/captured/external/3b90f9f2c63971df11e08623.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 2952,
+      "sourceSha256": "a4f03296049e0fc21c9f8b5370cda4547b878d22230fd3776a77ea80a7170836",
+      "localSha256": "a4f03296049e0fc21c9f8b5370cda4547b878d22230fd3776a77ea80a7170836"
+    },
+    {
+      "url": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/GPhrDJxNybU1FNZEaSnZ1FCGDdL5wnC34zwBzP9jNxNh.webp",
+      "localPath": "public/captured/external/1257933d4692112cef732df8.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 23596,
+      "sourceSha256": "b3c20aaa4b8c3e8eea6bc20df23999703dbde403d580fa8978a1dc35ae78abe6",
+      "localSha256": "b3c20aaa4b8c3e8eea6bc20df23999703dbde403d580fa8978a1dc35ae78abe6"
+    },
+    {
+      "url": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/J1nFRhWLxF6TgUfN6WcUYLZuSknHBqj1MdZjwztwZoVp.webp",
+      "localPath": "public/captured/external/f5365bb1fb71b892154011e2.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 8934,
+      "sourceSha256": "b295f533706f720eca063313d3d89c8c9771f0a007a02a6a126f69c0e8db632e",
+      "localSha256": "b295f533706f720eca063313d3d89c8c9771f0a007a02a6a126f69c0e8db632e"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap",
+      "localPath": "public/captured/external/1657d90534bc56ced7946e93.css",
+      "status": 200,
+      "contentType": "text/css; charset=utf-8",
+      "bytes": 5027,
+      "sourceSha256": "47105f21f5d6eee18fb8df96164da8bdcf35aba63cab995bc1c2eafe6eac4d2c",
+      "localSha256": "47105f21f5d6eee18fb8df96164da8bdcf35aba63cab995bc1c2eafe6eac4d2c"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap",
+      "localPath": "public/captured/external/bd416d3ebf3644ee3662eb17.css",
+      "status": 200,
+      "contentType": "text/css; charset=utf-8",
+      "bytes": 3324,
+      "sourceSha256": "0193376835704e2bac9b0a3da54d88045ebee6defae92aebd96b71dfe4ee974a",
+      "localSha256": "0193376835704e2bac9b0a3da54d88045ebee6defae92aebd96b71dfe4ee974a"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsD8ah8QA.woff2",
+      "localPath": "public/captured/external/0cc453356551d4ef11d5d1b4.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 16996,
+      "sourceSha256": "3937173d62f238179ca073aee632d53ebc088967ac841bf213211be05720881a",
+      "localSha256": "3937173d62f238179ca073aee632d53ebc088967ac841bf213211be05720881a"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsE8ah8QA.woff2",
+      "localPath": "public/captured/external/8f59721c6d59cea43f85784b.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 22192,
+      "sourceSha256": "815c54f4279b399a2afb93e99844e0ba6d9df2fc809eab372aa05e8b8d0847da",
+      "localSha256": "815c54f4279b399a2afb93e99844e0ba6d9df2fc809eab372aa05e8b8d0847da"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsH8ag.woff2",
+      "localPath": "public/captured/external/603db177c94704c628ea1929.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 44872,
+      "sourceSha256": "77fefe8ca19b9f69b5284832c519e0493127c1f091f0a8936884be7721c4e618",
+      "localSha256": "77fefe8ca19b9f69b5284832c519e0493127c1f091f0a8936884be7721c4e618"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsI8ah8QA.woff2",
+      "localPath": "public/captured/external/c69d8181db48735e4cdf6e4a.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 10480,
+      "sourceSha256": "88599e6f2f36551c98dd836df944179f0d4e31eefa620bb753c96069b53ac55a",
+      "localSha256": "88599e6f2f36551c98dd836df944179f0d4e31eefa620bb753c96069b53ac55a"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsJ8ah8QA.woff2",
+      "localPath": "public/captured/external/e15235478ef9f5ab9a9ac7bf.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 89800,
+      "sourceSha256": "fd9beddaaec644945809da574cf1caf342073c7e4b46a2ea5bd136c8cf1a9eca",
+      "localSha256": "fd9beddaaec644945809da574cf1caf342073c7e4b46a2ea5bd136c8cf1a9eca"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsK8ah8QA.woff2",
+      "localPath": "public/captured/external/a82945146b6521cff171163b.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 26660,
+      "sourceSha256": "9bba92a871106008d89cc9734c218a3660b92ff647bdfb6879bf0440fba002c0",
+      "localSha256": "9bba92a871106008d89cc9734c218a3660b92ff647bdfb6879bf0440fba002c0"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsL8ah8QA.woff2",
+      "localPath": "public/captured/external/7aa16fae3e0a32bd6bf5f9c0.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 11700,
+      "sourceSha256": "83735bbea54cc7c4e7ee2af3ede4c2bc5e421ba5bdef4cd3ea2ec8d25b5afaa8",
+      "localSha256": "83735bbea54cc7c4e7ee2af3ede4c2bc5e421ba5bdef4cd3ea2ec8d25b5afaa8"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwa5kRFe9.woff2",
+      "localPath": "public/captured/external/0905c2a0d2f4ef05d5cf9ff6.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 17856,
+      "sourceSha256": "f0b9617a2d27a8f7b106917fe097c22d4eb3f84266188d21e74ea50b93d3207d",
+      "localSha256": "f0b9617a2d27a8f7b106917fe097c22d4eb3f84266188d21e74ea50b93d3207d"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwaRkRFe9.woff2",
+      "localPath": "public/captured/external/833ebb4225604de433e67dd5.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 95128,
+      "sourceSha256": "bf45219d9e0a0727240389257be2c490248e933aed9a35eba211c22487b003c2",
+      "localSha256": "bf45219d9e0a0727240389257be2c490248e933aed9a35eba211c22487b003c2"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwaVkRFe9.woff2",
+      "localPath": "public/captured/external/18f2f9b59692f7edd035f0e6.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 10904,
+      "sourceSha256": "317b739e8d2e603651c42e6c886f3bbb5830c82a926b5fcd58a9b129bf7fb485",
+      "localSha256": "317b739e8d2e603651c42e6c886f3bbb5830c82a926b5fcd58a9b129bf7fb485"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwaZkRFe9.woff2",
+      "localPath": "public/captured/external/6aec96b8e74e95fff8c9b520.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 11912,
+      "sourceSha256": "c4eefe8a2e119ee412a93b895ccf7e32eca5becb3b1b3e3469510a4476adf5c7",
+      "localSha256": "c4eefe8a2e119ee412a93b895ccf7e32eca5becb3b1b3e3469510a4476adf5c7"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwadkRFe9.woff2",
+      "localPath": "public/captured/external/f642f214fc8533a251cd0be0.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 27916,
+      "sourceSha256": "ac99a8b36fdf616b32c51de703cd6c3d5a5579d111cd656d21b5b099fa2f9c66",
+      "localSha256": "ac99a8b36fdf616b32c51de703cd6c3d5a5579d111cd656d21b5b099fa2f9c66"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwalkRFe9.woff2",
+      "localPath": "public/captured/external/88214793bdf43d813dd95a0b.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 23380,
+      "sourceSha256": "a88929ea0ba743c17c617a4f24bf6db5bebb8abae0b5e44fa112737b6cc97636",
+      "localSha256": "a88929ea0ba743c17c617a4f24bf6db5bebb8abae0b5e44fa112737b6cc97636"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwapkRA.woff2",
+      "localPath": "public/captured/external/eb6b2eb8e965374073a7df7f.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 47912,
+      "sourceSha256": "26da6578cb17ad7922d0c6586697ab1c5de86a3cfd46057eec8a9e1f034ac965",
+      "localSha256": "26da6578cb17ad7922d0c6586697ab1c5de86a3cfd46057eec8a9e1f034ac965"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtq.woff2",
+      "localPath": "public/captured/external/836b5877f0891ac748189ee8.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 32292,
+      "sourceSha256": "6c18d579fd87c3776be068b762cbc83fde3acb543d49eabd3ade842eb987e887",
+      "localSha256": "6c18d579fd87c3776be068b762cbc83fde3acb543d49eabd3ade842eb987e887"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJuktqQ4E.woff2",
+      "localPath": "public/captured/external/a98bd92496b62047b8cf25b3.woff2",
+      "status": 200,
+      "contentType": "font/woff2",
+      "bytes": 14808,
+      "sourceSha256": "0f53d1c03b3918d744a843b5039001ee31695ca1e255e3914188df81beb461e9",
+      "localSha256": "0f53d1c03b3918d744a843b5039001ee31695ca1e255e3914188df81beb461e9"
+    },
+    {
+      "url": "https://img.loot.family/?u=https%3A%2F%2Faxiomtrading-v2.axiom-cdn.io%2F8vLn15PE7P8qP2rgDcrHgo1U4SvMqWzoG575x2cdioos.webp",
+      "localPath": "public/captured/external/28e45982312bd998ef43d38a.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 9454,
+      "sourceSha256": "dcc98b37823ac60c28db09a7d88a0e70f123f09fe93de6888d94c55b339a3042",
+      "localSha256": "dcc98b37823ac60c28db09a7d88a0e70f123f09fe93de6888d94c55b339a3042"
+    },
+    {
+      "url": "https://img.loot.family/?u=https%3A%2F%2Faxiomtrading.sfo3.cdn.digitaloceanspaces.com%2F76eFuEdFqKQGoXdhiCz1JEvRcabvQPh7vh1f4C9n6b2x.webp",
+      "localPath": "public/captured/external/ae473ad647d50e945324d3bf.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 31140,
+      "sourceSha256": "0e18696feb3ca94de55fc7f6a20ea8aa6729f8cd9ae9ffb93656d1ce542835f7",
+      "localSha256": "0e18696feb3ca94de55fc7f6a20ea8aa6729f8cd9ae9ffb93656d1ce542835f7"
+    },
+    {
+      "url": "https://img.loot.family/?u=https%3A%2F%2Faxiomtrading.sfo3.cdn.digitaloceanspaces.com%2FGPhrDJxNybU1FNZEaSnZ1FCGDdL5wnC34zwBzP9jNxNh.webp",
+      "localPath": "public/captured/external/69ad80fdf7d42c4b0b0bb653.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 23596,
+      "sourceSha256": "b3c20aaa4b8c3e8eea6bc20df23999703dbde403d580fa8978a1dc35ae78abe6",
+      "localSha256": "b3c20aaa4b8c3e8eea6bc20df23999703dbde403d580fa8978a1dc35ae78abe6"
+    },
+    {
+      "url": "https://img.loot.family/?u=https%3A%2F%2Fm.rapidlaunch.io%2Fimages%2FTBG1K3BJK.jpg",
+      "localPath": "public/captured/external/c94762894bce29b60d5f772b.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 11711,
+      "sourceSha256": "ed8d55bac3508c459b4441ddb504ba7873eb66ef9eb85c78f53e6db6941c9838",
+      "localSha256": "ed8d55bac3508c459b4441ddb504ba7873eb66ef9eb85c78f53e6db6941c9838"
+    },
+    {
+      "url": "https://img.loot.family/?u=https%3A%2F%2Fm.rapidlaunch.io%2Fimages%2Fjs4XMKUXD.jpg",
+      "localPath": "public/captured/external/0f083e6272f4c8a112cc26c1.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 25673,
+      "sourceSha256": "37bba9a78f5cb3abfc0721289783ef4cc025e1d542011ddbe5a917753fcd61c6",
+      "localSha256": "37bba9a78f5cb3abfc0721289783ef4cc025e1d542011ddbe5a917753fcd61c6"
+    },
+    {
+      "url": "https://img.loot.family/?u=https%3A%2F%2Fm.rapidlaunch.io%2Fimages%2Fvj8ToCuGO.jpg",
+      "localPath": "public/captured/external/c104ce56090eeb45086851e0.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 12905,
+      "sourceSha256": "2a697263d7b1ce7f7c27733aeba364c3f56fd6a321a1167d2dcf47d6154548d0",
+      "localSha256": "2a697263d7b1ce7f7c27733aeba364c3f56fd6a321a1167d2dcf47d6154548d0"
+    },
+    {
+      "url": "https://img.loot.family/?u=https%3A%2F%2Fmetadata.j7tracker.io%2Fimages%2F285859f227a040d6",
+      "localPath": "public/captured/external/f442618e32de5182eb8000e4.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 17138,
+      "sourceSha256": "5ab3bfc78b52331101030d192d70ecac2a3d9497ffcbb65ef1cd93b6b3d1207f",
+      "localSha256": "5ab3bfc78b52331101030d192d70ecac2a3d9497ffcbb65ef1cd93b6b3d1207f"
+    },
+    {
+      "url": "https://img.loot.family/?u=https%3A%2F%2Fmetadata.j7tracker.io%2Fimages%2F8DBbcGMCCH",
+      "localPath": "public/captured/external/08ee385903339b35c61686d3.webp",
+      "status": 200,
+      "contentType": "image/webp",
+      "bytes": 10668,
+      "sourceSha256": "54cd265811122531f6d0a7daadc34dc26934b7e2118ae915f34478e2a165310f",
+      "localSha256": "54cd265811122531f6d0a7daadc34dc26934b7e2118ae915f34478e2a165310f"
+    },
+    {
+      "url": "https://ipfs.loot.family/2N34KaYMYLhsMscWdQaVVaBiW67h8QxwFhhG1k3G9q2P.jpg",
+      "localPath": "public/captured/external/c691152851b6767a4bff5b1b.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 10081,
+      "sourceSha256": "837a35570ecf2b088c27a3f42427e981a6584c4f23bb43a19afbe306fe103865",
+      "localSha256": "837a35570ecf2b088c27a3f42427e981a6584c4f23bb43a19afbe306fe103865"
+    },
+    {
+      "url": "https://ipfs.loot.family/2kd2xL7AUpXpPq8UU7rGj7Dw4KcC18k3W3WvmcC6wH7E.jpg",
+      "localPath": "public/captured/external/48910d8a72630e5dba578595.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 54090,
+      "sourceSha256": "52545656e452858fcce25921dd6deca2002df01939cef8e13283b5d7b16158c9",
+      "localSha256": "52545656e452858fcce25921dd6deca2002df01939cef8e13283b5d7b16158c9"
+    },
+    {
+      "url": "https://ipfs.loot.family/3AeT8zcP75btKBRPXFcLzkQc35HZsx2QxV6xEphia9fV.png",
+      "localPath": "public/captured/external/15766c76257c3c075aada061.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 141246,
+      "sourceSha256": "cdf7248877760557d226d9c0217b66f90d21c07ae7e12bc1951e789bcb8afd85",
+      "localSha256": "cdf7248877760557d226d9c0217b66f90d21c07ae7e12bc1951e789bcb8afd85"
+    },
+    {
+      "url": "https://ipfs.loot.family/3hRdUQVEXd1jBu2RerCYbqHCegVPi6VJjQiPMmnMPccb.png",
+      "localPath": "public/captured/external/3cfd5407efdc16161684c9ca.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 897654,
+      "sourceSha256": "4861f9d5b884f1a622e9faf5c85539c75293cfee0820e61778df61c0bb49a3b5",
+      "localSha256": "4861f9d5b884f1a622e9faf5c85539c75293cfee0820e61778df61c0bb49a3b5"
+    },
+    {
+      "url": "https://ipfs.loot.family/45Nj1ix4Cs2csYhS6q57KhxQHWvBrWgSuEyYwi1FjYfG.jpg",
+      "localPath": "public/captured/external/ebcc0fb2aeb6208cf5bda441.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 5382,
+      "sourceSha256": "4db861c4301bfd58e3dfe2e41aa1eb04735e31021f6660ef67904562e1712b7e",
+      "localSha256": "4db861c4301bfd58e3dfe2e41aa1eb04735e31021f6660ef67904562e1712b7e"
+    },
+    {
+      "url": "https://ipfs.loot.family/496DXUNhYrWXvUTRCPDjXhbCashgd6JVVAhAUikjbrwN.jpg",
+      "localPath": "public/captured/external/a2ebd5c0cfa2467f81cf81a9.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 12780,
+      "sourceSha256": "e8f28b568dadf51f7566479b0d2f8fa10a41893f63b6a5e16916a46943dec0ed",
+      "localSha256": "e8f28b568dadf51f7566479b0d2f8fa10a41893f63b6a5e16916a46943dec0ed"
+    },
+    {
+      "url": "https://ipfs.loot.family/4kZkqqUVn8bkYi8xA7gRzpiMEgoimdqhYhCddi5CjKv1.png",
+      "localPath": "public/captured/external/692f091e1c072a6628a83841.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 34224,
+      "sourceSha256": "19138bc51f0c4f0f2024cd4fb613c1869b660e077239b4cad78631d176d8680e",
+      "localSha256": "19138bc51f0c4f0f2024cd4fb613c1869b660e077239b4cad78631d176d8680e"
+    },
+    {
+      "url": "https://ipfs.loot.family/6bHt9k2DEpv1W56UsmpEaBgCUdfQStZSME6xsecZgmN9.png",
+      "localPath": "public/captured/external/c54825744f17e1e938076aaa.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 272865,
+      "sourceSha256": "69e243bef31cc47a860d9da064ebfb195e68f387e5c8d7496d565a7b5f209884",
+      "localSha256": "69e243bef31cc47a860d9da064ebfb195e68f387e5c8d7496d565a7b5f209884"
+    },
+    {
+      "url": "https://ipfs.loot.family/6wj8ndCEfQuhcZBG9skku7BU3FZKZiqn1YWnbGGeN3CJ.jpg",
+      "localPath": "public/captured/external/ecb3d50184ad288df5a8781d.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 30283,
+      "sourceSha256": "08fe7b64a8174353f2d85ec60dfa9c64fbea0dacd9b6fe93e9a1c5eef75a938f",
+      "localSha256": "08fe7b64a8174353f2d85ec60dfa9c64fbea0dacd9b6fe93e9a1c5eef75a938f"
+    },
+    {
+      "url": "https://ipfs.loot.family/7DJ4XhGjWxuacBmysz7UvrMJuD4mm84kdjmQjt3fG9YG.jpg",
+      "localPath": "public/captured/external/f76383e9c06b78e7162d9bd1.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 21159,
+      "sourceSha256": "bb76f118f15ac79700bd5d1abed6bbb6161918d1e63ac24800c57a4a5513cdbc",
+      "localSha256": "bb76f118f15ac79700bd5d1abed6bbb6161918d1e63ac24800c57a4a5513cdbc"
+    },
+    {
+      "url": "https://ipfs.loot.family/7hanRdPzQLS5LUeHa4PdznRs9H74GfQrtzN72r16Zo2Q.png",
+      "localPath": "public/captured/external/c128b08cd4b1cf93621e4614.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 1255796,
+      "sourceSha256": "d3afeab03d06316e443c95d81db98d67b73a353d0c20b2d07d9368ca55825f2e",
+      "localSha256": "d3afeab03d06316e443c95d81db98d67b73a353d0c20b2d07d9368ca55825f2e"
+    },
+    {
+      "url": "https://ipfs.loot.family/8YhXTtgLqG4S4Pv7graKpD3bNgjccG2MEhXHoRNCWP12.png",
+      "localPath": "public/captured/external/58bad0c5a9b4819d9f4d5e61.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 1611376,
+      "sourceSha256": "c6b485852c8e6b0ae381939b2587c2972360da9dd6eb1dcc868f48c716d549fa",
+      "localSha256": "c6b485852c8e6b0ae381939b2587c2972360da9dd6eb1dcc868f48c716d549fa"
+    },
+    {
+      "url": "https://ipfs.loot.family/8vLn15PE7P8qP2rgDcrHgo1U4SvMqWzoG575x2cdioos.jpg",
+      "localPath": "public/captured/external/af70df6cf487501a9898a5e5.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 22240,
+      "sourceSha256": "ae0ed5244a15a7a3b409adf77e0e8a78183dd94fc870f013520b474d0ed7a7a3",
+      "localSha256": "ae0ed5244a15a7a3b409adf77e0e8a78183dd94fc870f013520b474d0ed7a7a3"
+    },
+    {
+      "url": "https://ipfs.loot.family/9DjPxXa8q822rwqSTHTPv62mPZtbCooFpsvnH4g2JmSx.png",
+      "localPath": "public/captured/external/b7bd943f274c7959dcf2856c.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 324648,
+      "sourceSha256": "a790246b7f95087261d508e1903c542b896cbecb8100eb1fbcc497b4523d3462",
+      "localSha256": "a790246b7f95087261d508e1903c542b896cbecb8100eb1fbcc497b4523d3462"
+    },
+    {
+      "url": "https://ipfs.loot.family/9pJxDsQUWLQ7XWHVSsQDAA6Wbp28EtsrZNZU2on1K8x8.jpg",
+      "localPath": "public/captured/external/9c6016e57060a4340fdbba38.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 30095,
+      "sourceSha256": "ca4abe6d15225b5234578f12dc2058a4efe62789c63310f1569d7c2d0b2b4106",
+      "localSha256": "ca4abe6d15225b5234578f12dc2058a4efe62789c63310f1569d7c2d0b2b4106"
+    },
+    {
+      "url": "https://ipfs.loot.family/ASmUo1Z3B2Y8RN7H8ZrYj8ingDZhhRC83KR4eiDp1W6n.png",
+      "localPath": "public/captured/external/8d2bb2c492854da9c26de0c8.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 13809,
+      "sourceSha256": "27447694d152550cf11295a5357dbdebccedaa71a92d589b528be03f572413cd",
+      "localSha256": "27447694d152550cf11295a5357dbdebccedaa71a92d589b528be03f572413cd"
+    },
+    {
+      "url": "https://ipfs.loot.family/B8MVTdZYp14A1GtnNS15Yexb3BiHwhUC1f7HbtypNnQ2.jpg",
+      "localPath": "public/captured/external/4ca872b401c9f87470e5efde.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 94400,
+      "sourceSha256": "776f720f0291eb90e7a9d074ea9a3b7b91568516fbd37f89b163e76cf84562c5",
+      "localSha256": "776f720f0291eb90e7a9d074ea9a3b7b91568516fbd37f89b163e76cf84562c5"
+    },
+    {
+      "url": "https://ipfs.loot.family/BGgxPseJPkPtVcMiYHRKn8M6pm6YrFJPQ2qJNdqwYKBy.png",
+      "localPath": "public/captured/external/7d518240832de93c729bc254.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 148114,
+      "sourceSha256": "fe9a8881e373f1221e8e7948abf732cd29e554ab39c5f2d369ad047e66630a05",
+      "localSha256": "fe9a8881e373f1221e8e7948abf732cd29e554ab39c5f2d369ad047e66630a05"
+    },
+    {
+      "url": "https://ipfs.loot.family/CC7K28oMUqtP7j8m7275jjYpfwbLQVo2gwXf1LwYtTbE.png",
+      "localPath": "public/captured/external/90a71eecfd23b42008872f54.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 362259,
+      "sourceSha256": "9ad5aa1d7c3366c7805dee3ee24fdf664f38628bc1a54d12bcde8c73af9aeae8",
+      "localSha256": "9ad5aa1d7c3366c7805dee3ee24fdf664f38628bc1a54d12bcde8c73af9aeae8"
+    },
+    {
+      "url": "https://ipfs.loot.family/E7FRv1j8kttugoMhSX5BinWqpPvoMEzyrTTorSet6n4r.jpg",
+      "localPath": "public/captured/external/72ca868dd89fb167ff723fc7.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 168111,
+      "sourceSha256": "af9ac48aa1148202c2328a6eaedebb3dce9b7778e710449d8e0584702a342a59",
+      "localSha256": "af9ac48aa1148202c2328a6eaedebb3dce9b7778e710449d8e0584702a342a59"
+    },
+    {
+      "url": "https://ipfs.loot.family/ECEBKXdwht5fWqJmpiyPxTR1JQ4h1KaSE6h5A5QdhedY.png",
+      "localPath": "public/captured/external/860b14a4da6a867b55e2d73c.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 83146,
+      "sourceSha256": "dbacbfdac5509d4a46974adf7333429330ca79c64051c9605e3ecfe7650340cc",
+      "localSha256": "dbacbfdac5509d4a46974adf7333429330ca79c64051c9605e3ecfe7650340cc"
+    },
+    {
+      "url": "https://ipfs.loot.family/F2NFNh8rE15W3X42kfW5ccrPpJVeM6KdReQdBPqvuF13.png",
+      "localPath": "public/captured/external/a647c866e089f2c9dae3a60b.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 12778,
+      "sourceSha256": "fff971fc49b63f8d9ae05d4cd4d3059d163f297a316133a47919f0c83c2adfeb",
+      "localSha256": "fff971fc49b63f8d9ae05d4cd4d3059d163f297a316133a47919f0c83c2adfeb"
+    },
+    {
+      "url": "https://ipfs.loot.family/Fikz6Py5GT22wKDsRcT8dd4M6r7Dg5jVCENwU5f4iP3j.png",
+      "localPath": "public/captured/external/cfccda89d33f4aabc7b166f8.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 189808,
+      "sourceSha256": "cb6b407408d7d15ed4a29dca7ee3937facc60a175bb377374f4816a564b3acd1",
+      "localSha256": "cb6b407408d7d15ed4a29dca7ee3937facc60a175bb377374f4816a564b3acd1"
+    },
+    {
+      "url": "https://ipfs.loot.family/Gzt2nw8MUVDZxE3mwjUdwcMRi2z1rd3H2y8k9XwhUkNe.jpg",
+      "localPath": "public/captured/external/571dc05c8aeb283ffb17023b.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 10441,
+      "sourceSha256": "9f6a888dbfe46a1c151d418903a3182dadd8779ebe08f758e81283977708a1fd",
+      "localSha256": "9f6a888dbfe46a1c151d418903a3182dadd8779ebe08f758e81283977708a1fd"
+    },
+    {
+      "url": "https://ipfs.loot.family/HFqWyvmzw4NCfvpXgXPGedyEfBK4wu56bhvMkbNNG4G4.jpg",
+      "localPath": "public/captured/external/ff46be9f1ba4dacad25e865b.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 13436,
+      "sourceSha256": "fa5ce157077110f1261126b925be06ab455535a7fd36eaed6a0ebf003a6bef35",
+      "localSha256": "fa5ce157077110f1261126b925be06ab455535a7fd36eaed6a0ebf003a6bef35"
+    },
+    {
+      "url": "https://ipfs.loot.family/f8tM45wefetDmtWmBFuxw3w5NLP8t2oamACZE1xmkiE.jpg",
+      "localPath": "public/captured/external/76430c8636cd55d134dd38b9.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 1219961,
+      "sourceSha256": "8109e31d5a13acf48bf5e04c99a26462e37b328dac0c2a5dec1ccae38802b934",
+      "localSha256": "8109e31d5a13acf48bf5e04c99a26462e37b328dac0c2a5dec1ccae38802b934"
+    },
+    {
+      "url": "https://loot.family/apple-touch-icon.png?v=3",
+      "localPath": "public/apple-touch-icon.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 3924,
+      "sourceSha256": "67a590b62ca3221f2b4ab78dee287dbbf71f3c0e02a3016d58a15aeccc260951",
+      "localSha256": "67a590b62ca3221f2b4ab78dee287dbbf71f3c0e02a3016d58a15aeccc260951"
+    },
+    {
+      "url": "https://loot.family/assets/esm-Ao4RdKMv.js",
+      "localPath": "public/assets/esm-Ao4RdKMv.js",
+      "status": 200,
+      "contentType": "text/javascript; charset=utf-8",
+      "bytes": 28712,
+      "sourceSha256": "be1bc8a662561b17f6419147855817ca9a2b7b133fb550cf62d648a7694f94dd",
+      "localSha256": "be1bc8a662561b17f6419147855817ca9a2b7b133fb550cf62d648a7694f94dd"
+    },
+    {
+      "url": "https://loot.family/assets/index-CU_PDl1A.js",
+      "localPath": "public/assets/index-CU_PDl1A.js",
+      "status": 200,
+      "contentType": "text/javascript; charset=utf-8",
+      "bytes": 532548,
+      "sourceSha256": "df3184a4989b03b7bc2302fee378cc4f181ad521571b0b645eaff2923486a25e",
+      "localSha256": "c75224afc715fb4a55f33e195ead7d3f79cecf63ab3160b4485c4ef8f1c4c14d",
+      "localTransforms": [
+        "reference credential removed",
+        "operator signing/upload disabled",
+        "owned read adapters"
+      ]
+    },
+    {
+      "url": "https://loot.family/assets/index-wu3DtAAd.css",
+      "localPath": "public/assets/index-wu3DtAAd.css",
+      "status": 200,
+      "contentType": "text/css; charset=utf-8",
+      "bytes": 81086,
+      "sourceSha256": "0632873a151ee54ea37f5a75dcf3ad443ff61d505a29aed3728d21446d73c528",
+      "localSha256": "0632873a151ee54ea37f5a75dcf3ad443ff61d505a29aed3728d21446d73c528"
+    },
+    {
+      "url": "https://loot.family/assets/loot-pre.jpg",
+      "localPath": "public/assets/loot-pre.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 55707,
+      "sourceSha256": "79f62c28e3f0935266c872e7cf9d67a19a6a8d971ae8c2e3f92b00ea1344966a",
+      "localSha256": "79f62c28e3f0935266c872e7cf9d67a19a6a8d971ae8c2e3f92b00ea1344966a"
+    },
+    {
+      "url": "https://loot.family/assets/loot-pre.mp4",
+      "localPath": "public/assets/loot-pre.mp4",
+      "status": 200,
+      "contentType": "video/mp4",
+      "bytes": 28090142,
+      "sourceSha256": "99624d11f31e01ae23b369c783e9e27c0631f416e49d70b01b89b344b1b39323",
+      "localSha256": "99624d11f31e01ae23b369c783e9e27c0631f416e49d70b01b89b344b1b39323"
+    },
+    {
+      "url": "https://loot.family/assets/loot-token.png",
+      "localPath": "public/assets/loot-token.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 998916,
+      "sourceSha256": "1743d06dcdd94bbfb245adcf8dac909d2f3dae48c96ff18ca27217fda8b5d299",
+      "localSha256": "1743d06dcdd94bbfb245adcf8dac909d2f3dae48c96ff18ca27217fda8b5d299"
+    },
+    {
+      "url": "https://loot.family/assets/meta-banner.png",
+      "localPath": "public/assets/meta-banner.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 1232487,
+      "sourceSha256": "9b894de0d41a60c79dd654c513f9fcfef7525bccc800c06757edff5e4a60f259",
+      "localSha256": "9b894de0d41a60c79dd654c513f9fcfef7525bccc800c06757edff5e4a60f259"
+    },
+    {
+      "url": "https://loot.family/assets/pump.png",
+      "localPath": "public/assets/pump.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 107810,
+      "sourceSha256": "6a30b5df3f9efc0126e128ddada41e4b1a953972f963147034ac5799c8cb2f3b",
+      "localSha256": "6a30b5df3f9efc0126e128ddada41e4b1a953972f963147034ac5799c8cb2f3b"
+    },
+    {
+      "url": "https://loot.family/assets/react-vendor-xf9qCNBR.js",
+      "localPath": "public/assets/react-vendor-xf9qCNBR.js",
+      "status": 200,
+      "contentType": "text/javascript; charset=utf-8",
+      "bytes": 258772,
+      "sourceSha256": "5da3daec0dffe90f0f18c0fa069ed0d5c82daf0b127bbec526729855b6825749",
+      "localSha256": "5da3daec0dffe90f0f18c0fa069ed0d5c82daf0b127bbec526729855b6825749"
+    },
+    {
+      "url": "https://loot.family/assets/rolldown-runtime-B0Z9INg1.js",
+      "localPath": "public/assets/rolldown-runtime-B0Z9INg1.js",
+      "status": 200,
+      "contentType": "text/javascript; charset=utf-8",
+      "bytes": 901,
+      "sourceSha256": "5e9b0d884d2ebb14e241ab38b43e41efb61bce2e74d71507b0b95b264fba4047",
+      "localSha256": "5e9b0d884d2ebb14e241ab38b43e41efb61bce2e74d71507b0b95b264fba4047"
+    },
+    {
+      "url": "https://loot.family/assets/sol.png",
+      "localPath": "public/assets/sol.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 54309,
+      "sourceSha256": "b0fb83e48d1b455333436ae158cd9e547b7493ef4f5b2d5de3d678e93a994d4c",
+      "localSha256": "b0fb83e48d1b455333436ae158cd9e547b7493ef4f5b2d5de3d678e93a994d4c"
+    },
+    {
+      "url": "https://loot.family/assets/solana-vendor-3-pf1RyL.js",
+      "localPath": "public/assets/solana-vendor-3-pf1RyL.js",
+      "status": 200,
+      "contentType": "text/javascript; charset=utf-8",
+      "bytes": 479283,
+      "sourceSha256": "43f3750b897261fb9defc77bad5a0ab33da39d82fb95ee9b080f1a112159ab21",
+      "localSha256": "43f3750b897261fb9defc77bad5a0ab33da39d82fb95ee9b080f1a112159ab21"
+    },
+    {
+      "url": "https://loot.family/brand-mark.png",
+      "localPath": "public/brand-mark.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 39606,
+      "sourceSha256": "dcf7d769d0f001b6b50a7703f9907196953eed43ba98fed27b62e88aa0ec0764",
+      "localSha256": "dcf7d769d0f001b6b50a7703f9907196953eed43ba98fed27b62e88aa0ec0764"
+    },
+    {
+      "url": "https://loot.family/brands/banners/abercrombie.png",
+      "localPath": "public/brands/banners/abercrombie.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 36593,
+      "sourceSha256": "a131a0d0d36369f09b13eb1f5c741ffacd38bb6798af0310cb55cf9309e29ceb",
+      "localSha256": "a131a0d0d36369f09b13eb1f5c741ffacd38bb6798af0310cb55cf9309e29ceb"
+    },
+    {
+      "url": "https://loot.family/brands/banners/adidas.png",
+      "localPath": "public/brands/banners/adidas.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 43047,
+      "sourceSha256": "55ee1d71ea5f3ae4b5a293575dcbb0c1c983e9a4e4094638c53fc0f966bc58a6",
+      "localSha256": "55ee1d71ea5f3ae4b5a293575dcbb0c1c983e9a4e4094638c53fc0f966bc58a6"
+    },
+    {
+      "url": "https://loot.family/brands/banners/airbnb.png",
+      "localPath": "public/brands/banners/airbnb.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 274021,
+      "sourceSha256": "07fa1e2c0d12d1fe5b6b22cf256ff95a78feb947797fa59a1956601e11d745ba",
+      "localSha256": "07fa1e2c0d12d1fe5b6b22cf256ff95a78feb947797fa59a1956601e11d745ba"
+    },
+    {
+      "url": "https://loot.family/brands/banners/aldi.png",
+      "localPath": "public/brands/banners/aldi.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 282247,
+      "sourceSha256": "00c8e23e0b91e4305f7b6517b4c4be3440517636cd90061e3ae55ea27c336752",
+      "localSha256": "00c8e23e0b91e4305f7b6517b4c4be3440517636cd90061e3ae55ea27c336752"
+    },
+    {
+      "url": "https://loot.family/brands/banners/amazon.png",
+      "localPath": "public/brands/banners/amazon.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 37300,
+      "sourceSha256": "ecac8e886af15d790292d6e457773c92c00ca64955e2844a00c75cdad0ed13d0",
+      "localSha256": "ecac8e886af15d790292d6e457773c92c00ca64955e2844a00c75cdad0ed13d0"
+    },
+    {
+      "url": "https://loot.family/brands/banners/amc.png",
+      "localPath": "public/brands/banners/amc.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 43767,
+      "sourceSha256": "46f521836e22974cf88bc52e28ecfd3b4398dc987cb1b21a85c1fcef1fc7199d",
+      "localSha256": "46f521836e22974cf88bc52e28ecfd3b4398dc987cb1b21a85c1fcef1fc7199d"
+    },
+    {
+      "url": "https://loot.family/brands/banners/app-store.png",
+      "localPath": "public/brands/banners/app-store.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 274235,
+      "sourceSha256": "7dafcb5359a1da7c71b220a8a9db5974cad375ce72a28b10903eaba32cf8472c",
+      "localSha256": "7dafcb5359a1da7c71b220a8a9db5974cad375ce72a28b10903eaba32cf8472c"
+    },
+    {
+      "url": "https://loot.family/brands/banners/apple.png",
+      "localPath": "public/brands/banners/apple.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 34970,
+      "sourceSha256": "5952864f79890437126cfc6c5ee634d4a409aa7b8a9ab3ad54003eb712b233a2",
+      "localSha256": "5952864f79890437126cfc6c5ee634d4a409aa7b8a9ab3ad54003eb712b233a2"
+    },
+    {
+      "url": "https://loot.family/brands/banners/asos.png",
+      "localPath": "public/brands/banners/asos.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 86316,
+      "sourceSha256": "0946a27e82ef65a5af113a34512462e4b83b37d9dbc38e4d1af8ff34181142fe",
+      "localSha256": "0946a27e82ef65a5af113a34512462e4b83b37d9dbc38e4d1af8ff34181142fe"
+    },
+    {
+      "url": "https://loot.family/brands/banners/banana-republic.png",
+      "localPath": "public/brands/banners/banana-republic.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 63863,
+      "sourceSha256": "583ab062d9aa38bd78e4ea84398bf68f5ec1b73de7aca21193d5dac394d5b634",
+      "localSha256": "583ab062d9aa38bd78e4ea84398bf68f5ec1b73de7aca21193d5dac394d5b634"
+    },
+    {
+      "url": "https://loot.family/brands/banners/baskin-robbins.png",
+      "localPath": "public/brands/banners/baskin-robbins.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 60096,
+      "sourceSha256": "68e11b0befa4a9c1526be41a88e839c8a5e1f542aa07587fb0a87bdf75a6552a",
+      "localSha256": "68e11b0befa4a9c1526be41a88e839c8a5e1f542aa07587fb0a87bdf75a6552a"
+    },
+    {
+      "url": "https://loot.family/brands/banners/bath-body-works.png",
+      "localPath": "public/brands/banners/bath-body-works.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 55991,
+      "sourceSha256": "bf829f1b3cf3fa54d7d020d8aae189ade70d741314ef194f081a955ce83ac969",
+      "localSha256": "bf829f1b3cf3fa54d7d020d8aae189ade70d741314ef194f081a955ce83ac969"
+    },
+    {
+      "url": "https://loot.family/brands/banners/battle-net.png",
+      "localPath": "public/brands/banners/battle-net.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 272295,
+      "sourceSha256": "1efd42ddbfe1eb72ff822431ccb305ac5e85dd1bc3b0a35f5963be17b26753e9",
+      "localSha256": "1efd42ddbfe1eb72ff822431ccb305ac5e85dd1bc3b0a35f5963be17b26753e9"
+    },
+    {
+      "url": "https://loot.family/brands/banners/best-buy.png",
+      "localPath": "public/brands/banners/best-buy.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 74965,
+      "sourceSha256": "6ab0ed4bb7ff47bf41301b86847ec15bfce49ba7319c98ed377d6235325bb607",
+      "localSha256": "6ab0ed4bb7ff47bf41301b86847ec15bfce49ba7319c98ed377d6235325bb607"
+    },
+    {
+      "url": "https://loot.family/brands/banners/birkenstock.png",
+      "localPath": "public/brands/banners/birkenstock.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 84154,
+      "sourceSha256": "6354946a51c27320508f3cedcbff38e6c2b5cc5b4a58d42b35adbdbcf2eb5ab6",
+      "localSha256": "6354946a51c27320508f3cedcbff38e6c2b5cc5b4a58d42b35adbdbcf2eb5ab6"
+    },
+    {
+      "url": "https://loot.family/brands/banners/buffalo-wild-wings.png",
+      "localPath": "public/brands/banners/buffalo-wild-wings.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 68242,
+      "sourceSha256": "d6939c27657bdf528d7113a986e69a16c1e16a2905e3eeed5602f2419742ac4c",
+      "localSha256": "d6939c27657bdf528d7113a986e69a16c1e16a2905e3eeed5602f2419742ac4c"
+    },
+    {
+      "url": "https://loot.family/brands/banners/build-a-bear.png",
+      "localPath": "public/brands/banners/build-a-bear.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 71853,
+      "sourceSha256": "f55cb166e6d764ac8e5805ace5d9fdb8f967b77a43a11e15aae8a65750f9bc43",
+      "localSha256": "f55cb166e6d764ac8e5805ace5d9fdb8f967b77a43a11e15aae8a65750f9bc43"
+    },
+    {
+      "url": "https://loot.family/brands/banners/burger-king.png",
+      "localPath": "public/brands/banners/burger-king.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 29027,
+      "sourceSha256": "93c9bf1e9b4e467021b717251a924105a492f656fcf2192a800e51638e56f955",
+      "localSha256": "93c9bf1e9b4e467021b717251a924105a492f656fcf2192a800e51638e56f955"
+    },
+    {
+      "url": "https://loot.family/brands/banners/calvin-klein.png",
+      "localPath": "public/brands/banners/calvin-klein.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 86491,
+      "sourceSha256": "3c31edd7b075f471097c5ba79f11402537aeb3c26034260b1124091328ba89a7",
+      "localSha256": "3c31edd7b075f471097c5ba79f11402537aeb3c26034260b1124091328ba89a7"
+    },
+    {
+      "url": "https://loot.family/brands/banners/carrefour.png",
+      "localPath": "public/brands/banners/carrefour.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 51139,
+      "sourceSha256": "cd463e287d504f06e1e29fc251dcbcd87c7ee88180d4261a96afb7fec045600b",
+      "localSha256": "cd463e287d504f06e1e29fc251dcbcd87c7ee88180d4261a96afb7fec045600b"
+    },
+    {
+      "url": "https://loot.family/brands/banners/chipotle.png",
+      "localPath": "public/brands/banners/chipotle.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 271124,
+      "sourceSha256": "f428784dc869cec640f9085994079854e090ea67ea58d0759082ad478b1bef97",
+      "localSha256": "f428784dc869cec640f9085994079854e090ea67ea58d0759082ad478b1bef97"
+    },
+    {
+      "url": "https://loot.family/brands/banners/coles.png",
+      "localPath": "public/brands/banners/coles.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 52324,
+      "sourceSha256": "32cbf6fc3d9f03275a2f7ca2a1f95a1fda99cd76e1ccffae1d7c95ea3e7fdd61",
+      "localSha256": "32cbf6fc3d9f03275a2f7ca2a1f95a1fda99cd76e1ccffae1d7c95ea3e7fdd61"
+    },
+    {
+      "url": "https://loot.family/brands/banners/costa-coffee.png",
+      "localPath": "public/brands/banners/costa-coffee.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 50348,
+      "sourceSha256": "a421544e4dddbb5fefb1fd8db9f93fe072c8568426fecdb17258377ae746c275",
+      "localSha256": "a421544e4dddbb5fefb1fd8db9f93fe072c8568426fecdb17258377ae746c275"
+    },
+    {
+      "url": "https://loot.family/brands/banners/crocs.png",
+      "localPath": "public/brands/banners/crocs.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 95451,
+      "sourceSha256": "08e15253e997f201bc4b9ae81712572dd11f5f8ead6ba786756f88ec051bb1a3",
+      "localSha256": "08e15253e997f201bc4b9ae81712572dd11f5f8ead6ba786756f88ec051bb1a3"
+    },
+    {
+      "url": "https://loot.family/brands/banners/crunchyroll.png",
+      "localPath": "public/brands/banners/crunchyroll.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 274591,
+      "sourceSha256": "274c8ca59eb6a59b6913293077b0cc12eebffe329d95bb02926c241a04251ffe",
+      "localSha256": "274c8ca59eb6a59b6913293077b0cc12eebffe329d95bb02926c241a04251ffe"
+    },
+    {
+      "url": "https://loot.family/brands/banners/cvs.png",
+      "localPath": "public/brands/banners/cvs.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 272776,
+      "sourceSha256": "84214cb445168e3dbab3be79eb78a2bbc2e6450bf712033dbbf3aa46ff8bbe84",
+      "localSha256": "84214cb445168e3dbab3be79eb78a2bbc2e6450bf712033dbbf3aa46ff8bbe84"
+    },
+    {
+      "url": "https://loot.family/brands/banners/dave-busters.png",
+      "localPath": "public/brands/banners/dave-busters.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 76779,
+      "sourceSha256": "ec3d799109f024f4b3f579fe909c7862979b9045e09306f2ff654f595b42f395",
+      "localSha256": "ec3d799109f024f4b3f579fe909c7862979b9045e09306f2ff654f595b42f395"
+    },
+    {
+      "url": "https://loot.family/brands/banners/dazn.png",
+      "localPath": "public/brands/banners/dazn.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 53943,
+      "sourceSha256": "08ed03bd2450cb71ee2117e5f242029cdccb7a12212fac9ac3add4410d480b8b",
+      "localSha256": "08ed03bd2450cb71ee2117e5f242029cdccb7a12212fac9ac3add4410d480b8b"
+    },
+    {
+      "url": "https://loot.family/brands/banners/decathlon.png",
+      "localPath": "public/brands/banners/decathlon.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 24361,
+      "sourceSha256": "944541cf4d78882d2d106725ccfe261f8ed7dd27f288c4784973107368e462df",
+      "localSha256": "944541cf4d78882d2d106725ccfe261f8ed7dd27f288c4784973107368e462df"
+    },
+    {
+      "url": "https://loot.family/brands/banners/deezer.png",
+      "localPath": "public/brands/banners/deezer.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 47729,
+      "sourceSha256": "f97dfc7aba05b68df54092f1f4fc2f51ca81aaaeda494e3cbd3f0b75f44cb8dd",
+      "localSha256": "f97dfc7aba05b68df54092f1f4fc2f51ca81aaaeda494e3cbd3f0b75f44cb8dd"
+    },
+    {
+      "url": "https://loot.family/brands/banners/deliveroo.png",
+      "localPath": "public/brands/banners/deliveroo.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 34484,
+      "sourceSha256": "84886a7eef6702d1031dfa7ee447c91e6e6e2269b912a43c9c3c658c6014dd8b",
+      "localSha256": "84886a7eef6702d1031dfa7ee447c91e6e6e2269b912a43c9c3c658c6014dd8b"
+    },
+    {
+      "url": "https://loot.family/brands/banners/delta.png",
+      "localPath": "public/brands/banners/delta.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 43198,
+      "sourceSha256": "4d324b0fc8575a21a10b219b9ce30dd17e4bfbe5592a0d10b001d27cfe20b373",
+      "localSha256": "4d324b0fc8575a21a10b219b9ce30dd17e4bfbe5592a0d10b001d27cfe20b373"
+    },
+    {
+      "url": "https://loot.family/brands/banners/discord.png",
+      "localPath": "public/brands/banners/discord.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 54267,
+      "sourceSha256": "db0261dd1aacb8d0a21c893aea60a47583d74a9d107464b2678ef92ff1e72b79",
+      "localSha256": "db0261dd1aacb8d0a21c893aea60a47583d74a9d107464b2678ef92ff1e72b79"
+    },
+    {
+      "url": "https://loot.family/brands/banners/disney.png",
+      "localPath": "public/brands/banners/disney.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 56556,
+      "sourceSha256": "d069f758959af654c6dd5e073ac76649345abcaf2f5775c9092d0ffcac594bb9",
+      "localSha256": "d069f758959af654c6dd5e073ac76649345abcaf2f5775c9092d0ffcac594bb9"
+    },
+    {
+      "url": "https://loot.family/brands/banners/dominos.png",
+      "localPath": "public/brands/banners/dominos.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 278166,
+      "sourceSha256": "86085ca3b36338c96590a1af0a30e210a05dcf0b9248693fca542c7e9cc410b2",
+      "localSha256": "86085ca3b36338c96590a1af0a30e210a05dcf0b9248693fca542c7e9cc410b2"
+    },
+    {
+      "url": "https://loot.family/brands/banners/doordash.png",
+      "localPath": "public/brands/banners/doordash.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 14521,
+      "sourceSha256": "4198ef2b6a69536b144e5fdb3d18561130a813292c5a2ae5acb40fa9c5b0c291",
+      "localSha256": "4198ef2b6a69536b144e5fdb3d18561130a813292c5a2ae5acb40fa9c5b0c291"
+    },
+    {
+      "url": "https://loot.family/brands/banners/douglas.png",
+      "localPath": "public/brands/banners/douglas.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 37083,
+      "sourceSha256": "55d3b0b7dfbf548824cd540b1a73495c1ae19e9fc15bc1be9e6632b6f9482425",
+      "localSha256": "55d3b0b7dfbf548824cd540b1a73495c1ae19e9fc15bc1be9e6632b6f9482425"
+    },
+    {
+      "url": "https://loot.family/brands/banners/dunkin.png",
+      "localPath": "public/brands/banners/dunkin.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 41709,
+      "sourceSha256": "f9c880b2e2a867510b3ca3cc80e212fe2e7830d1452c9d5755ddb5c5637690b2",
+      "localSha256": "f9c880b2e2a867510b3ca3cc80e212fe2e7830d1452c9d5755ddb5c5637690b2"
+    },
+    {
+      "url": "https://loot.family/brands/banners/ea.png",
+      "localPath": "public/brands/banners/ea.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 14657,
+      "sourceSha256": "ed28f24eb14f528bbf87d1b04d7432fcadbc706c6f409d5bbfe4f1fc429b84e5",
+      "localSha256": "ed28f24eb14f528bbf87d1b04d7432fcadbc706c6f409d5bbfe4f1fc429b84e5"
+    },
+    {
+      "url": "https://loot.family/brands/banners/epic-games.png",
+      "localPath": "public/brands/banners/epic-games.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 48778,
+      "sourceSha256": "82e257d4a19f59db428211a5cb495ba2473e3b2dce2829fd303911db9995495c",
+      "localSha256": "82e257d4a19f59db428211a5cb495ba2473e3b2dce2829fd303911db9995495c"
+    },
+    {
+      "url": "https://loot.family/brands/banners/etsy.png",
+      "localPath": "public/brands/banners/etsy.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 55581,
+      "sourceSha256": "f2ca801844ac5e56896085d1b3c8d6b70afc0544bf09052f872d727fdaae94e1",
+      "localSha256": "f2ca801844ac5e56896085d1b3c8d6b70afc0544bf09052f872d727fdaae94e1"
+    },
+    {
+      "url": "https://loot.family/brands/banners/expedia.png",
+      "localPath": "public/brands/banners/expedia.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 29417,
+      "sourceSha256": "2f10669ce659339dd027b647be3626ebeda1f04d21ae710a911ab916bfc26278",
+      "localSha256": "2f10669ce659339dd027b647be3626ebeda1f04d21ae710a911ab916bfc26278"
+    },
+    {
+      "url": "https://loot.family/brands/banners/five-guys.png",
+      "localPath": "public/brands/banners/five-guys.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 69136,
+      "sourceSha256": "b81394e5304b8cadbc520fec03a478540ffb8c34dfa4b54a0864e3026a4cabdc",
+      "localSha256": "b81394e5304b8cadbc520fec03a478540ffb8c34dfa4b54a0864e3026a4cabdc"
+    },
+    {
+      "url": "https://loot.family/brands/banners/flixbus.png",
+      "localPath": "public/brands/banners/flixbus.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 44188,
+      "sourceSha256": "0e697db0456eb70d5d1fe5e7378542994a4e786ee4797539c3896be0d6c217b2",
+      "localSha256": "0e697db0456eb70d5d1fe5e7378542994a4e786ee4797539c3896be0d6c217b2"
+    },
+    {
+      "url": "https://loot.family/brands/banners/foot-locker.png",
+      "localPath": "public/brands/banners/foot-locker.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 40088,
+      "sourceSha256": "f9ed876421cdf898711542f885d47dfe950fb9d756141cd6915ee073ee5e1091",
+      "localSha256": "f9ed876421cdf898711542f885d47dfe950fb9d756141cd6915ee073ee5e1091"
+    },
+    {
+      "url": "https://loot.family/brands/banners/fortnite.png",
+      "localPath": "public/brands/banners/fortnite.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 54316,
+      "sourceSha256": "5ea38534e723a113b3d8a425c8308c8609487aa6effce59edf8677e531214e41",
+      "localSha256": "5ea38534e723a113b3d8a425c8308c8609487aa6effce59edf8677e531214e41"
+    },
+    {
+      "url": "https://loot.family/brands/banners/gamestop.png",
+      "localPath": "public/brands/banners/gamestop.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 39460,
+      "sourceSha256": "6e5a0d2c300920d71fd1d7a2c71157249049e54d26d0018489a5998defe79c98",
+      "localSha256": "6e5a0d2c300920d71fd1d7a2c71157249049e54d26d0018489a5998defe79c98"
+    },
+    {
+      "url": "https://loot.family/brands/banners/gap.png",
+      "localPath": "public/brands/banners/gap.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 54953,
+      "sourceSha256": "2590ff90ae9806d4f7826e34d541868a424869d41be88e81edbc243b6e11514f",
+      "localSha256": "2590ff90ae9806d4f7826e34d541868a424869d41be88e81edbc243b6e11514f"
+    },
+    {
+      "url": "https://loot.family/brands/banners/google-play.png",
+      "localPath": "public/brands/banners/google-play.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 13029,
+      "sourceSha256": "0291d5e66d7707fde98628b84412f8638a6506c9f6bb18aaa8c30f780ccaabc1",
+      "localSha256": "0291d5e66d7707fde98628b84412f8638a6506c9f6bb18aaa8c30f780ccaabc1"
+    },
+    {
+      "url": "https://loot.family/brands/banners/greggs.png",
+      "localPath": "public/brands/banners/greggs.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 51684,
+      "sourceSha256": "32835ffacae4acd0320c5ba8a087ff33709806e80b252bac90f888f5077074b7",
+      "localSha256": "32835ffacae4acd0320c5ba8a087ff33709806e80b252bac90f888f5077074b7"
+    },
+    {
+      "url": "https://loot.family/brands/banners/grubhub.png",
+      "localPath": "public/brands/banners/grubhub.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 25871,
+      "sourceSha256": "8f5ad6db6af7251402ec3b45418235c46075aa99b1708cf5bda35a426ec5aee4",
+      "localSha256": "8f5ad6db6af7251402ec3b45418235c46075aa99b1708cf5bda35a426ec5aee4"
+    },
+    {
+      "url": "https://loot.family/brands/banners/hellofresh.png",
+      "localPath": "public/brands/banners/hellofresh.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 50257,
+      "sourceSha256": "4f0757e2ae5fe0e615d7339943790c75be02f1a8ce550a6dbb80a6262458375a",
+      "localSha256": "4f0757e2ae5fe0e615d7339943790c75be02f1a8ce550a6dbb80a6262458375a"
+    },
+    {
+      "url": "https://loot.family/brands/banners/hm.png",
+      "localPath": "public/brands/banners/hm.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 61598,
+      "sourceSha256": "a0c65ac6b72037594e1ca8f0586ad3b699058204cf4ad0371046aa69b4436221",
+      "localSha256": "a0c65ac6b72037594e1ca8f0586ad3b699058204cf4ad0371046aa69b4436221"
+    },
+    {
+      "url": "https://loot.family/brands/banners/home-depot.png",
+      "localPath": "public/brands/banners/home-depot.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 77960,
+      "sourceSha256": "917f272666b6a2ee20abdf50a8fe2675983b42195a27dc131f4de33ee09dae67",
+      "localSha256": "917f272666b6a2ee20abdf50a8fe2675983b42195a27dc131f4de33ee09dae67"
+    },
+    {
+      "url": "https://loot.family/brands/banners/hotels.png",
+      "localPath": "public/brands/banners/hotels.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 44181,
+      "sourceSha256": "b3926885c5b6b7cd5d47e166beaebf2b0d4a70794f6dda49965c3a3458fe0db0",
+      "localSha256": "b3926885c5b6b7cd5d47e166beaebf2b0d4a70794f6dda49965c3a3458fe0db0"
+    },
+    {
+      "url": "https://loot.family/brands/banners/hulu.png",
+      "localPath": "public/brands/banners/hulu.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 39521,
+      "sourceSha256": "739cabf2c406e3cab3198a3559a75d8a73450c747c711921283a8323d7c4c8f9",
+      "localSha256": "739cabf2c406e3cab3198a3559a75d8a73450c747c711921283a8323d7c4c8f9"
+    },
+    {
+      "url": "https://loot.family/brands/banners/iberia.png",
+      "localPath": "public/brands/banners/iberia.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 29525,
+      "sourceSha256": "b82316971c8ad093e40054e7e8ee3ecc11d1c43640df4bc73b8b63c097ebca0f",
+      "localSha256": "b82316971c8ad093e40054e7e8ee3ecc11d1c43640df4bc73b8b63c097ebca0f"
+    },
+    {
+      "url": "https://loot.family/brands/banners/ikea.png",
+      "localPath": "public/brands/banners/ikea.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 70602,
+      "sourceSha256": "5d4576030107dd12563a5ca173d983651637822d654a34be73ea1c9676e6da1b",
+      "localSha256": "5d4576030107dd12563a5ca173d983651637822d654a34be73ea1c9676e6da1b"
+    },
+    {
+      "url": "https://loot.family/brands/banners/instacart.png",
+      "localPath": "public/brands/banners/instacart.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 27440,
+      "sourceSha256": "957306a3144f44a87f8b8ff7d8a453d401e657fe8d7832f6caf9cb1a5cec92ce",
+      "localSha256": "957306a3144f44a87f8b8ff7d8a453d401e657fe8d7832f6caf9cb1a5cec92ce"
+    },
+    {
+      "url": "https://loot.family/brands/banners/just-eat.png",
+      "localPath": "public/brands/banners/just-eat.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 36645,
+      "sourceSha256": "949c5ea94d9fcd4b26a6bc40b7d013eecba5a41fc0b2ccd27b183b7bd3b364cf",
+      "localSha256": "949c5ea94d9fcd4b26a6bc40b7d013eecba5a41fc0b2ccd27b183b7bd3b364cf"
+    },
+    {
+      "url": "https://loot.family/brands/banners/kfc.png",
+      "localPath": "public/brands/banners/kfc.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 71985,
+      "sourceSha256": "a0e3581adcd8797f9ff3ba4de22b3d9c8983ffcc7f93c1f65ed83e2e59634997",
+      "localSha256": "a0e3581adcd8797f9ff3ba4de22b3d9c8983ffcc7f93c1f65ed83e2e59634997"
+    },
+    {
+      "url": "https://loot.family/brands/banners/krispy-kreme.png",
+      "localPath": "public/brands/banners/krispy-kreme.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 79572,
+      "sourceSha256": "8ccaed8bb53ce4b7c56f559a0aee10ba8dad541aa8487864436079f2df554be2",
+      "localSha256": "8ccaed8bb53ce4b7c56f559a0aee10ba8dad541aa8487864436079f2df554be2"
+    },
+    {
+      "url": "https://loot.family/brands/banners/kroger.png",
+      "localPath": "public/brands/banners/kroger.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 60080,
+      "sourceSha256": "f4a10a6a5725571c767e7e8dd26bef5865351101885ffe53ac536993ec0564d8",
+      "localSha256": "f4a10a6a5725571c767e7e8dd26bef5865351101885ffe53ac536993ec0564d8"
+    },
+    {
+      "url": "https://loot.family/brands/banners/lastminute.png",
+      "localPath": "public/brands/banners/lastminute.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 35678,
+      "sourceSha256": "1f32d79ac4a6a11f4926ba7b898e3d1b9ca3bddb464757b4b9888fe80c3b1abd",
+      "localSha256": "1f32d79ac4a6a11f4926ba7b898e3d1b9ca3bddb464757b4b9888fe80c3b1abd"
+    },
+    {
+      "url": "https://loot.family/brands/banners/lego.png",
+      "localPath": "public/brands/banners/lego.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 27245,
+      "sourceSha256": "e9b9c9e461fc2626f84cac935ed3e16f6978fde0b9a14ff9eb1fa2ca1cda0304",
+      "localSha256": "e9b9c9e461fc2626f84cac935ed3e16f6978fde0b9a14ff9eb1fa2ca1cda0304"
+    },
+    {
+      "url": "https://loot.family/brands/banners/levis.png",
+      "localPath": "public/brands/banners/levis.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 73623,
+      "sourceSha256": "001a2db5d526d7a0f9936efceb5b1b67c79a795adf58ea39e49fd98a9ebb5fdc",
+      "localSha256": "001a2db5d526d7a0f9936efceb5b1b67c79a795adf58ea39e49fd98a9ebb5fdc"
+    },
+    {
+      "url": "https://loot.family/brands/banners/lowes.png",
+      "localPath": "public/brands/banners/lowes.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 68687,
+      "sourceSha256": "4eade50a0af5851a49b0e1b74b523b8e1de0a75907634c915fe0a9a75b00b7be",
+      "localSha256": "4eade50a0af5851a49b0e1b74b523b8e1de0a75907634c915fe0a9a75b00b7be"
+    },
+    {
+      "url": "https://loot.family/brands/banners/lululemon.png",
+      "localPath": "public/brands/banners/lululemon.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 41833,
+      "sourceSha256": "3805db9e1b150dbefc548b342b4b74eaddceae5e12ccb2d34711053ebf9b3660",
+      "localSha256": "3805db9e1b150dbefc548b342b4b74eaddceae5e12ccb2d34711053ebf9b3660"
+    },
+    {
+      "url": "https://loot.family/brands/banners/lyft.png",
+      "localPath": "public/brands/banners/lyft.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 57152,
+      "sourceSha256": "cb8276950da7f078a2389a793ae7fcdb9a6e01a87cd2629204a73baa4f5c404f",
+      "localSha256": "cb8276950da7f078a2389a793ae7fcdb9a6e01a87cd2629204a73baa4f5c404f"
+    },
+    {
+      "url": "https://loot.family/brands/banners/mango.png",
+      "localPath": "public/brands/banners/mango.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 39619,
+      "sourceSha256": "ac51a2e3a2a818a2036ae7f2450f2c708befb2f0f5acb07cac730493b0627f7c",
+      "localSha256": "ac51a2e3a2a818a2036ae7f2450f2c708befb2f0f5acb07cac730493b0627f7c"
+    },
+    {
+      "url": "https://loot.family/brands/banners/mcdonalds.png",
+      "localPath": "public/brands/banners/mcdonalds.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 20103,
+      "sourceSha256": "0f6741a5a1537cbc4a84f8dbb290408c13b24de692466face3f67d5c50d1b51f",
+      "localSha256": "0f6741a5a1537cbc4a84f8dbb290408c13b24de692466face3f67d5c50d1b51f"
+    },
+    {
+      "url": "https://loot.family/brands/banners/mediamarkt.png",
+      "localPath": "public/brands/banners/mediamarkt.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 38913,
+      "sourceSha256": "3a14b9a770cd506d728d8e720f9858133d3c165ef88539dddaa85ade04d8c2fc",
+      "localSha256": "3a14b9a770cd506d728d8e720f9858133d3c165ef88539dddaa85ade04d8c2fc"
+    },
+    {
+      "url": "https://loot.family/brands/banners/meta-quest.png",
+      "localPath": "public/brands/banners/meta-quest.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 56862,
+      "sourceSha256": "c71eb08130dc8dd44940312956bc3b8ba0f36e78aab8c24475e29ee826104b4a",
+      "localSha256": "c71eb08130dc8dd44940312956bc3b8ba0f36e78aab8c24475e29ee826104b4a"
+    },
+    {
+      "url": "https://loot.family/brands/banners/nandos.png",
+      "localPath": "public/brands/banners/nandos.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 31861,
+      "sourceSha256": "d7f1ce33e290aaed85447785ea2ead1aa3d0bea68458d152e88eb8030ddb5fdf",
+      "localSha256": "d7f1ce33e290aaed85447785ea2ead1aa3d0bea68458d152e88eb8030ddb5fdf"
+    },
+    {
+      "url": "https://loot.family/brands/banners/netflix.png",
+      "localPath": "public/brands/banners/netflix.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 10567,
+      "sourceSha256": "411a1ff32351a40b925261a79bed15a32698c2ddc4dddc6b39f45f5a61ef8e5f",
+      "localSha256": "411a1ff32351a40b925261a79bed15a32698c2ddc4dddc6b39f45f5a61ef8e5f"
+    },
+    {
+      "url": "https://loot.family/brands/banners/nike.png",
+      "localPath": "public/brands/banners/nike.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 28672,
+      "sourceSha256": "cc0e6db4e93dc3978b49909f5b26c162d7f7cdf92c774b26161402f3149b55f0",
+      "localSha256": "cc0e6db4e93dc3978b49909f5b26c162d7f7cdf92c774b26161402f3149b55f0"
+    },
+    {
+      "url": "https://loot.family/brands/banners/nintendo.png",
+      "localPath": "public/brands/banners/nintendo.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 64104,
+      "sourceSha256": "5be3a3dcad58dc14a7c1568d0be67d2580d3c8f3b5df9da58be2dce46fd5634f",
+      "localSha256": "5be3a3dcad58dc14a7c1568d0be67d2580d3c8f3b5df9da58be2dce46fd5634f"
+    },
+    {
+      "url": "https://loot.family/brands/banners/old-navy.png",
+      "localPath": "public/brands/banners/old-navy.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 40189,
+      "sourceSha256": "a8108e9f76c97f86d5c870c30e1eb69eb7f29907516ee01f28c9fbb9d14aa975",
+      "localSha256": "a8108e9f76c97f86d5c870c30e1eb69eb7f29907516ee01f28c9fbb9d14aa975"
+    },
+    {
+      "url": "https://loot.family/brands/banners/olive-garden.png",
+      "localPath": "public/brands/banners/olive-garden.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 65409,
+      "sourceSha256": "22e1b194a30a00c4b81c007e5fb722ac58837318f2ee9d3a77f3f7a946449b69",
+      "localSha256": "22e1b194a30a00c4b81c007e5fb722ac58837318f2ee9d3a77f3f7a946449b69"
+    },
+    {
+      "url": "https://loot.family/brands/banners/panera.png",
+      "localPath": "public/brands/banners/panera.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 71559,
+      "sourceSha256": "a9972fa5296ee7dba1a6cc2c60175f53bd33902895363a1eaebdfa43039f5012",
+      "localSha256": "a9972fa5296ee7dba1a6cc2c60175f53bd33902895363a1eaebdfa43039f5012"
+    },
+    {
+      "url": "https://loot.family/brands/banners/papa-johns.png",
+      "localPath": "public/brands/banners/papa-johns.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 68492,
+      "sourceSha256": "a0cc0af894b20034120d871165ff69c10045581605acc88496911268a91a4983",
+      "localSha256": "a0cc0af894b20034120d871165ff69c10045581605acc88496911268a91a4983"
+    },
+    {
+      "url": "https://loot.family/brands/banners/paramount.png",
+      "localPath": "public/brands/banners/paramount.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 47793,
+      "sourceSha256": "6dc0dcfdfe0fbd6fc3fa0bc7f1514be958f8113ae9a8b0ba0e39376497a2d96a",
+      "localSha256": "6dc0dcfdfe0fbd6fc3fa0bc7f1514be958f8113ae9a8b0ba0e39376497a2d96a"
+    },
+    {
+      "url": "https://loot.family/brands/banners/petsmart.png",
+      "localPath": "public/brands/banners/petsmart.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 35868,
+      "sourceSha256": "33611cc70a1a53de9a04f4e94cd0543f0d005c6a679416f19d77e3cb8299e54e",
+      "localSha256": "33611cc70a1a53de9a04f4e94cd0543f0d005c6a679416f19d77e3cb8299e54e"
+    },
+    {
+      "url": "https://loot.family/brands/banners/pizza-hut.png",
+      "localPath": "public/brands/banners/pizza-hut.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 51546,
+      "sourceSha256": "c627fcbaf216679e069d97286e7c0d72c1f09f37fa2c7ad6ba6fe83a12cb2d88",
+      "localSha256": "c627fcbaf216679e069d97286e7c0d72c1f09f37fa2c7ad6ba6fe83a12cb2d88"
+    },
+    {
+      "url": "https://loot.family/brands/banners/playstation.png",
+      "localPath": "public/brands/banners/playstation.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 16766,
+      "sourceSha256": "f0c0502969f526ca995bc71f2adf956d92240fa40de2a001692cae850633bcd5",
+      "localSha256": "f0c0502969f526ca995bc71f2adf956d92240fa40de2a001692cae850633bcd5"
+    },
+    {
+      "url": "https://loot.family/brands/banners/primark.png",
+      "localPath": "public/brands/banners/primark.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 33994,
+      "sourceSha256": "4baf2c203d46b8b9b5162e9ebc48c3135698a705e1730dd1d7e160326067a2c4",
+      "localSha256": "4baf2c203d46b8b9b5162e9ebc48c3135698a705e1730dd1d7e160326067a2c4"
+    },
+    {
+      "url": "https://loot.family/brands/banners/publix.png",
+      "localPath": "public/brands/banners/publix.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 62189,
+      "sourceSha256": "22d2d84401d6833414a526d167beb5609586a399703a8faaa35ef9b7d314696c",
+      "localSha256": "22d2d84401d6833414a526d167beb5609586a399703a8faaa35ef9b7d314696c"
+    },
+    {
+      "url": "https://loot.family/brands/banners/puma.png",
+      "localPath": "public/brands/banners/puma.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 24106,
+      "sourceSha256": "908ce84c79340f42e5f6e8c6dfd05bb530531e8f5cd9c4e09b2985fb4068d690",
+      "localSha256": "908ce84c79340f42e5f6e8c6dfd05bb530531e8f5cd9c4e09b2985fb4068d690"
+    },
+    {
+      "url": "https://loot.family/brands/banners/rakuten.png",
+      "localPath": "public/brands/banners/rakuten.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 36691,
+      "sourceSha256": "c10d81ddb0d17c5f493e53f9dda17c85e4f99469040ed89b0357a09a36a6f660",
+      "localSha256": "c10d81ddb0d17c5f493e53f9dda17c85e4f99469040ed89b0357a09a36a6f660"
+    },
+    {
+      "url": "https://loot.family/brands/banners/razer-gold.png",
+      "localPath": "public/brands/banners/razer-gold.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 73000,
+      "sourceSha256": "0a9ee1c615115c33e8f1883f734a4a5e01c1eb3bfa8912c5edf406d59008bf21",
+      "localSha256": "0a9ee1c615115c33e8f1883f734a4a5e01c1eb3bfa8912c5edf406d59008bf21"
+    },
+    {
+      "url": "https://loot.family/brands/banners/roblox.png",
+      "localPath": "public/brands/banners/roblox.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 22589,
+      "sourceSha256": "524f5febf106f7d11cb12d86b1c295617db5c2cd546c5d88273ceaf4e272f458",
+      "localSha256": "524f5febf106f7d11cb12d86b1c295617db5c2cd546c5d88273ceaf4e272f458"
+    },
+    {
+      "url": "https://loot.family/brands/banners/safeway.png",
+      "localPath": "public/brands/banners/safeway.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 43240,
+      "sourceSha256": "bd73ee4a93e22b33f5c75d8082e76fe0d46d35ae3b918994bc1a2f71179594b8",
+      "localSha256": "bd73ee4a93e22b33f5c75d8082e76fe0d46d35ae3b918994bc1a2f71179594b8"
+    },
+    {
+      "url": "https://loot.family/brands/banners/sephora.png",
+      "localPath": "public/brands/banners/sephora.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 48776,
+      "sourceSha256": "b7e5842e4594566a8a9c3bc5aecbd66cf4c344e85f611427449aa3629880fb2a",
+      "localSha256": "b7e5842e4594566a8a9c3bc5aecbd66cf4c344e85f611427449aa3629880fb2a"
+    },
+    {
+      "url": "https://loot.family/brands/banners/shake-shack.png",
+      "localPath": "public/brands/banners/shake-shack.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 94164,
+      "sourceSha256": "25a33b08e509f110400226870fa7ce398aad8596e66779854cca9788b5117451",
+      "localSha256": "25a33b08e509f110400226870fa7ce398aad8596e66779854cca9788b5117451"
+    },
+    {
+      "url": "https://loot.family/brands/banners/shein.png",
+      "localPath": "public/brands/banners/shein.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 58368,
+      "sourceSha256": "d0b309742cdc437bc697bbfea21d4de61365889701cc81dab260e8d7cfceaf74",
+      "localSha256": "d0b309742cdc437bc697bbfea21d4de61365889701cc81dab260e8d7cfceaf74"
+    },
+    {
+      "url": "https://loot.family/brands/banners/shopee.png",
+      "localPath": "public/brands/banners/shopee.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 33478,
+      "sourceSha256": "24e78612e38ec93bad387f6eb441a81b3f037d7e2ecfb0637b4c42cad619d385",
+      "localSha256": "24e78612e38ec93bad387f6eb441a81b3f037d7e2ecfb0637b4c42cad619d385"
+    },
+    {
+      "url": "https://loot.family/brands/banners/skechers.png",
+      "localPath": "public/brands/banners/skechers.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 60733,
+      "sourceSha256": "925a08427afe3b655190c67a4e2504149c54eebb21bc4bdcdd8217cba3028fd1",
+      "localSha256": "925a08427afe3b655190c67a4e2504149c54eebb21bc4bdcdd8217cba3028fd1"
+    },
+    {
+      "url": "https://loot.family/brands/banners/sonic.png",
+      "localPath": "public/brands/banners/sonic.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 88630,
+      "sourceSha256": "9240125456108db6d46da96ddb1c9a95641cf309b80015493037d321ba6b70a3",
+      "localSha256": "9240125456108db6d46da96ddb1c9a95641cf309b80015493037d321ba6b70a3"
+    },
+    {
+      "url": "https://loot.family/brands/banners/southwest.png",
+      "localPath": "public/brands/banners/southwest.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 49956,
+      "sourceSha256": "8cfbbf048a56a55115620a0782c6d94ceef1504c9df1da03f65c92d2c5a185cb",
+      "localSha256": "8cfbbf048a56a55115620a0782c6d94ceef1504c9df1da03f65c92d2c5a185cb"
+    },
+    {
+      "url": "https://loot.family/brands/banners/starbucks.png",
+      "localPath": "public/brands/banners/starbucks.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 55658,
+      "sourceSha256": "4013042694e7672142356da7eb5ef0c282c85f6a9c3dc95a4e4ceaae7092658a",
+      "localSha256": "4013042694e7672142356da7eb5ef0c282c85f6a9c3dc95a4e4ceaae7092658a"
+    },
+    {
+      "url": "https://loot.family/brands/banners/steam.png",
+      "localPath": "public/brands/banners/steam.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 24362,
+      "sourceSha256": "2267b80fbcdffad979e3cff29772d705b57d245734dee265fe67be366936732e",
+      "localSha256": "2267b80fbcdffad979e3cff29772d705b57d245734dee265fe67be366936732e"
+    },
+    {
+      "url": "https://loot.family/brands/banners/stubhub.png",
+      "localPath": "public/brands/banners/stubhub.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 38779,
+      "sourceSha256": "3ccaa2befba2c57af079c8aeccde85aa0fb9b06340584d4a0464c56b1b92c44a",
+      "localSha256": "3ccaa2befba2c57af079c8aeccde85aa0fb9b06340584d4a0464c56b1b92c44a"
+    },
+    {
+      "url": "https://loot.family/brands/banners/subway.png",
+      "localPath": "public/brands/banners/subway.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 36332,
+      "sourceSha256": "0387c0755445984e63735f038dc6b1895ac22262c11d9bda4fc96ed48ff3a3f7",
+      "localSha256": "0387c0755445984e63735f038dc6b1895ac22262c11d9bda4fc96ed48ff3a3f7"
+    },
+    {
+      "url": "https://loot.family/brands/banners/swarovski.png",
+      "localPath": "public/brands/banners/swarovski.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 29232,
+      "sourceSha256": "4caa2bf4d95f6784733d6147ba11a2fb43caf35479f291ab0f8010a4fd6819ed",
+      "localSha256": "4caa2bf4d95f6784733d6147ba11a2fb43caf35479f291ab0f8010a4fd6819ed"
+    },
+    {
+      "url": "https://loot.family/brands/banners/taco-bell.png",
+      "localPath": "public/brands/banners/taco-bell.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 51623,
+      "sourceSha256": "225ae767c67912222341316c2a66addce3ecff438e88dc157a509b25a5e84aa7",
+      "localSha256": "225ae767c67912222341316c2a66addce3ecff438e88dc157a509b25a5e84aa7"
+    },
+    {
+      "url": "https://loot.family/brands/banners/talabat.png",
+      "localPath": "public/brands/banners/talabat.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 41047,
+      "sourceSha256": "1646a571b4b26aa980a1d6097861d9b2ca8ca1f94e73a3d2b0ab6c29a7128895",
+      "localSha256": "1646a571b4b26aa980a1d6097861d9b2ca8ca1f94e73a3d2b0ab6c29a7128895"
+    },
+    {
+      "url": "https://loot.family/brands/banners/target.png",
+      "localPath": "public/brands/banners/target.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 18942,
+      "sourceSha256": "90d7cb581415efa0bac7bdf68c66c9e93a0f0690166a51b47fdf7f1e1349f2b7",
+      "localSha256": "90d7cb581415efa0bac7bdf68c66c9e93a0f0690166a51b47fdf7f1e1349f2b7"
+    },
+    {
+      "url": "https://loot.family/brands/banners/tesco.png",
+      "localPath": "public/brands/banners/tesco.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 221595,
+      "sourceSha256": "acde9872f171c96d5cb98796a4894a725f9ddb89fd3d358c2ad4145711136912",
+      "localSha256": "acde9872f171c96d5cb98796a4894a725f9ddb89fd3d358c2ad4145711136912"
+    },
+    {
+      "url": "https://loot.family/brands/banners/ticketmaster.png",
+      "localPath": "public/brands/banners/ticketmaster.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 38399,
+      "sourceSha256": "069246a6e2ec10bb91c9665aa57b25f0989e99bbe70b9a0738b29aab552eef20",
+      "localSha256": "069246a6e2ec10bb91c9665aa57b25f0989e99bbe70b9a0738b29aab552eef20"
+    },
+    {
+      "url": "https://loot.family/brands/banners/tidal.png",
+      "localPath": "public/brands/banners/tidal.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 28601,
+      "sourceSha256": "258452b078fdfa12f600d974a9f52f92aa78ebaf88a83169d2374513847abd0b",
+      "localSha256": "258452b078fdfa12f600d974a9f52f92aa78ebaf88a83169d2374513847abd0b"
+    },
+    {
+      "url": "https://loot.family/brands/banners/tim-hortons.png",
+      "localPath": "public/brands/banners/tim-hortons.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 287576,
+      "sourceSha256": "f36d03da1acc4486648a5dd5ca5b28171e5310947b26061f6500d48e7716f209",
+      "localSha256": "f36d03da1acc4486648a5dd5ca5b28171e5310947b26061f6500d48e7716f209"
+    },
+    {
+      "url": "https://loot.family/brands/banners/tk-maxx.png",
+      "localPath": "public/brands/banners/tk-maxx.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 42498,
+      "sourceSha256": "671abfdff8dbf2bff1c0ff530e7a4589fa15a5be29d91811aba43dddcb3b16cd",
+      "localSha256": "671abfdff8dbf2bff1c0ff530e7a4589fa15a5be29d91811aba43dddcb3b16cd"
+    },
+    {
+      "url": "https://loot.family/brands/banners/tommy-hilfiger.png",
+      "localPath": "public/brands/banners/tommy-hilfiger.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 72456,
+      "sourceSha256": "5e9713a775d6b610fcd64e9747a6d1c84d9d446c69cf313c3d03094a1da81a40",
+      "localSha256": "5e9713a775d6b610fcd64e9747a6d1c84d9d446c69cf313c3d03094a1da81a40"
+    },
+    {
+      "url": "https://loot.family/brands/banners/topgolf.png",
+      "localPath": "public/brands/banners/topgolf.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 35216,
+      "sourceSha256": "7ae33e9b30ff0ac1d83b15ca35ec1c54caa8abbda26137e2cafca45385a8e6dc",
+      "localSha256": "7ae33e9b30ff0ac1d83b15ca35ec1c54caa8abbda26137e2cafca45385a8e6dc"
+    },
+    {
+      "url": "https://loot.family/brands/banners/twitch.png",
+      "localPath": "public/brands/banners/twitch.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 6347,
+      "sourceSha256": "2d82aa55e1ea49e797dd5a4900f55e56947ed4fad3ee73cf659f0b0afdc43ae5",
+      "localSha256": "2d82aa55e1ea49e797dd5a4900f55e56947ed4fad3ee73cf659f0b0afdc43ae5"
+    },
+    {
+      "url": "https://loot.family/brands/banners/uber-eats.png",
+      "localPath": "public/brands/banners/uber-eats.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 51811,
+      "sourceSha256": "72e026a469a68cc4b58ed9e301d84a66119f1093ba2f08ce15f410a413e4c15f",
+      "localSha256": "72e026a469a68cc4b58ed9e301d84a66119f1093ba2f08ce15f410a413e4c15f"
+    },
+    {
+      "url": "https://loot.family/brands/banners/uber.png",
+      "localPath": "public/brands/banners/uber.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 44024,
+      "sourceSha256": "2384f9482ffff753492be6f5b6e4877d8c65d546175fa11fee5a694da55e2f3e",
+      "localSha256": "2384f9482ffff753492be6f5b6e4877d8c65d546175fa11fee5a694da55e2f3e"
+    },
+    {
+      "url": "https://loot.family/brands/banners/ulta.png",
+      "localPath": "public/brands/banners/ulta.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 70368,
+      "sourceSha256": "1c6b418dbb626aec617234b5d307e7af4e6b29480c4b50c43740eeb104836e99",
+      "localSha256": "1c6b418dbb626aec617234b5d307e7af4e6b29480c4b50c43740eeb104836e99"
+    },
+    {
+      "url": "https://loot.family/brands/banners/under-armour.png",
+      "localPath": "public/brands/banners/under-armour.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 112356,
+      "sourceSha256": "7757b5e7eff55e99fd4c6e201e1650d571e3fd851623348a8097ebbbee82338c",
+      "localSha256": "7757b5e7eff55e99fd4c6e201e1650d571e3fd851623348a8097ebbbee82338c"
+    },
+    {
+      "url": "https://loot.family/brands/banners/valorant.png",
+      "localPath": "public/brands/banners/valorant.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 270040,
+      "sourceSha256": "b3b2450ef09ca14adfe0f6ff7418306e1100a3e472e35a8ba859138f7521a7d7",
+      "localSha256": "b3b2450ef09ca14adfe0f6ff7418306e1100a3e472e35a8ba859138f7521a7d7"
+    },
+    {
+      "url": "https://loot.family/brands/banners/walgreens.png",
+      "localPath": "public/brands/banners/walgreens.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 52880,
+      "sourceSha256": "39bbbe8ded659c199ec5e857709219f2bd8a319240fd0ebd65183bd9f81bdb56",
+      "localSha256": "39bbbe8ded659c199ec5e857709219f2bd8a319240fd0ebd65183bd9f81bdb56"
+    },
+    {
+      "url": "https://loot.family/brands/banners/walmart.png",
+      "localPath": "public/brands/banners/walmart.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 17814,
+      "sourceSha256": "54be1b8338248ce659d9ac01c344ebfa043dc8e9444ed73a81b825c5449236dd",
+      "localSha256": "54be1b8338248ce659d9ac01c344ebfa043dc8e9444ed73a81b825c5449236dd"
+    },
+    {
+      "url": "https://loot.family/brands/banners/wolt.png",
+      "localPath": "public/brands/banners/wolt.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 271054,
+      "sourceSha256": "a1aae02b457c1d5b01ee9f3fc05eb792598922062216f8c5292980647a530c94",
+      "localSha256": "a1aae02b457c1d5b01ee9f3fc05eb792598922062216f8c5292980647a530c94"
+    },
+    {
+      "url": "https://loot.family/brands/banners/xbox.png",
+      "localPath": "public/brands/banners/xbox.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 16329,
+      "sourceSha256": "66f8f9dbdb5adc706fd48c070163e45555216b49292f8eb76a46422dd7685f80",
+      "localSha256": "66f8f9dbdb5adc706fd48c070163e45555216b49292f8eb76a46422dd7685f80"
+    },
+    {
+      "url": "https://loot.family/brands/banners/zalando.png",
+      "localPath": "public/brands/banners/zalando.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 264571,
+      "sourceSha256": "25e6abb2c715b911a5c329660b166773d0b1e9e271188a2147be646b8c355db1",
+      "localSha256": "25e6abb2c715b911a5c329660b166773d0b1e9e271188a2147be646b8c355db1"
+    },
+    {
+      "url": "https://loot.family/brands/logos/abercrombie.png",
+      "localPath": "public/brands/logos/abercrombie.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 95338,
+      "sourceSha256": "55b624f3efa73e14fabfcfefe14cb34f4d4f11175b75ed1eef05156e9b2b15e9",
+      "localSha256": "55b624f3efa73e14fabfcfefe14cb34f4d4f11175b75ed1eef05156e9b2b15e9"
+    },
+    {
+      "url": "https://loot.family/brands/logos/adidas.png",
+      "localPath": "public/brands/logos/adidas.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 49754,
+      "sourceSha256": "7434e7bec9d72f016f6916943d857c4784b142609595c34d3868379a93cf3f86",
+      "localSha256": "7434e7bec9d72f016f6916943d857c4784b142609595c34d3868379a93cf3f86"
+    },
+    {
+      "url": "https://loot.family/brands/logos/airbnb.png",
+      "localPath": "public/brands/logos/airbnb.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 94174,
+      "sourceSha256": "aca280fa2d60f074341e1939bd00dec1c513b138316ee668daed9c0ba3ce7662",
+      "localSha256": "aca280fa2d60f074341e1939bd00dec1c513b138316ee668daed9c0ba3ce7662"
+    },
+    {
+      "url": "https://loot.family/brands/logos/aldi.png",
+      "localPath": "public/brands/logos/aldi.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 174224,
+      "sourceSha256": "2a6e283b382e07fd7854bc60d7e0a7b9eeafdc167c26b0f2905328d051143cd3",
+      "localSha256": "2a6e283b382e07fd7854bc60d7e0a7b9eeafdc167c26b0f2905328d051143cd3"
+    },
+    {
+      "url": "https://loot.family/brands/logos/amazon.png",
+      "localPath": "public/brands/logos/amazon.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 78593,
+      "sourceSha256": "ee9f97600f78f7c00c7af653dfa429118b8f3ec0112d1cf2febf331b04debc99",
+      "localSha256": "ee9f97600f78f7c00c7af653dfa429118b8f3ec0112d1cf2febf331b04debc99"
+    },
+    {
+      "url": "https://loot.family/brands/logos/amc.png",
+      "localPath": "public/brands/logos/amc.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 40859,
+      "sourceSha256": "2fe8c01965b2b7e3b1ec83d4cd85610b9d8e2a09f8b4aa5d0049ea3557c2515a",
+      "localSha256": "2fe8c01965b2b7e3b1ec83d4cd85610b9d8e2a09f8b4aa5d0049ea3557c2515a"
+    },
+    {
+      "url": "https://loot.family/brands/logos/app-store.png",
+      "localPath": "public/brands/logos/app-store.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 60456,
+      "sourceSha256": "ebaa88e2cc76a25541577af3a86c29638f4f24cbd6122dab68428800cdb1ae7a",
+      "localSha256": "ebaa88e2cc76a25541577af3a86c29638f4f24cbd6122dab68428800cdb1ae7a"
+    },
+    {
+      "url": "https://loot.family/brands/logos/apple.png",
+      "localPath": "public/brands/logos/apple.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 81110,
+      "sourceSha256": "c0d6f9e5fce1795dc0369484725a35fbbc4e7788427098e45edcda595ce1e872",
+      "localSha256": "c0d6f9e5fce1795dc0369484725a35fbbc4e7788427098e45edcda595ce1e872"
+    },
+    {
+      "url": "https://loot.family/brands/logos/asos.png",
+      "localPath": "public/brands/logos/asos.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 81724,
+      "sourceSha256": "5769edcf5085e20c544553bb9aca1ff1f769eb51361b959ec83be1ead410c6fd",
+      "localSha256": "5769edcf5085e20c544553bb9aca1ff1f769eb51361b959ec83be1ead410c6fd"
+    },
+    {
+      "url": "https://loot.family/brands/logos/banana-republic.png",
+      "localPath": "public/brands/logos/banana-republic.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 53816,
+      "sourceSha256": "4ce5d980c77f29c6ead6f5b01691cb06377e3bfbd8ca5bc736a62eb6368ae862",
+      "localSha256": "4ce5d980c77f29c6ead6f5b01691cb06377e3bfbd8ca5bc736a62eb6368ae862"
+    },
+    {
+      "url": "https://loot.family/brands/logos/baskin-robbins.png",
+      "localPath": "public/brands/logos/baskin-robbins.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 99687,
+      "sourceSha256": "d95a8888698230f79e00065ef6c7fbbffea618f610ddd6a69ed0482c87429f3a",
+      "localSha256": "d95a8888698230f79e00065ef6c7fbbffea618f610ddd6a69ed0482c87429f3a"
+    },
+    {
+      "url": "https://loot.family/brands/logos/bath-body-works.png",
+      "localPath": "public/brands/logos/bath-body-works.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 100871,
+      "sourceSha256": "30ab2dfc62db69efddec82350e3e59d5615f3525b09ad23e2a6964856445ab31",
+      "localSha256": "30ab2dfc62db69efddec82350e3e59d5615f3525b09ad23e2a6964856445ab31"
+    },
+    {
+      "url": "https://loot.family/brands/logos/battle-net.png",
+      "localPath": "public/brands/logos/battle-net.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 93450,
+      "sourceSha256": "5026589552c829686f8326a195e380aed4d2084f93439137916e3c3fd627fc50",
+      "localSha256": "5026589552c829686f8326a195e380aed4d2084f93439137916e3c3fd627fc50"
+    },
+    {
+      "url": "https://loot.family/brands/logos/best-buy.png",
+      "localPath": "public/brands/logos/best-buy.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 90862,
+      "sourceSha256": "e9eb0a1475eb501ae29f6cb1fdf7916b7b4786dfff41ed3977104850de6727dd",
+      "localSha256": "e9eb0a1475eb501ae29f6cb1fdf7916b7b4786dfff41ed3977104850de6727dd"
+    },
+    {
+      "url": "https://loot.family/brands/logos/birkenstock.png",
+      "localPath": "public/brands/logos/birkenstock.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 37969,
+      "sourceSha256": "8214214140cec8f5e4779c268b93bc3e865ca04ffd86aeec1a8b83038371cc81",
+      "localSha256": "8214214140cec8f5e4779c268b93bc3e865ca04ffd86aeec1a8b83038371cc81"
+    },
+    {
+      "url": "https://loot.family/brands/logos/buffalo-wild-wings.png",
+      "localPath": "public/brands/logos/buffalo-wild-wings.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 198258,
+      "sourceSha256": "8181e1554ebc22fc58543d7e78e179641b58b92dd4a3ab2c3d92a924b7c01cb2",
+      "localSha256": "8181e1554ebc22fc58543d7e78e179641b58b92dd4a3ab2c3d92a924b7c01cb2"
+    },
+    {
+      "url": "https://loot.family/brands/logos/build-a-bear.png",
+      "localPath": "public/brands/logos/build-a-bear.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 121012,
+      "sourceSha256": "af56ab8bf7b96c6b2d6a952be0bd5172ededa549880228243b252e3528dfbb0b",
+      "localSha256": "af56ab8bf7b96c6b2d6a952be0bd5172ededa549880228243b252e3528dfbb0b"
+    },
+    {
+      "url": "https://loot.family/brands/logos/burger-king.png",
+      "localPath": "public/brands/logos/burger-king.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 56585,
+      "sourceSha256": "030e3a3d55c82873c38dd9fac0ec9cbba90da9f807bd23ea424a7913c70c5551",
+      "localSha256": "030e3a3d55c82873c38dd9fac0ec9cbba90da9f807bd23ea424a7913c70c5551"
+    },
+    {
+      "url": "https://loot.family/brands/logos/calvin-klein.png",
+      "localPath": "public/brands/logos/calvin-klein.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 45126,
+      "sourceSha256": "6599dab036bc1164716064b8ee11b5bac49b503d7c11b72765fff7e4aa5e81fa",
+      "localSha256": "6599dab036bc1164716064b8ee11b5bac49b503d7c11b72765fff7e4aa5e81fa"
+    },
+    {
+      "url": "https://loot.family/brands/logos/carrefour.png",
+      "localPath": "public/brands/logos/carrefour.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 67206,
+      "sourceSha256": "02f684001e5a3b83ef5d8477697a851dc6f5c4b3df9fd26b3af70f9053e59dc4",
+      "localSha256": "02f684001e5a3b83ef5d8477697a851dc6f5c4b3df9fd26b3af70f9053e59dc4"
+    },
+    {
+      "url": "https://loot.family/brands/logos/chipotle.png",
+      "localPath": "public/brands/logos/chipotle.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 67408,
+      "sourceSha256": "2b80ae13b826db232a4907e47911fbf2d6ea74285223bff5328ff2908eca9074",
+      "localSha256": "2b80ae13b826db232a4907e47911fbf2d6ea74285223bff5328ff2908eca9074"
+    },
+    {
+      "url": "https://loot.family/brands/logos/coles.png",
+      "localPath": "public/brands/logos/coles.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 47072,
+      "sourceSha256": "3fd312a0068a274954e4a2b538ea66657033a8ed65ad8c334aab7491071f8ceb",
+      "localSha256": "3fd312a0068a274954e4a2b538ea66657033a8ed65ad8c334aab7491071f8ceb"
+    },
+    {
+      "url": "https://loot.family/brands/logos/costa-coffee.png",
+      "localPath": "public/brands/logos/costa-coffee.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 138969,
+      "sourceSha256": "4341c2563b41f357cad11b6a45336994f8615f297896af98343dd20040670dab",
+      "localSha256": "4341c2563b41f357cad11b6a45336994f8615f297896af98343dd20040670dab"
+    },
+    {
+      "url": "https://loot.family/brands/logos/crocs.png",
+      "localPath": "public/brands/logos/crocs.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 35872,
+      "sourceSha256": "78126635e952ed294b1ab1920f9d715c618e73466486f95305a760d66a5a7e4b",
+      "localSha256": "78126635e952ed294b1ab1920f9d715c618e73466486f95305a760d66a5a7e4b"
+    },
+    {
+      "url": "https://loot.family/brands/logos/crunchyroll.png",
+      "localPath": "public/brands/logos/crunchyroll.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 116036,
+      "sourceSha256": "ba48342bbfff7f5d05771f7eac80939fdcb0675137df1b5cc4a67729b47e7941",
+      "localSha256": "ba48342bbfff7f5d05771f7eac80939fdcb0675137df1b5cc4a67729b47e7941"
+    },
+    {
+      "url": "https://loot.family/brands/logos/cvs.png",
+      "localPath": "public/brands/logos/cvs.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 102540,
+      "sourceSha256": "4db2e0aff4dc4b95f63266bef3480144788323246a9a1e5e232eb15474617b9f",
+      "localSha256": "4db2e0aff4dc4b95f63266bef3480144788323246a9a1e5e232eb15474617b9f"
+    },
+    {
+      "url": "https://loot.family/brands/logos/dave-busters.png",
+      "localPath": "public/brands/logos/dave-busters.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 114054,
+      "sourceSha256": "3fbedd025410234cda704d999a87b6c623384ad85ab03d9faa1b011810b9a23b",
+      "localSha256": "3fbedd025410234cda704d999a87b6c623384ad85ab03d9faa1b011810b9a23b"
+    },
+    {
+      "url": "https://loot.family/brands/logos/dazn.png",
+      "localPath": "public/brands/logos/dazn.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 49623,
+      "sourceSha256": "0ad65cfe9daf51c69e1ccd35d5a65e621cdec5e9af77ae8f3c7bf5092792b17f",
+      "localSha256": "0ad65cfe9daf51c69e1ccd35d5a65e621cdec5e9af77ae8f3c7bf5092792b17f"
+    },
+    {
+      "url": "https://loot.family/brands/logos/decathlon.png",
+      "localPath": "public/brands/logos/decathlon.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 19258,
+      "sourceSha256": "2fc477688b4f1d405e83ffdec8c0107a2f0e4f764e7554dd3a42ec40b1567fbb",
+      "localSha256": "2fc477688b4f1d405e83ffdec8c0107a2f0e4f764e7554dd3a42ec40b1567fbb"
+    },
+    {
+      "url": "https://loot.family/brands/logos/deezer.png",
+      "localPath": "public/brands/logos/deezer.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 63760,
+      "sourceSha256": "486962c59bce2fbb33da3fb994b841cd6789edf27e306c7ba7c9a8ff076a51e2",
+      "localSha256": "486962c59bce2fbb33da3fb994b841cd6789edf27e306c7ba7c9a8ff076a51e2"
+    },
+    {
+      "url": "https://loot.family/brands/logos/deliveroo.png",
+      "localPath": "public/brands/logos/deliveroo.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 102326,
+      "sourceSha256": "45111f2ac1a82848659dca90dae3d8ee6a2d6801d6f98c905c4b09852218d6c6",
+      "localSha256": "45111f2ac1a82848659dca90dae3d8ee6a2d6801d6f98c905c4b09852218d6c6"
+    },
+    {
+      "url": "https://loot.family/brands/logos/delta.png",
+      "localPath": "public/brands/logos/delta.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 85980,
+      "sourceSha256": "51c582c68fb5c92adef57bc24c769376dac528435d17c6dcb2a7f9d4225ede17",
+      "localSha256": "51c582c68fb5c92adef57bc24c769376dac528435d17c6dcb2a7f9d4225ede17"
+    },
+    {
+      "url": "https://loot.family/brands/logos/discord.png",
+      "localPath": "public/brands/logos/discord.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 101783,
+      "sourceSha256": "02e556105909315f2c38985d0164c3dcc3555faad29bbec8cde0ea2abb9887e5",
+      "localSha256": "02e556105909315f2c38985d0164c3dcc3555faad29bbec8cde0ea2abb9887e5"
+    },
+    {
+      "url": "https://loot.family/brands/logos/disney.png",
+      "localPath": "public/brands/logos/disney.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 48018,
+      "sourceSha256": "31bc0412c55615b795d1d1e28d13225f299766d35aa9abec54940a5e4f4dca1c",
+      "localSha256": "31bc0412c55615b795d1d1e28d13225f299766d35aa9abec54940a5e4f4dca1c"
+    },
+    {
+      "url": "https://loot.family/brands/logos/dominos.png",
+      "localPath": "public/brands/logos/dominos.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 100069,
+      "sourceSha256": "ad3b0ccaa569c792c55f7fa53bf6248815c6699ee91f30062145ceac58cf56fb",
+      "localSha256": "ad3b0ccaa569c792c55f7fa53bf6248815c6699ee91f30062145ceac58cf56fb"
+    },
+    {
+      "url": "https://loot.family/brands/logos/doordash.png",
+      "localPath": "public/brands/logos/doordash.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 12996,
+      "sourceSha256": "a96f0b08f70a26b86d4b9e480a6a14e8a699dbe1c3fa5161f25dee0637e0211c",
+      "localSha256": "a96f0b08f70a26b86d4b9e480a6a14e8a699dbe1c3fa5161f25dee0637e0211c"
+    },
+    {
+      "url": "https://loot.family/brands/logos/douglas.png",
+      "localPath": "public/brands/logos/douglas.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 32247,
+      "sourceSha256": "139704fc74257f0e3f468a30e7ac37f52eae634d0c4df23a80364dc6bdda1460",
+      "localSha256": "139704fc74257f0e3f468a30e7ac37f52eae634d0c4df23a80364dc6bdda1460"
+    },
+    {
+      "url": "https://loot.family/brands/logos/dunkin.png",
+      "localPath": "public/brands/logos/dunkin.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 40013,
+      "sourceSha256": "07f388f76a4c3d02060a7508046eab7f5272e6ff16c05b95a9fbf8f54a7bb3f8",
+      "localSha256": "07f388f76a4c3d02060a7508046eab7f5272e6ff16c05b95a9fbf8f54a7bb3f8"
+    },
+    {
+      "url": "https://loot.family/brands/logos/ea.png",
+      "localPath": "public/brands/logos/ea.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 28936,
+      "sourceSha256": "63b43dd2453d6b0ca348e60522d2ecfa4148aab6c5180b445abaaabcfe11da9b",
+      "localSha256": "63b43dd2453d6b0ca348e60522d2ecfa4148aab6c5180b445abaaabcfe11da9b"
+    },
+    {
+      "url": "https://loot.family/brands/logos/epic-games.png",
+      "localPath": "public/brands/logos/epic-games.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 124294,
+      "sourceSha256": "bccde4868a7b219cb9f4748f31f612bb1d20d0db6f8954f7bed5e318698310eb",
+      "localSha256": "bccde4868a7b219cb9f4748f31f612bb1d20d0db6f8954f7bed5e318698310eb"
+    },
+    {
+      "url": "https://loot.family/brands/logos/etsy.png",
+      "localPath": "public/brands/logos/etsy.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 53289,
+      "sourceSha256": "93078752142cd2c991683e9deb9e4009161b28692e4ba818366615a7ffda44b0",
+      "localSha256": "93078752142cd2c991683e9deb9e4009161b28692e4ba818366615a7ffda44b0"
+    },
+    {
+      "url": "https://loot.family/brands/logos/expedia.png",
+      "localPath": "public/brands/logos/expedia.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 47245,
+      "sourceSha256": "b687b6d6ddf0e87e7c0a3d599a593b0d06023e4b662f894b04cca78520564215",
+      "localSha256": "b687b6d6ddf0e87e7c0a3d599a593b0d06023e4b662f894b04cca78520564215"
+    },
+    {
+      "url": "https://loot.family/brands/logos/five-guys.png",
+      "localPath": "public/brands/logos/five-guys.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 84261,
+      "sourceSha256": "a6e406250efe512cdf250a2c6ae2da741b927656871eee5caf8cbd52df097953",
+      "localSha256": "a6e406250efe512cdf250a2c6ae2da741b927656871eee5caf8cbd52df097953"
+    },
+    {
+      "url": "https://loot.family/brands/logos/flixbus.png",
+      "localPath": "public/brands/logos/flixbus.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 41430,
+      "sourceSha256": "60bcc43df6b191bd5f6a3417f48bc515e5d1a1b7a8f8ca0fa0eb412217b5b7ef",
+      "localSha256": "60bcc43df6b191bd5f6a3417f48bc515e5d1a1b7a8f8ca0fa0eb412217b5b7ef"
+    },
+    {
+      "url": "https://loot.family/brands/logos/foot-locker.png",
+      "localPath": "public/brands/logos/foot-locker.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 111753,
+      "sourceSha256": "ffa8eaa010a751280591ee1aed76f43e2025e17a78395a1e63216436b0d58763",
+      "localSha256": "ffa8eaa010a751280591ee1aed76f43e2025e17a78395a1e63216436b0d58763"
+    },
+    {
+      "url": "https://loot.family/brands/logos/fortnite.png",
+      "localPath": "public/brands/logos/fortnite.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 53342,
+      "sourceSha256": "a92e3bd8886541d919b4f7d4761db190461d3f82e9300b5990df1d91871cea3d",
+      "localSha256": "a92e3bd8886541d919b4f7d4761db190461d3f82e9300b5990df1d91871cea3d"
+    },
+    {
+      "url": "https://loot.family/brands/logos/gamestop.png",
+      "localPath": "public/brands/logos/gamestop.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 39777,
+      "sourceSha256": "dfbddbcffcfff3725a671633ebd75217e3885b4ade1c329a64d43256172de386",
+      "localSha256": "dfbddbcffcfff3725a671633ebd75217e3885b4ade1c329a64d43256172de386"
+    },
+    {
+      "url": "https://loot.family/brands/logos/gap.png",
+      "localPath": "public/brands/logos/gap.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 50219,
+      "sourceSha256": "fa5a01219b7f483e2a2a9ef25ab649d30608f717e7931e2f77c2fe12eab890eb",
+      "localSha256": "fa5a01219b7f483e2a2a9ef25ab649d30608f717e7931e2f77c2fe12eab890eb"
+    },
+    {
+      "url": "https://loot.family/brands/logos/google-play.png",
+      "localPath": "public/brands/logos/google-play.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 27932,
+      "sourceSha256": "5a9e57d9acb85067f430cc8e0e69515d917bbddad86be299218164f9d4907c43",
+      "localSha256": "5a9e57d9acb85067f430cc8e0e69515d917bbddad86be299218164f9d4907c43"
+    },
+    {
+      "url": "https://loot.family/brands/logos/greggs.png",
+      "localPath": "public/brands/logos/greggs.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 48962,
+      "sourceSha256": "d52256ba44964562422b3dcf17c3dcc3570a93e0809c8c4a79ce3b6e3cfbf31d",
+      "localSha256": "d52256ba44964562422b3dcf17c3dcc3570a93e0809c8c4a79ce3b6e3cfbf31d"
+    },
+    {
+      "url": "https://loot.family/brands/logos/grubhub.png",
+      "localPath": "public/brands/logos/grubhub.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 36559,
+      "sourceSha256": "a27eae6401184ff174922d788f89651a76246e706b7b84e9dfdbe83df1ee8bec",
+      "localSha256": "a27eae6401184ff174922d788f89651a76246e706b7b84e9dfdbe83df1ee8bec"
+    },
+    {
+      "url": "https://loot.family/brands/logos/hellofresh.png",
+      "localPath": "public/brands/logos/hellofresh.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 49081,
+      "sourceSha256": "d922990281621cea0a8e64d6f43bc90edd46f209c5335f9d33cb7af26a525c4d",
+      "localSha256": "d922990281621cea0a8e64d6f43bc90edd46f209c5335f9d33cb7af26a525c4d"
+    },
+    {
+      "url": "https://loot.family/brands/logos/hm.png",
+      "localPath": "public/brands/logos/hm.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 80888,
+      "sourceSha256": "2f6ea3a420b611c37a19313da557cd70a1a03775b79f1dc760adee5c66d98333",
+      "localSha256": "2f6ea3a420b611c37a19313da557cd70a1a03775b79f1dc760adee5c66d98333"
+    },
+    {
+      "url": "https://loot.family/brands/logos/home-depot.png",
+      "localPath": "public/brands/logos/home-depot.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 232126,
+      "sourceSha256": "875573999bc7dacbe07cc10af83e9fec4aa71358182a71fa0af728cbf6c17771",
+      "localSha256": "875573999bc7dacbe07cc10af83e9fec4aa71358182a71fa0af728cbf6c17771"
+    },
+    {
+      "url": "https://loot.family/brands/logos/hotels.png",
+      "localPath": "public/brands/logos/hotels.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 117723,
+      "sourceSha256": "22d0410cc6df0d6674b4464224ed84800b81043fd2a8426c871d1ec52c474744",
+      "localSha256": "22d0410cc6df0d6674b4464224ed84800b81043fd2a8426c871d1ec52c474744"
+    },
+    {
+      "url": "https://loot.family/brands/logos/hulu.png",
+      "localPath": "public/brands/logos/hulu.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 39716,
+      "sourceSha256": "51c8bb911e70c19cc762d60011c4c05fd957fe1076000bef011cc9cba94ac5f6",
+      "localSha256": "51c8bb911e70c19cc762d60011c4c05fd957fe1076000bef011cc9cba94ac5f6"
+    },
+    {
+      "url": "https://loot.family/brands/logos/iberia.png",
+      "localPath": "public/brands/logos/iberia.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 27304,
+      "sourceSha256": "be5ed64cd6a4eb8caa1116806a36c9f39f43b0c16c9b5674ec974dbd3da61484",
+      "localSha256": "be5ed64cd6a4eb8caa1116806a36c9f39f43b0c16c9b5674ec974dbd3da61484"
+    },
+    {
+      "url": "https://loot.family/brands/logos/ikea.png",
+      "localPath": "public/brands/logos/ikea.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 66357,
+      "sourceSha256": "147dab040854a7d0329823ef101c99d318a636c52298b4bec48d232ffc53e1a5",
+      "localSha256": "147dab040854a7d0329823ef101c99d318a636c52298b4bec48d232ffc53e1a5"
+    },
+    {
+      "url": "https://loot.family/brands/logos/instacart.png",
+      "localPath": "public/brands/logos/instacart.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 79590,
+      "sourceSha256": "46f685f8d6b650caf8ab7bdc8a40fb618ae9c9e6dd1078823f2ed3c57fe97eb4",
+      "localSha256": "46f685f8d6b650caf8ab7bdc8a40fb618ae9c9e6dd1078823f2ed3c57fe97eb4"
+    },
+    {
+      "url": "https://loot.family/brands/logos/just-eat.png",
+      "localPath": "public/brands/logos/just-eat.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 99506,
+      "sourceSha256": "79774761192789340db34118e928bee80f69d04e0fd682cfbed82ffa7acde59a",
+      "localSha256": "79774761192789340db34118e928bee80f69d04e0fd682cfbed82ffa7acde59a"
+    },
+    {
+      "url": "https://loot.family/brands/logos/kfc.png",
+      "localPath": "public/brands/logos/kfc.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 198832,
+      "sourceSha256": "1839bd1113d91c376f358c771fa40350e53e9cec896f4fc7492245e524eadd07",
+      "localSha256": "1839bd1113d91c376f358c771fa40350e53e9cec896f4fc7492245e524eadd07"
+    },
+    {
+      "url": "https://loot.family/brands/logos/krispy-kreme.png",
+      "localPath": "public/brands/logos/krispy-kreme.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 71701,
+      "sourceSha256": "3e76e0b4e0473a76609e636126b98b7b90e8c59cd90c7f7b8ba19c0fc2f888ac",
+      "localSha256": "3e76e0b4e0473a76609e636126b98b7b90e8c59cd90c7f7b8ba19c0fc2f888ac"
+    },
+    {
+      "url": "https://loot.family/brands/logos/kroger.png",
+      "localPath": "public/brands/logos/kroger.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 54193,
+      "sourceSha256": "b74ce3841f61ccc108c7e223dedd1198e2a7837cb6134da25280d985cf9e0428",
+      "localSha256": "b74ce3841f61ccc108c7e223dedd1198e2a7837cb6134da25280d985cf9e0428"
+    },
+    {
+      "url": "https://loot.family/brands/logos/lastminute.png",
+      "localPath": "public/brands/logos/lastminute.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 34338,
+      "sourceSha256": "32e2797c5437a82fbad84d5059bebf3d25ed931905b497a2caf0471d487f8565",
+      "localSha256": "32e2797c5437a82fbad84d5059bebf3d25ed931905b497a2caf0471d487f8565"
+    },
+    {
+      "url": "https://loot.family/brands/logos/lego.png",
+      "localPath": "public/brands/logos/lego.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 45518,
+      "sourceSha256": "32b39b059747beffad0607f69f20bb0dc1d66fcb8ed120d89c4580f6cb406d7e",
+      "localSha256": "32b39b059747beffad0607f69f20bb0dc1d66fcb8ed120d89c4580f6cb406d7e"
+    },
+    {
+      "url": "https://loot.family/brands/logos/levis.png",
+      "localPath": "public/brands/logos/levis.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 69479,
+      "sourceSha256": "7d65c8918311e97e1fb2bbd07d1ea4ba2c1de3c5621e8e7cb465fc70397b4631",
+      "localSha256": "7d65c8918311e97e1fb2bbd07d1ea4ba2c1de3c5621e8e7cb465fc70397b4631"
+    },
+    {
+      "url": "https://loot.family/brands/logos/lowes.png",
+      "localPath": "public/brands/logos/lowes.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 66131,
+      "sourceSha256": "33fbe531f5c7e4a006b8e11ed080f70093853ff14bbef64b0512d9469efda2d7",
+      "localSha256": "33fbe531f5c7e4a006b8e11ed080f70093853ff14bbef64b0512d9469efda2d7"
+    },
+    {
+      "url": "https://loot.family/brands/logos/lululemon.png",
+      "localPath": "public/brands/logos/lululemon.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 118488,
+      "sourceSha256": "89987ef26c179292d59094027ab1273b4e49f2969e7fd91aa57ebac216b11100",
+      "localSha256": "89987ef26c179292d59094027ab1273b4e49f2969e7fd91aa57ebac216b11100"
+    },
+    {
+      "url": "https://loot.family/brands/logos/lyft.png",
+      "localPath": "public/brands/logos/lyft.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 91325,
+      "sourceSha256": "8af7b6a0bf55fef885151ad2f7fdadf3787fbd264d15adb0e9b0f55aabc41391",
+      "localSha256": "8af7b6a0bf55fef885151ad2f7fdadf3787fbd264d15adb0e9b0f55aabc41391"
+    },
+    {
+      "url": "https://loot.family/brands/logos/mango.png",
+      "localPath": "public/brands/logos/mango.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 36251,
+      "sourceSha256": "6ebe3f8b8f7345ae5330151ff1e4210b33559e5e11ef9f968e21ee634f918415",
+      "localSha256": "6ebe3f8b8f7345ae5330151ff1e4210b33559e5e11ef9f968e21ee634f918415"
+    },
+    {
+      "url": "https://loot.family/brands/logos/mcdonalds.png",
+      "localPath": "public/brands/logos/mcdonalds.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 34243,
+      "sourceSha256": "d6b98ffcddf50891dfdcb1a2c1ece81bffd1901fa9a17b1394c84334906faf58",
+      "localSha256": "d6b98ffcddf50891dfdcb1a2c1ece81bffd1901fa9a17b1394c84334906faf58"
+    },
+    {
+      "url": "https://loot.family/brands/logos/mediamarkt.png",
+      "localPath": "public/brands/logos/mediamarkt.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 31261,
+      "sourceSha256": "24a72b4b20c2cea4f6bb102c5f799d6de34aa5283b0935d26b054ba822a27592",
+      "localSha256": "24a72b4b20c2cea4f6bb102c5f799d6de34aa5283b0935d26b054ba822a27592"
+    },
+    {
+      "url": "https://loot.family/brands/logos/meta-quest.png",
+      "localPath": "public/brands/logos/meta-quest.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 72143,
+      "sourceSha256": "d765b4f2f7de4faf705178a55a80b3de7cbfeda3a2293c1181750275ec32b43a",
+      "localSha256": "d765b4f2f7de4faf705178a55a80b3de7cbfeda3a2293c1181750275ec32b43a"
+    },
+    {
+      "url": "https://loot.family/brands/logos/nandos.png",
+      "localPath": "public/brands/logos/nandos.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 80284,
+      "sourceSha256": "2ddf0da1fca84d14447600f612d3572524a80e5c3577bf7d057715fa2293c423",
+      "localSha256": "2ddf0da1fca84d14447600f612d3572524a80e5c3577bf7d057715fa2293c423"
+    },
+    {
+      "url": "https://loot.family/brands/logos/netflix.png",
+      "localPath": "public/brands/logos/netflix.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 25587,
+      "sourceSha256": "f648d7580e8409553e69f8614c1456f2b3f858f85c8335951cdbc92551e28616",
+      "localSha256": "f648d7580e8409553e69f8614c1456f2b3f858f85c8335951cdbc92551e28616"
+    },
+    {
+      "url": "https://loot.family/brands/logos/nike.png",
+      "localPath": "public/brands/logos/nike.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 24170,
+      "sourceSha256": "912ad85bc5f5a720d25324ee27cb52c870eed194658e87014ee61712b4297d7e",
+      "localSha256": "912ad85bc5f5a720d25324ee27cb52c870eed194658e87014ee61712b4297d7e"
+    },
+    {
+      "url": "https://loot.family/brands/logos/nintendo.png",
+      "localPath": "public/brands/logos/nintendo.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 59257,
+      "sourceSha256": "43ee8c69871cb58038477042e841401b7926fa30c2356289950e41f2772db819",
+      "localSha256": "43ee8c69871cb58038477042e841401b7926fa30c2356289950e41f2772db819"
+    },
+    {
+      "url": "https://loot.family/brands/logos/old-navy.png",
+      "localPath": "public/brands/logos/old-navy.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 33957,
+      "sourceSha256": "dfef7fb720e47a50eeabb137bc2c1c5b413e0a4759783fc5201a425b1e858f56",
+      "localSha256": "dfef7fb720e47a50eeabb137bc2c1c5b413e0a4759783fc5201a425b1e858f56"
+    },
+    {
+      "url": "https://loot.family/brands/logos/olive-garden.png",
+      "localPath": "public/brands/logos/olive-garden.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 87332,
+      "sourceSha256": "01c29cb9a0093affe785da32ec3920bb939c7384da0bb1d325e19a18fcc7c728",
+      "localSha256": "01c29cb9a0093affe785da32ec3920bb939c7384da0bb1d325e19a18fcc7c728"
+    },
+    {
+      "url": "https://loot.family/brands/logos/panera.png",
+      "localPath": "public/brands/logos/panera.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 68375,
+      "sourceSha256": "a167bfe9c8087aa7117da53afc8032bfd9542c1ad673682ba3ffc089fa94ed77",
+      "localSha256": "a167bfe9c8087aa7117da53afc8032bfd9542c1ad673682ba3ffc089fa94ed77"
+    },
+    {
+      "url": "https://loot.family/brands/logos/papa-johns.png",
+      "localPath": "public/brands/logos/papa-johns.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 105391,
+      "sourceSha256": "7dc29054979f599cdab5a5b83110e72a35d489a4d5f90951e456b477e96eedeb",
+      "localSha256": "7dc29054979f599cdab5a5b83110e72a35d489a4d5f90951e456b477e96eedeb"
+    },
+    {
+      "url": "https://loot.family/brands/logos/paramount.png",
+      "localPath": "public/brands/logos/paramount.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 122830,
+      "sourceSha256": "c0bf314dc7c8c1e19f2ef7934aa0573e88f23ea808cf7a3e70160dd8fc3b1d3f",
+      "localSha256": "c0bf314dc7c8c1e19f2ef7934aa0573e88f23ea808cf7a3e70160dd8fc3b1d3f"
+    },
+    {
+      "url": "https://loot.family/brands/logos/petsmart.png",
+      "localPath": "public/brands/logos/petsmart.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 30692,
+      "sourceSha256": "517c20fb2ffcf797895f78d96d463072de7f5b3676c721a7343fa72e21c48097",
+      "localSha256": "517c20fb2ffcf797895f78d96d463072de7f5b3676c721a7343fa72e21c48097"
+    },
+    {
+      "url": "https://loot.family/brands/logos/pizza-hut.png",
+      "localPath": "public/brands/logos/pizza-hut.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 91617,
+      "sourceSha256": "383f8caa1613c9ac66656695fad038d8c8503114b0d22f0623ec79da4e4381a8",
+      "localSha256": "383f8caa1613c9ac66656695fad038d8c8503114b0d22f0623ec79da4e4381a8"
+    },
+    {
+      "url": "https://loot.family/brands/logos/playstation.png",
+      "localPath": "public/brands/logos/playstation.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 27564,
+      "sourceSha256": "e5a587d2c5a72e95f8d9faac5f39dfda9f83de49ca3498d2544cb6744fdc7dd6",
+      "localSha256": "e5a587d2c5a72e95f8d9faac5f39dfda9f83de49ca3498d2544cb6744fdc7dd6"
+    },
+    {
+      "url": "https://loot.family/brands/logos/primark.png",
+      "localPath": "public/brands/logos/primark.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 35610,
+      "sourceSha256": "a4663a572fc5f4d3feb9a5c00efdb2a359816f506a7eec5598a921af7282095f",
+      "localSha256": "a4663a572fc5f4d3feb9a5c00efdb2a359816f506a7eec5598a921af7282095f"
+    },
+    {
+      "url": "https://loot.family/brands/logos/publix.png",
+      "localPath": "public/brands/logos/publix.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 57550,
+      "sourceSha256": "a134ccc7468683bc84a8cf0da918eddc0e7d46fa9c0ae2b2ae7d3428a1640b3c",
+      "localSha256": "a134ccc7468683bc84a8cf0da918eddc0e7d46fa9c0ae2b2ae7d3428a1640b3c"
+    },
+    {
+      "url": "https://loot.family/brands/logos/puma.png",
+      "localPath": "public/brands/logos/puma.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 39567,
+      "sourceSha256": "c8d2096f4a7994282743a600dc1aa5eb9b8170b35af240444ea83697f46ca4dd",
+      "localSha256": "c8d2096f4a7994282743a600dc1aa5eb9b8170b35af240444ea83697f46ca4dd"
+    },
+    {
+      "url": "https://loot.family/brands/logos/rakuten.png",
+      "localPath": "public/brands/logos/rakuten.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 35016,
+      "sourceSha256": "c1dc5c98c77b207b56187dcff69f52a5e1e9fbb0833cb0020a0f597325b07a97",
+      "localSha256": "c1dc5c98c77b207b56187dcff69f52a5e1e9fbb0833cb0020a0f597325b07a97"
+    },
+    {
+      "url": "https://loot.family/brands/logos/razer-gold.png",
+      "localPath": "public/brands/logos/razer-gold.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 214352,
+      "sourceSha256": "84fe845c774b91998e5b17f88d64799b0e558e7f1937a72f9a337d5af79f9131",
+      "localSha256": "84fe845c774b91998e5b17f88d64799b0e558e7f1937a72f9a337d5af79f9131"
+    },
+    {
+      "url": "https://loot.family/brands/logos/roblox.png",
+      "localPath": "public/brands/logos/roblox.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 53766,
+      "sourceSha256": "1645532dfa7421efec3252cabd1fcfe3c488773cc11d0380d5dcee8f1158aab0",
+      "localSha256": "1645532dfa7421efec3252cabd1fcfe3c488773cc11d0380d5dcee8f1158aab0"
+    },
+    {
+      "url": "https://loot.family/brands/logos/safeway.png",
+      "localPath": "public/brands/logos/safeway.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 88702,
+      "sourceSha256": "fe9f5a619aa36c765ca7eef50efbad539d3a56024129c574b11b9f500440e53c",
+      "localSha256": "fe9f5a619aa36c765ca7eef50efbad539d3a56024129c574b11b9f500440e53c"
+    },
+    {
+      "url": "https://loot.family/brands/logos/sephora.png",
+      "localPath": "public/brands/logos/sephora.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 47857,
+      "sourceSha256": "f7fd575b484798decfd5f9187eef20af94041cf9da37a9a6825c1cbe27d73451",
+      "localSha256": "f7fd575b484798decfd5f9187eef20af94041cf9da37a9a6825c1cbe27d73451"
+    },
+    {
+      "url": "https://loot.family/brands/logos/shake-shack.png",
+      "localPath": "public/brands/logos/shake-shack.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 84141,
+      "sourceSha256": "5086bbb6b9d012a562c93840934155a9e1252d9b5820905c1acc2f9026891c54",
+      "localSha256": "5086bbb6b9d012a562c93840934155a9e1252d9b5820905c1acc2f9026891c54"
+    },
+    {
+      "url": "https://loot.family/brands/logos/shein.png",
+      "localPath": "public/brands/logos/shein.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 58427,
+      "sourceSha256": "07cb43b26ce283097f14c777430923679a4113da0f9e73bcaf541bbff7019ba1",
+      "localSha256": "07cb43b26ce283097f14c777430923679a4113da0f9e73bcaf541bbff7019ba1"
+    },
+    {
+      "url": "https://loot.family/brands/logos/shopee.png",
+      "localPath": "public/brands/logos/shopee.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 28396,
+      "sourceSha256": "f41309eb297698ae51c7efc45354fe431907936e1ea0e3cedbc232664d77ba18",
+      "localSha256": "f41309eb297698ae51c7efc45354fe431907936e1ea0e3cedbc232664d77ba18"
+    },
+    {
+      "url": "https://loot.family/brands/logos/skechers.png",
+      "localPath": "public/brands/logos/skechers.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 52780,
+      "sourceSha256": "7550e5eddbe68ea1aab55bef5159d8177f314e2e787c6b7748fb53ec513ef3b0",
+      "localSha256": "7550e5eddbe68ea1aab55bef5159d8177f314e2e787c6b7748fb53ec513ef3b0"
+    },
+    {
+      "url": "https://loot.family/brands/logos/sonic.png",
+      "localPath": "public/brands/logos/sonic.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 85788,
+      "sourceSha256": "6d315777c3d830527066ce70ab8b767142ea606de17e01987b85860d047a5d73",
+      "localSha256": "6d315777c3d830527066ce70ab8b767142ea606de17e01987b85860d047a5d73"
+    },
+    {
+      "url": "https://loot.family/brands/logos/southwest.png",
+      "localPath": "public/brands/logos/southwest.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 124984,
+      "sourceSha256": "4dc85df8e6fc73110d5636cb724390e707e9d119c7f5bcf3786a29a541645a22",
+      "localSha256": "4dc85df8e6fc73110d5636cb724390e707e9d119c7f5bcf3786a29a541645a22"
+    },
+    {
+      "url": "https://loot.family/brands/logos/starbucks.png",
+      "localPath": "public/brands/logos/starbucks.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 110176,
+      "sourceSha256": "55ba6498f37077a814a65e3ef5c36c287a87abc76b3143daa5215366830320d6",
+      "localSha256": "55ba6498f37077a814a65e3ef5c36c287a87abc76b3143daa5215366830320d6"
+    },
+    {
+      "url": "https://loot.family/brands/logos/steam.png",
+      "localPath": "public/brands/logos/steam.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 48433,
+      "sourceSha256": "d256b1624c52ba5fa45355ddd3e619731a19060909150e2d1829fc112ac4a7e2",
+      "localSha256": "d256b1624c52ba5fa45355ddd3e619731a19060909150e2d1829fc112ac4a7e2"
+    },
+    {
+      "url": "https://loot.family/brands/logos/stubhub.png",
+      "localPath": "public/brands/logos/stubhub.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 38224,
+      "sourceSha256": "092467ee33dae4992dfdba4274aa00c31f2e09af576bca1c12093290aac0ede4",
+      "localSha256": "092467ee33dae4992dfdba4274aa00c31f2e09af576bca1c12093290aac0ede4"
+    },
+    {
+      "url": "https://loot.family/brands/logos/subway.png",
+      "localPath": "public/brands/logos/subway.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 34574,
+      "sourceSha256": "5ccbbd9f7111530e645e2b092009510fbe7f8b623399f4b1beb8f5447714b6f4",
+      "localSha256": "5ccbbd9f7111530e645e2b092009510fbe7f8b623399f4b1beb8f5447714b6f4"
+    },
+    {
+      "url": "https://loot.family/brands/logos/swarovski.png",
+      "localPath": "public/brands/logos/swarovski.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 18591,
+      "sourceSha256": "7e872ba5e504bd9bf5fab608f7127dbe8c155d3eed3764365908f0c365e6011a",
+      "localSha256": "7e872ba5e504bd9bf5fab608f7127dbe8c155d3eed3764365908f0c365e6011a"
+    },
+    {
+      "url": "https://loot.family/brands/logos/taco-bell.png",
+      "localPath": "public/brands/logos/taco-bell.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 126109,
+      "sourceSha256": "f675d8862688431769baa5fb361c9c8650ca681c8f76c3609d6a128f406204e0",
+      "localSha256": "f675d8862688431769baa5fb361c9c8650ca681c8f76c3609d6a128f406204e0"
+    },
+    {
+      "url": "https://loot.family/brands/logos/talabat.png",
+      "localPath": "public/brands/logos/talabat.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 38002,
+      "sourceSha256": "ca493c2eac141d674489a2af6d6f03d0f4c02f831979f82688d75fad047de273",
+      "localSha256": "ca493c2eac141d674489a2af6d6f03d0f4c02f831979f82688d75fad047de273"
+    },
+    {
+      "url": "https://loot.family/brands/logos/target.png",
+      "localPath": "public/brands/logos/target.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 36938,
+      "sourceSha256": "c4d829ed325de4fbcfbc8aa2d0913f7a347fb2667183ce515a4cad390d40db72",
+      "localSha256": "c4d829ed325de4fbcfbc8aa2d0913f7a347fb2667183ce515a4cad390d40db72"
+    },
+    {
+      "url": "https://loot.family/brands/logos/tesco.png",
+      "localPath": "public/brands/logos/tesco.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 43533,
+      "sourceSha256": "ee906b9b87268aec21b6f13e85cb5ca715402a866175f11aef9dfb7205da7e94",
+      "localSha256": "ee906b9b87268aec21b6f13e85cb5ca715402a866175f11aef9dfb7205da7e94"
+    },
+    {
+      "url": "https://loot.family/brands/logos/ticketmaster.png",
+      "localPath": "public/brands/logos/ticketmaster.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 35418,
+      "sourceSha256": "eca986fb9dbfbe17f9e88ab9dd5e02d6e9acf5de5910bbc8609bbdb129b3918d",
+      "localSha256": "eca986fb9dbfbe17f9e88ab9dd5e02d6e9acf5de5910bbc8609bbdb129b3918d"
+    },
+    {
+      "url": "https://loot.family/brands/logos/tidal.png",
+      "localPath": "public/brands/logos/tidal.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 28220,
+      "sourceSha256": "d43c4e8eaa328dda9ec812af51399a326369f218d054d431b25cec87fb1ed194",
+      "localSha256": "d43c4e8eaa328dda9ec812af51399a326369f218d054d431b25cec87fb1ed194"
+    },
+    {
+      "url": "https://loot.family/brands/logos/tim-hortons.png",
+      "localPath": "public/brands/logos/tim-hortons.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 42139,
+      "sourceSha256": "9363044da5a7fcf643a2113f0fabf89b475293677ae385e73eb786701ec76e91",
+      "localSha256": "9363044da5a7fcf643a2113f0fabf89b475293677ae385e73eb786701ec76e91"
+    },
+    {
+      "url": "https://loot.family/brands/logos/tk-maxx.png",
+      "localPath": "public/brands/logos/tk-maxx.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 36246,
+      "sourceSha256": "a6bb648bf5830396eb5f1064cdcaeaa0fba4860f3900b142801fffc9a5c1f7ec",
+      "localSha256": "a6bb648bf5830396eb5f1064cdcaeaa0fba4860f3900b142801fffc9a5c1f7ec"
+    },
+    {
+      "url": "https://loot.family/brands/logos/tommy-hilfiger.png",
+      "localPath": "public/brands/logos/tommy-hilfiger.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 106572,
+      "sourceSha256": "698fbbb99e527c6c6a4a2478d90e237a836e4ac9c794c86aeeb5f6a6bcee47f9",
+      "localSha256": "698fbbb99e527c6c6a4a2478d90e237a836e4ac9c794c86aeeb5f6a6bcee47f9"
+    },
+    {
+      "url": "https://loot.family/brands/logos/topgolf.png",
+      "localPath": "public/brands/logos/topgolf.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 31802,
+      "sourceSha256": "2179460df4cb22460f84466aa71dadee93f0e0c5d8feea958bb1ad2209737e8b",
+      "localSha256": "2179460df4cb22460f84466aa71dadee93f0e0c5d8feea958bb1ad2209737e8b"
+    },
+    {
+      "url": "https://loot.family/brands/logos/twitch.png",
+      "localPath": "public/brands/logos/twitch.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 12080,
+      "sourceSha256": "f76f0fe5ffbf9f3dd2980a02cf128992d57facdf7df9e1d833ae0c7e58ad559a",
+      "localSha256": "f76f0fe5ffbf9f3dd2980a02cf128992d57facdf7df9e1d833ae0c7e58ad559a"
+    },
+    {
+      "url": "https://loot.family/brands/logos/uber-eats.png",
+      "localPath": "public/brands/logos/uber-eats.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 88744,
+      "sourceSha256": "ceeb348f24352be735e21451e8036fb72627c10ec6b3c4b2b893c8b19de64570",
+      "localSha256": "ceeb348f24352be735e21451e8036fb72627c10ec6b3c4b2b893c8b19de64570"
+    },
+    {
+      "url": "https://loot.family/brands/logos/uber.png",
+      "localPath": "public/brands/logos/uber.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 41573,
+      "sourceSha256": "70e744d95bb76bcf444d334909bbe4c1dc01ad6da45951ef6ff62c577bee9114",
+      "localSha256": "70e744d95bb76bcf444d334909bbe4c1dc01ad6da45951ef6ff62c577bee9114"
+    },
+    {
+      "url": "https://loot.family/brands/logos/ulta.png",
+      "localPath": "public/brands/logos/ulta.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 69247,
+      "sourceSha256": "f72904a6eef94967ec5311521abbdb1b17cfac3388ce2573793d24ec6a6e3f86",
+      "localSha256": "f72904a6eef94967ec5311521abbdb1b17cfac3388ce2573793d24ec6a6e3f86"
+    },
+    {
+      "url": "https://loot.family/brands/logos/under-armour.png",
+      "localPath": "public/brands/logos/under-armour.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 57186,
+      "sourceSha256": "704db1c67e405864d87aeb09e12bcec3a228e5c848410cb998b16963d6ca6e64",
+      "localSha256": "704db1c67e405864d87aeb09e12bcec3a228e5c848410cb998b16963d6ca6e64"
+    },
+    {
+      "url": "https://loot.family/brands/logos/valorant.png",
+      "localPath": "public/brands/logos/valorant.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 65629,
+      "sourceSha256": "a129480da187f5a8b77d98a585f59920939a3688431a18963071880eb7615800",
+      "localSha256": "a129480da187f5a8b77d98a585f59920939a3688431a18963071880eb7615800"
+    },
+    {
+      "url": "https://loot.family/brands/logos/walgreens.png",
+      "localPath": "public/brands/logos/walgreens.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 76496,
+      "sourceSha256": "20bd07344a2b520ba5ceb50ae09f768b724a57c11e2b6b615572d4349e71072e",
+      "localSha256": "20bd07344a2b520ba5ceb50ae09f768b724a57c11e2b6b615572d4349e71072e"
+    },
+    {
+      "url": "https://loot.family/brands/logos/walmart.png",
+      "localPath": "public/brands/logos/walmart.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 36701,
+      "sourceSha256": "22374b7bd58d9f4e508748db9b94d4d4baa62bcbdcddfb0562e6a6cd012207d2",
+      "localSha256": "22374b7bd58d9f4e508748db9b94d4d4baa62bcbdcddfb0562e6a6cd012207d2"
+    },
+    {
+      "url": "https://loot.family/brands/logos/wolt.png",
+      "localPath": "public/brands/logos/wolt.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 57409,
+      "sourceSha256": "2d2a8fec382145ac1485de906e1432f1f9f14019ff34cc3626b41a8e96b9c934",
+      "localSha256": "2d2a8fec382145ac1485de906e1432f1f9f14019ff34cc3626b41a8e96b9c934"
+    },
+    {
+      "url": "https://loot.family/brands/logos/xbox.png",
+      "localPath": "public/brands/logos/xbox.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 37342,
+      "sourceSha256": "fceb9e07ef9c0ea99a569b35af47f99e357f07a0337baadf7c4204c52b0e6e87",
+      "localSha256": "fceb9e07ef9c0ea99a569b35af47f99e357f07a0337baadf7c4204c52b0e6e87"
+    },
+    {
+      "url": "https://loot.family/brands/logos/zalando.png",
+      "localPath": "public/brands/logos/zalando.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 122723,
+      "sourceSha256": "802c33ad97c3c4429cf0b73879955fd442a088e71e8759e82dd6d5c01e1c1a1b",
+      "localSha256": "802c33ad97c3c4429cf0b73879955fd442a088e71e8759e82dd6d5c01e1c1a1b"
+    },
+    {
+      "url": "https://loot.family/favicon-16x16.png?v=3",
+      "localPath": "public/favicon-16x16.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 282,
+      "sourceSha256": "b19070c548334ca8d7304a654b05629504fc92d5a9ce726a264aedc629a4dc7f",
+      "localSha256": "b19070c548334ca8d7304a654b05629504fc92d5a9ce726a264aedc629a4dc7f"
+    },
+    {
+      "url": "https://loot.family/favicon-32x32.png?v=3",
+      "localPath": "public/favicon-32x32.png",
+      "status": 200,
+      "contentType": "image/png",
+      "bytes": 514,
+      "sourceSha256": "e41ff5b7052242647ff67944898533c285ad3b2184f72622e12576c86ca3dd5f",
+      "localSha256": "e41ff5b7052242647ff67944898533c285ad3b2184f72622e12576c86ca3dd5f"
+    },
+    {
+      "url": "https://loot.family/favicon.ico?v=3",
+      "localPath": "public/favicon.ico",
+      "status": 200,
+      "contentType": "image/vnd.microsoft.icon",
+      "bytes": 15086,
+      "sourceSha256": "7503c836e85685bd83cc5265ebb850a0bcc0c2020efdeb39bfe70151fa8fdf24",
+      "localSha256": "7503c836e85685bd83cc5265ebb850a0bcc0c2020efdeb39bfe70151fa8fdf24"
+    },
+    {
+      "url": "https://m.rapidlaunch.io/images/TBG1K3BJK.jpg",
+      "localPath": "public/captured/external/b84c184d7fbb804bc46a5622.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 11711,
+      "sourceSha256": "ed8d55bac3508c459b4441ddb504ba7873eb66ef9eb85c78f53e6db6941c9838",
+      "localSha256": "ed8d55bac3508c459b4441ddb504ba7873eb66ef9eb85c78f53e6db6941c9838"
+    },
+    {
+      "url": "https://m.rapidlaunch.io/images/YFt8X2Mah.jpg",
+      "localPath": "public/captured/external/fb90733645776e547c8db3c4.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 8272,
+      "sourceSha256": "a54a15c9f82cbbea75ab1e1566925c350f8315431455e87f7b57b57d41bc9940",
+      "localSha256": "a54a15c9f82cbbea75ab1e1566925c350f8315431455e87f7b57b57d41bc9940"
+    },
+    {
+      "url": "https://m.rapidlaunch.io/images/js4XMKUXD.jpg",
+      "localPath": "public/captured/external/eb192967970721bf9e924e6b.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 25673,
+      "sourceSha256": "37bba9a78f5cb3abfc0721289783ef4cc025e1d542011ddbe5a917753fcd61c6",
+      "localSha256": "37bba9a78f5cb3abfc0721289783ef4cc025e1d542011ddbe5a917753fcd61c6"
+    },
+    {
+      "url": "https://m.rapidlaunch.io/images/vj8ToCuGO.jpg",
+      "localPath": "public/captured/external/3458026a66388eb9b818b7bf.jpg",
+      "status": 200,
+      "contentType": "image/jpeg",
+      "bytes": 12905,
+      "sourceSha256": "2a697263d7b1ce7f7c27733aeba364c3f56fd6a321a1167d2dcf47d6154548d0",
+      "localSha256": "2a697263d7b1ce7f7c27733aeba364c3f56fd6a321a1167d2dcf47d6154548d0"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/intertight/OFL.txt",
+      "localPath": "public/captured/licenses/InterTight-OFL.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "bytes": 4383,
+      "sourceSha256": "50240ab035cf1b6b3307940235481d515c4b6de3ab1fa843dbe59e7892cb9d58",
+      "localSha256": "50240ab035cf1b6b3307940235481d515c4b6de3ab1fa843dbe59e7892cb9d58"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/outfit/OFL.txt",
+      "localPath": "public/captured/licenses/Outfit-OFL.txt",
+      "status": 200,
+      "contentType": "text/plain; charset=utf-8",
+      "bytes": 4389,
+      "sourceSha256": "c676351bf8576b9aba743cd5eaa8c0e7ee0d51f805d720447b4df4ddb6a2e416",
+      "localSha256": "c676351bf8576b9aba743cd5eaa8c0e7ee0d51f805d720447b4df4ddb6a2e416"
+    }
+  ],
+  "externalMediaMap": {
+    "https://axiomtrading-v2.axiom-cdn.io/2WZnseF9pVjbEgbyuiPA9uukpDGymsMF2JcfLQGypump.webp": "/captured/external/821961c82ac3369ad6e1b09a.webp",
+    "https://axiomtrading-v2.axiom-cdn.io/5FDRxLEMremdJH1QK4B1KESaU6khzHrZ2Lppq7iHGwCg.webp": "/captured/external/364a2bc6b72e99dd669f500b.webp",
+    "https://axiomtrading-v2.axiom-cdn.io/61UP5x27K9iNcBUwnrTFTwntpdTn9uCBPfdiVfdWuKrg.webp": "/captured/external/2235862f02747a7fcc3d74c3.webp",
+    "https://axiomtrading-v2.axiom-cdn.io/8vLn15PE7P8qP2rgDcrHgo1U4SvMqWzoG575x2cdioos.webp": "/captured/external/90ce79fedffa64dcd5c13076.webp",
+    "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/76eFuEdFqKQGoXdhiCz1JEvRcabvQPh7vh1f4C9n6b2x.webp": "/captured/external/7d602bc02481ded746a0059d.webp",
+    "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/8i3QuAhMqU1btgt3crgegDNxFTU8gcUNSW4c3uqRpump.webp": "/captured/external/50f90342117b358adf1d0f1c.webp",
+    "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/CB138sUYCYqnHJqaS29MRtTz986cM5X4XTFQsgbebonk.webp": "/captured/external/ceafbdcbd6693d0eaf05682c.webp",
+    "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/CvtCSMDByj1oC15WMZPtA7QoVfJsShcZpzBuR44Dpump.webp": "/captured/external/3b90f9f2c63971df11e08623.webp",
+    "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/GPhrDJxNybU1FNZEaSnZ1FCGDdL5wnC34zwBzP9jNxNh.webp": "/captured/external/1257933d4692112cef732df8.webp",
+    "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/J1nFRhWLxF6TgUfN6WcUYLZuSknHBqj1MdZjwztwZoVp.webp": "/captured/external/f5365bb1fb71b892154011e2.webp",
+    "https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap": "/captured/external/1657d90534bc56ced7946e93.css",
+    "https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap": "/captured/external/bd416d3ebf3644ee3662eb17.css",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsD8ah8QA.woff2": "/captured/external/0cc453356551d4ef11d5d1b4.woff2",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsE8ah8QA.woff2": "/captured/external/8f59721c6d59cea43f85784b.woff2",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsH8ag.woff2": "/captured/external/603db177c94704c628ea1929.woff2",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsI8ah8QA.woff2": "/captured/external/c69d8181db48735e4cdf6e4a.woff2",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsJ8ah8QA.woff2": "/captured/external/e15235478ef9f5ab9a9ac7bf.woff2",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsK8ah8QA.woff2": "/captured/external/a82945146b6521cff171163b.woff2",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSwv5HMAFg6IuGlBNMjxLsL8ah8QA.woff2": "/captured/external/7aa16fae3e0a32bd6bf5f9c0.woff2",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwa5kRFe9.woff2": "/captured/external/0905c2a0d2f4ef05d5cf9ff6.woff2",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwaRkRFe9.woff2": "/captured/external/833ebb4225604de433e67dd5.woff2",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwaVkRFe9.woff2": "/captured/external/18f2f9b59692f7edd035f0e6.woff2",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwaZkRFe9.woff2": "/captured/external/6aec96b8e74e95fff8c9b520.woff2",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwadkRFe9.woff2": "/captured/external/f642f214fc8533a251cd0be0.woff2",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwalkRFe9.woff2": "/captured/external/88214793bdf43d813dd95a0b.woff2",
+    "https://fonts.gstatic.com/s/intertight/v9/NGSyv5HMAFg6IuGlBNMjxLsCwapkRA.woff2": "/captured/external/eb6b2eb8e965374073a7df7f.woff2",
+    "https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJtEtq.woff2": "/captured/external/836b5877f0891ac748189ee8.woff2",
+    "https://fonts.gstatic.com/s/outfit/v15/QGYvz_MVcBeNP4NJuktqQ4E.woff2": "/captured/external/a98bd92496b62047b8cf25b3.woff2",
+    "https://img.loot.family/?u=https%3A%2F%2Faxiomtrading-v2.axiom-cdn.io%2F8vLn15PE7P8qP2rgDcrHgo1U4SvMqWzoG575x2cdioos.webp": "/captured/external/28e45982312bd998ef43d38a.webp",
+    "https://img.loot.family/?u=https%3A%2F%2Faxiomtrading.sfo3.cdn.digitaloceanspaces.com%2F76eFuEdFqKQGoXdhiCz1JEvRcabvQPh7vh1f4C9n6b2x.webp": "/captured/external/ae473ad647d50e945324d3bf.webp",
+    "https://img.loot.family/?u=https%3A%2F%2Faxiomtrading.sfo3.cdn.digitaloceanspaces.com%2FGPhrDJxNybU1FNZEaSnZ1FCGDdL5wnC34zwBzP9jNxNh.webp": "/captured/external/69ad80fdf7d42c4b0b0bb653.webp",
+    "https://img.loot.family/?u=https%3A%2F%2Fm.rapidlaunch.io%2Fimages%2FTBG1K3BJK.jpg": "/captured/external/c94762894bce29b60d5f772b.jpg",
+    "https://img.loot.family/?u=https%3A%2F%2Fm.rapidlaunch.io%2Fimages%2Fjs4XMKUXD.jpg": "/captured/external/0f083e6272f4c8a112cc26c1.jpg",
+    "https://img.loot.family/?u=https%3A%2F%2Fm.rapidlaunch.io%2Fimages%2Fvj8ToCuGO.jpg": "/captured/external/c104ce56090eeb45086851e0.jpg",
+    "https://img.loot.family/?u=https%3A%2F%2Fmetadata.j7tracker.io%2Fimages%2F285859f227a040d6": "/captured/external/f442618e32de5182eb8000e4.webp",
+    "https://img.loot.family/?u=https%3A%2F%2Fmetadata.j7tracker.io%2Fimages%2F8DBbcGMCCH": "/captured/external/08ee385903339b35c61686d3.webp",
+    "https://ipfs.loot.family/2N34KaYMYLhsMscWdQaVVaBiW67h8QxwFhhG1k3G9q2P.jpg": "/captured/external/c691152851b6767a4bff5b1b.jpg",
+    "https://ipfs.loot.family/2kd2xL7AUpXpPq8UU7rGj7Dw4KcC18k3W3WvmcC6wH7E.jpg": "/captured/external/48910d8a72630e5dba578595.jpg",
+    "https://ipfs.loot.family/3AeT8zcP75btKBRPXFcLzkQc35HZsx2QxV6xEphia9fV.png": "/captured/external/15766c76257c3c075aada061.png",
+    "https://ipfs.loot.family/3hRdUQVEXd1jBu2RerCYbqHCegVPi6VJjQiPMmnMPccb.png": "/captured/external/3cfd5407efdc16161684c9ca.png",
+    "https://ipfs.loot.family/45Nj1ix4Cs2csYhS6q57KhxQHWvBrWgSuEyYwi1FjYfG.jpg": "/captured/external/ebcc0fb2aeb6208cf5bda441.jpg",
+    "https://ipfs.loot.family/496DXUNhYrWXvUTRCPDjXhbCashgd6JVVAhAUikjbrwN.jpg": "/captured/external/a2ebd5c0cfa2467f81cf81a9.jpg",
+    "https://ipfs.loot.family/4kZkqqUVn8bkYi8xA7gRzpiMEgoimdqhYhCddi5CjKv1.png": "/captured/external/692f091e1c072a6628a83841.png",
+    "https://ipfs.loot.family/6bHt9k2DEpv1W56UsmpEaBgCUdfQStZSME6xsecZgmN9.png": "/captured/external/c54825744f17e1e938076aaa.png",
+    "https://ipfs.loot.family/6wj8ndCEfQuhcZBG9skku7BU3FZKZiqn1YWnbGGeN3CJ.jpg": "/captured/external/ecb3d50184ad288df5a8781d.jpg",
+    "https://ipfs.loot.family/7DJ4XhGjWxuacBmysz7UvrMJuD4mm84kdjmQjt3fG9YG.jpg": "/captured/external/f76383e9c06b78e7162d9bd1.jpg",
+    "https://ipfs.loot.family/7hanRdPzQLS5LUeHa4PdznRs9H74GfQrtzN72r16Zo2Q.png": "/captured/external/c128b08cd4b1cf93621e4614.png",
+    "https://ipfs.loot.family/8YhXTtgLqG4S4Pv7graKpD3bNgjccG2MEhXHoRNCWP12.png": "/captured/external/58bad0c5a9b4819d9f4d5e61.png",
+    "https://ipfs.loot.family/8vLn15PE7P8qP2rgDcrHgo1U4SvMqWzoG575x2cdioos.jpg": "/captured/external/af70df6cf487501a9898a5e5.jpg",
+    "https://ipfs.loot.family/9DjPxXa8q822rwqSTHTPv62mPZtbCooFpsvnH4g2JmSx.png": "/captured/external/b7bd943f274c7959dcf2856c.png",
+    "https://ipfs.loot.family/9pJxDsQUWLQ7XWHVSsQDAA6Wbp28EtsrZNZU2on1K8x8.jpg": "/captured/external/9c6016e57060a4340fdbba38.jpg",
+    "https://ipfs.loot.family/ASmUo1Z3B2Y8RN7H8ZrYj8ingDZhhRC83KR4eiDp1W6n.png": "/captured/external/8d2bb2c492854da9c26de0c8.png",
+    "https://ipfs.loot.family/B8MVTdZYp14A1GtnNS15Yexb3BiHwhUC1f7HbtypNnQ2.jpg": "/captured/external/4ca872b401c9f87470e5efde.jpg",
+    "https://ipfs.loot.family/BGgxPseJPkPtVcMiYHRKn8M6pm6YrFJPQ2qJNdqwYKBy.png": "/captured/external/7d518240832de93c729bc254.png",
+    "https://ipfs.loot.family/CC7K28oMUqtP7j8m7275jjYpfwbLQVo2gwXf1LwYtTbE.png": "/captured/external/90a71eecfd23b42008872f54.png",
+    "https://ipfs.loot.family/E7FRv1j8kttugoMhSX5BinWqpPvoMEzyrTTorSet6n4r.jpg": "/captured/external/72ca868dd89fb167ff723fc7.jpg",
+    "https://ipfs.loot.family/ECEBKXdwht5fWqJmpiyPxTR1JQ4h1KaSE6h5A5QdhedY.png": "/captured/external/860b14a4da6a867b55e2d73c.png",
+    "https://ipfs.loot.family/F2NFNh8rE15W3X42kfW5ccrPpJVeM6KdReQdBPqvuF13.png": "/captured/external/a647c866e089f2c9dae3a60b.png",
+    "https://ipfs.loot.family/Fikz6Py5GT22wKDsRcT8dd4M6r7Dg5jVCENwU5f4iP3j.png": "/captured/external/cfccda89d33f4aabc7b166f8.png",
+    "https://ipfs.loot.family/Gzt2nw8MUVDZxE3mwjUdwcMRi2z1rd3H2y8k9XwhUkNe.jpg": "/captured/external/571dc05c8aeb283ffb17023b.jpg",
+    "https://ipfs.loot.family/HFqWyvmzw4NCfvpXgXPGedyEfBK4wu56bhvMkbNNG4G4.jpg": "/captured/external/ff46be9f1ba4dacad25e865b.jpg",
+    "https://ipfs.loot.family/f8tM45wefetDmtWmBFuxw3w5NLP8t2oamACZE1xmkiE.jpg": "/captured/external/76430c8636cd55d134dd38b9.jpg",
+    "https://loot.family/apple-touch-icon.png?v=3": "/apple-touch-icon.png",
+    "https://loot.family/favicon-16x16.png?v=3": "/favicon-16x16.png",
+    "https://loot.family/favicon-32x32.png?v=3": "/favicon-32x32.png",
+    "https://loot.family/favicon.ico?v=3": "/favicon.ico",
+    "https://m.rapidlaunch.io/images/TBG1K3BJK.jpg": "/captured/external/b84c184d7fbb804bc46a5622.jpg",
+    "https://m.rapidlaunch.io/images/YFt8X2Mah.jpg": "/captured/external/fb90733645776e547c8db3c4.jpg",
+    "https://m.rapidlaunch.io/images/js4XMKUXD.jpg": "/captured/external/eb192967970721bf9e924e6b.jpg",
+    "https://m.rapidlaunch.io/images/vj8ToCuGO.jpg": "/captured/external/3458026a66388eb9b818b7bf.jpg",
+    "https://raw.githubusercontent.com/google/fonts/main/ofl/intertight/OFL.txt": "/captured/licenses/InterTight-OFL.txt",
+    "https://raw.githubusercontent.com/google/fonts/main/ofl/outfit/OFL.txt": "/captured/licenses/Outfit-OFL.txt"
+  },
+  "failures": [],
+  "documents": [
+    {
+      "path": "/root/.hermes/cache/scratch/loot-reference.html",
+      "sha256": "5cd48b84cecf2b0a6fdc256512b8385ff5f426edfe14559c99b6c9166a4bc095"
+    }
+  ],
+  "dynamicMediaPolicy": {
+    "sampleLimit": 100,
+    "discoveredDynamicMedia": 48,
+    "sampledDynamicMedia": 48,
+    "remainingMedia": "Live public URLs, no RPC/auth/signing reuse"
+  },
+  "generatedStylesheets": [
+    "public/captured/fonts.css"
+  ],
+  "localSecurityPolicy": "Reference credentials/private writes removed before publication; source hashes retained, local hashes updated."
+}

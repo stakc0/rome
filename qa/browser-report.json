@@ -1,0 +1,96 @@
+{
+  "origin": "https://loot-navy.vercel.app",
+  "checks": [
+    {
+      "name": "native onboarding",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "original onboarding video plays",
+      "passed": true,
+      "detail": {
+        "time": 0.500441,
+        "ready": 4,
+        "duration": 12.544
+      }
+    },
+    {
+      "name": "real coin cards load",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "live stats and top brands settle",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "wallet selector opens",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "native token-card navigation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "direct route /brands",
+      "passed": true,
+      "detail": "Skip to main content\nExplore\nBrands\nRanks\nDocs\nLaunch Token\nConnect wallet\nBrands\n\nA coin is paired to one brand. You can redeem your balance for that brand's g"
+    },
+    {
+      "name": "leaderboard real wallet rows",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "direct route /leaderboard",
+      "passed": true,
+      "detail": "Skip to main content\nExplore\nBrands\nRanks\nDocs\nLaunch Token\nConnect wallet\nLeaderboard\n\nWallets paid the most in gift-card credits.\n\n#1\n\n3gHr\u2026aTZJ\n\u2014\nRedeemed\n$0"
+    },
+    {
+      "name": "direct route /docs",
+      "passed": true,
+      "detail": "Skip to main content\nExplore\nBrands\nRanks\nDocs\nLaunch Token\nConnect wallet\nUsing LOOT\nDevelopers\nSearch Using LOOT\n\nOn this page\n\nOverview\nLaunch modes\nBalances"
+    },
+    {
+      "name": "direct route /docs/developers",
+      "passed": true,
+      "detail": "Skip to main content\nExplore\nBrands\nRanks\nDocs\nLaunch Token\nConnect wallet\nUsing LOOT\nDevelopers\nSearch Developers\n\nOn this page\n\nLaunch\nModes\nIntegration\nRead "
+    },
+    {
+      "name": "direct route /launch",
+      "passed": true,
+      "detail": "Skip to main content\nExplore\nBrands\nRanks\nDocs\nLaunch Token\nConnect wallet\nLaunch token\non pump.fun\nName\nTicker\nDescription\n\nToken image\n\nChoose image\nTwitter\nT"
+    },
+    {
+      "name": "direct route /loot",
+      "passed": true,
+      "detail": "Skip to main content\nExplore\nBrands\nRanks\nDocs\nLaunch Token\nConnect wallet\nLoot Coin $LOOT\n5sLH\u2026pump\nx.com/lootfam\nloot.family\n\nLaunch coins paired with real-li"
+    },
+    {
+      "name": "brand detail route",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "direct route refresh",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "mobile cards and overflow",
+      "passed": true,
+      "detail": {
+        "width": 390,
+        "scroll": 390
+      }
+    }
+  ],
+  "errors": [],
+  "failedRequests": [],
+  "passed": 16,
+  "total": 16
+}

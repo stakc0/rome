@@ -1,0 +1,29 @@
+{
+  "changes": [
+    {
+      "asset": "public/assets/index-CU_PDl1A.js",
+      "blockedFunction": "HM"
+    },
+    {
+      "asset": "public/assets/index-CU_PDl1A.js",
+      "blockedFunction": "UM"
+    },
+    {
+      "asset": "public/assets/index-CU_PDl1A.js",
+      "blockedFunction": "KM"
+    },
+    {
+      "asset": "public/assets/index-CU_PDl1A.js",
+      "blockedFunction": "cM"
+    },
+    {
+      "asset": "public/assets/index-CU_PDl1A.js",
+      "bundleFunctionBodyRemoved": true
+    },
+    {
+      "asset": "public/assets/index-CU_PDl1A.js",
+      "credentialFieldsRemoved": 0
+    }
+  ],
+  "scope": "public client hygiene, no credentials or signed writes"
+}

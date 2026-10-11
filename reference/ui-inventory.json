@@ -1,0 +1,2440 @@
+{
+  "origin": "https://loot.family",
+  "observedAt": "2026-10-07T16:02:09.591713+00:00",
+  "renderedRoutes": {
+    "/docs": {
+      "url": "https://loot.family/docs",
+      "text": "Skip to main content\nExplore\nBrands\nRanks\nDocs\nLaunch Token\nConnect wallet\nUsing LOOT\nDevelopers\nSearch Using LOOT\n\nOn this page\n\nOverview\nLaunch modes\nBalances and redeeming\nListing requirements\n\nDocs\n\nHow LOOT works\n\nLaunch a coin on pump.fun and pair it to a brand. 80% of trading fees fund rewards for holders. 20% buys and burns $LOOT. Holders redeem what they earn as that brand's gift card.\n\nOverview\n#\n\nWhere trading fees go.\n\nTrading a coin on pump.fun earns creator fees. Once enough has built up, they are claimed and split the same way every time.\n\nTRADES\n\nThe coin\n\nFEES\n\nClaimed\n\n20%\n\nBuy & burn $LOOT\n\n80%\n\nHolders\n\nREDEEM\n\nGift card\n\nHolders\n80%, funds rewards for holders\nBuy & burn\n20%, buys and burns $LOOT\nClaimed\nOnce unclaimed fees reach 0.1 SOL\nOther fees\nNone\nLaunch modes\n#\n\nHow holders get paid, and who qualifies.\n\nCreate a coin, choose a brand, and launch on pump.fun. You pick how holders get paid, and how much they have to hold. Those choices are locked at launch.\n\nDividends\n\nRewards are paid on every claim. Your share is your share of the tokens that qualify. No draw. Hold more, earn more.\n\nGiveaway\n\nRewards accumulate for 10 minutes. Eligible holders are given tickets. Hold more, get more tickets, and a higher chance to win. You can only win once.\n\nEach giveaway prize is the cheapest US gift card for that brand, plus 10%. A $550 pot and a $10 card means 50 winners, each with enough to redeem one card. If the pot is too small for one prize, it rolls to the next draw.\n\nWho qualifies\nHold at least the minimum and you qualify. Hold less and you don't, in both modes.\nDraw times\nGiveaways draw at :00, :10, :20, :30, :40, and :50 past every hour, UTC.\nNobody qualifies\nDividends record the claim without paying holders. Giveaways keep the fees and try again at the next draw.\nMinimum holding\nMinimum\tShare of supply\n100K tokens\t0.01%\n1M tokens\t0.1%\n10M tokens\t1%\n\nYou pick one at launch. It never changes. Supply is 1B tokens. Giveaways use whole tokens as tickets. Dividends use your token balance. The bonding curve and the Pump pool never count.\n\nBalances and redeeming\n#\n\nTurning earned fees into a gift card.\n\nEarnings are credited to a balance for each wallet and brand.\nCoins paired to the same brand add to the same balance.\nTo redeem, choose a gift card amount on the brand page. The balance is debited and the gift card is issued.\nIf your region isn't listed, transfer the balance to any other brand available in your region. If none are, cash it out as SOL.\nThere is a 20% penalty on SOL claims, so the gift card is the better deal.\nIf a gift card fails to issue or has an error, the spent amount is credited back.\nListing requirements\n#\n\nWhen a coin appears on LOOT.\n\nIt trades against SOL.\nThe paired brand is in the LOOT registry.\nIts creator fees were locked to the 80/20 split at launch.\nLOOT\n\nLaunch a coin and pair it to a brand. Holders earn the fees and redeem them as a gift card.\n\n@lootfam\n\n\u00a9 2026 LOOT\n\nProduct\n\nBrands\nLeaderboard\nLaunch\n\nAbout\n\nDocs\nDevelopers\nWelcome to Loot\n\nLaunch a coin on pump.fun and pair it to a brand. Trading fees pay holders, who redeem what they earn for a gift card.\n\nContinue",
+      "links": [
+        {
+          "text": "Skip to main content",
+          "href": "#main"
+        },
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Explore",
+          "href": "/"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Ranks",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        },
+        {
+          "text": "Launch Token",
+          "href": "/launch"
+        },
+        {
+          "text": "Using LOOT",
+          "href": "/docs"
+        },
+        {
+          "text": "Developers",
+          "href": "/docs/developers"
+        },
+        {
+          "text": "Overview",
+          "href": "#overview"
+        },
+        {
+          "text": "Launch modes",
+          "href": "#launch-modes"
+        },
+        {
+          "text": "Balances and redeeming",
+          "href": "#balance"
+        },
+        {
+          "text": "Listing requirements",
+          "href": "#listing"
+        },
+        {
+          "text": "$LOOT",
+          "href": "/loot"
+        },
+        {
+          "text": "Overview\n#",
+          "href": "#overview"
+        },
+        {
+          "text": "$LOOT",
+          "href": "/loot"
+        },
+        {
+          "text": "$LOOT",
+          "href": "/loot"
+        },
+        {
+          "text": "Launch modes\n#",
+          "href": "#launch-modes"
+        },
+        {
+          "text": "Balances and redeeming\n#",
+          "href": "#balance"
+        },
+        {
+          "text": "Listing requirements\n#",
+          "href": "#listing"
+        },
+        {
+          "text": "LOOT",
+          "href": "/"
+        },
+        {
+          "text": "@lootfam",
+          "href": "https://x.com/lootfam"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Leaderboard",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Launch",
+          "href": "/launch"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        },
+        {
+          "text": "Developers",
+          "href": "/docs/developers"
+        },
+        {
+          "text": "Explore",
+          "href": "/"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Ranks",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Connect wallet",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Play",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Play",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Mute",
+          "disabled": false
+        },
+        {
+          "text": "Continue",
+          "aria": null,
+          "disabled": false
+        }
+      ],
+      "inputs": [
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "",
+          "placeholder": "Search coins or brands"
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "",
+          "placeholder": "Search docs"
+        },
+        {
+          "tag": "INPUT",
+          "type": "range",
+          "name": "",
+          "placeholder": ""
+        }
+      ]
+    },
+    "/docs/developers": {
+      "url": "https://loot.family/docs/developers",
+      "text": "Skip to main content\nExplore\nBrands\nRanks\nDocs\nLaunch Token\nConnect wallet\nUsing LOOT\nDevelopers\nSearch Developers\n\nOn this page\n\nLaunch\nModes\nIntegration\nRead data\n\nFor LLMs\n\nllms.txt\nllms-full.txt\n\nDevelopers\n\nBuild on LOOT\n\nOne instruction, link_coin, pairs a pump.fun coin to a brand and locks its fee split, payout, and holder floor. Holder credit and redemption happen off-chain.\n\nLaunch\n#\n\nCreate a pump.fun coin and link it in one transaction.\n\nSend create_v2 followed by link_coin. An optional dev buy goes between them. link_coin checks that the product id is in the registry and that the bonding-curve creator is still the signer, then locks the fee split and stores the payout and floor.\n\nlaunch.ts\nCopy\nimport {\n  AccountRole,\n  address,\n  appendTransactionMessageInstructions,\n  createSolanaRpc,\n  createTransactionMessage,\n  generateKeyPairSigner,\n  getAddressEncoder,\n  getProgramDerivedAddress,\n  pipe,\n  setTransactionMessageFeePayerSigner,\n  setTransactionMessageLifetimeUsingBlockhash,\n  signTransactionMessageWithSigners,\n  type Address,\n  type Instruction,\n  type TransactionSigner,\n} from \"@solana/kit\";\n\nconst LOOT = address(\"LootzMHHCubYFZEgg7kjbyfdsEFBxfPkrUPNzuoExCk\");\nconst PUMP = address(\"6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P\");\nconst PUMP_FEE = address(\"pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ\");\nconst PAMM = address(\"pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA\");\nconst GLOBAL = address(\"4wTV1YmiEkRvAtNtsSGPtUrqRYQMe5SKy2uB4Jjaxnjf\");\nconst MINT_AUTHORITY = address(\"TSLvdd1pWpHVjahSpsvCXUbgwsL3JAcvokwaKt1eokM\");\nconst EVENT_AUTHORITY = address(\"Ce6TQqeHC9p8KetsN6JsjHK7UTZk7nasjjnr7XxXp9F1\");\nconst MAYHEM_PROGRAM = address(\"MAyhSmzXzV1pTf7LsNkrNwkWKTo4ougAJ1PPg47MD4e\");\nconst MAYHEM_GLOBAL = address(\"13ec7XdrjF3h3YcqBTFDSReRcUFwbCnJaAQspM4j6DDJ\");\nconst MAYHEM_SOL_VAULT = address(\"BwWK17cbHxwWBKZkUYvzxLcNQ1YVyaFezduWbtm2de6s\");\nconst SYSTEM = address(\"11111111111111111111111111111111\");\nconst TOKEN = address(\"TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA\");\nconst TOKEN_2022 = address(\"TokenzQdBNbLqP5VEhdkAS6EPFLC1PHnBqCXEpPxuEb\");\nconst ATA_PROGRAM = address(\"ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL\");\nconst WSOL = address(\"So11111111111111111111111111111111111111112\");\n\nconst text = new TextEncoder();\nconst enc = getAddressEncoder();\n\nconst ro = (account: Address) => ({ address: account, role: AccountRole.READONLY });\nconst rw = (account: Address) => ({ address: account, role: AccountRole.WRITABLE });\nconst rwSigner = (signer: TransactionSigner) => ({\n  address: signer.address,\n  role: AccountRole.WRITABLE_SIGNER,\n  signer,\n});\nfunction concat(...parts: Uint8Array[]): Uint8Array {\n  const out = new Uint8Array(parts.reduce((total, part) => total + part.length, 0));\n  let offset = 0;\n  for (const part of parts) {\n    out.set(part, offset);\n    offset += part.length;\n  }\n  return out;\n}\n\nfunction u32(value: number): Uint8Array {\n  const bytes = new Uint8Array(4);\n  new DataView(bytes.buffer).setUint32(0, value, true);\n  return bytes;\n}\n\nfunction u64(value: bigint): Uint8Array {\n  const bytes = new Uint8Array(8);\n  new DataView(bytes.buffer).setBigUint64(0, value, true);\n  return bytes;\n}\n\nfunction borshString(value: string): Uint8Array {\n  const bytes = text.encode(value);\n  return concat(u32(bytes.length), bytes);\n}\n\nasync function discriminator(name: string): Promise<Uint8Array> {\n  const hash = await crypto.subtle.digest(\"SHA-256\", text.encode(`global:${name}`));\n  return new Uint8Array(hash).subarray(0, 8);\n}\n\nasync function pda(program: Address, seeds: Uint8Array[]): Promise<Address> {\n  const [derived] = await getProgramDerivedAddress({ programAddress: program, seeds });\n  return derived;\n}\n\nasync function ata(owner: Address, mint: Address, tokenProgram: Address): Promise<Address> {\n  return pda(ATA_PROGRAM, [enc.encode(owner), enc.encode(tokenProgram), enc.encode(mint)]);\n}\n\nfunction productIdBytes(productId: string): Uint8Array {\n  const bytes = text.encode(productId);\n  if (bytes.length < 1 || bytes.length > 32) throw new Error(\"Brand id must be 1\u201332 bytes.\");\n  return bytes;\n}\n\nfunction linkData(pid: Uint8Array, payout: number, floor: number): Uint8Array {\n  const data = new Uint8Array(2 + pid.length + 2);\n  data[0] = 3;\n  data[1] = pid.length;\n  data.set(pid, 2);\n  data[2 + pid.length] = payout;\n  data[3 + pid.length] = floor;\n  return data;\n}\n\n/**\n * Pump create_v2. SOL pair, mayhem off, cashback off.\n * Creator fee stays 0, which keeps the pump.fun schedule.\n */\nasync function createV2Ix(\n  payer: TransactionSigner,\n  mint: TransactionSigner,\n  meta: { name: string; symbol: string; uri: string },\n): Promise<Instruction> {\n  const bondingCurve = await pda(PUMP, [text.encode(\"bonding-curve\"), enc.encode(mint.address)]);\n  const mayhemState = await pda(MAYHEM_PROGRAM, [text.encode(\"mayhem-state\"), enc.encode(mint.address)]);\n  return {\n    programAddress: PUMP,\n    data: concat(\n      await discriminator(\"create_v2\"),\n      borshString(meta.name),\n      borshString(meta.symbol),\n      borshString(meta.uri),\n      Uint8Array.from(enc.encode(payer.address)),\n      new Uint8Array([0, 0]),\n      u64(0n),\n    ),\n    accounts: [\n      rwSigner(mint),\n      ro(MINT_AUTHORITY),\n      rw(bondingCurve),\n      rw(await ata(bondingCurve, mint.address, TOKEN_2022)),\n      ro(GLOBAL),\n      rwSigner(payer),\n      ro(SYSTEM),\n      ro(TOKEN_2022),\n      ro(ATA_PROGRAM),\n      rw(MAYHEM_PROGRAM),\n      ro(MAYHEM_GLOBAL),\n      rw(MAYHEM_SOL_VAULT),\n      rw(mayhemState),\n      rw(await ata(MAYHEM_SOL_VAULT, mint.address, TOKEN_2022)),\n      ro(EVENT_AUTHORITY),\n      ro(PUMP),\n    ],\n  };\n}\n\n/** LOOT link_coin. Tag 3. Locks 20% burn / 80% credit before it returns. */\nasync function linkCoinIx(input: {\n  payer: TransactionSigner;\n  mint: Address;\n  productId: string;\n  payout: number;\n  floor: number;\n}): Promise<Instruction> {\n  const mintBytes = enc.encode(input.mint);\n  const sharing = await pda(PUMP_FEE, [text.encode(\"sharing-config\"), mintBytes]);\n  const pumpVault = await pda(PUMP, [text.encode(\"creator-vault\"), enc.encode(sharing)]);\n  const pammVault = await pda(PAMM, [text.encode(\"creator_vault\"), enc.encode(sharing)]);\n  return {\n    programAddress: LOOT,\n    data: linkData(productIdBytes(input.productId), input.payout, input.floor),\n    accounts: [\n      rwSigner(input.payer),\n      ro(await pda(LOOT, [text.encode(\"brands\")])),\n      ro(input.mint),\n      rw(await pda(PUMP, [text.encode(\"bonding-curve\"), mintBytes])),\n      rw(await pda(LOOT, [text.encode(\"link\"), mintBytes])),\n      ro(SYSTEM),\n      rw(sharing),\n      ro(GLOBAL),\n      ro(PUMP),\n      ro(PUMP_FEE),\n      ro(await pda(PUMP_FEE, [text.encode(\"__event_authority\")])),\n      ro(await pda(PUMP, [text.encode(\"__event_authority\")])),\n      rw(pumpVault),\n      rw(await ata(pumpVault, WSOL, TOKEN)),\n      ro(WSOL),\n      ro(TOKEN),\n      ro(ATA_PROGRAM),\n      ro(PAMM),\n      ro(await pda(PAMM, [text.encode(\"__event_authority\")])),\n      rw(pammVault),\n      rw(await ata(pammVault, WSOL, TOKEN)),\n    ],\n  };\n}\n\nexport async function launchCoin(input: {\n  rpcUrl: string;\n  payer: TransactionSigner;\n  productId: string;\n  name: string;\n  symbol: string;\n  uri: string;\n  /** 0 dividends, 1 giveaway. */\n  payout: number;\n  /** 0 is 100,000 tokens, 1 is 1,000,000, 2 is 10,000,000. */\n  floor: number;\n}) {\n  const rpc = createSolanaRpc(input.rpcUrl);\n  const mint = await generateKeyPairSigner();\n  const instructions: Instruction[] = [\n    await createV2Ix(input.payer, mint, input),\n    // A dev buy, if you add one, goes here \u2014 still before link_coin.\n    await linkCoinIx({\n      payer: input.payer,\n      mint: mint.address,\n      productId: input.productId,\n      payout: input.payout,\n      floor: input.floor,\n    }),\n  ];\n\n  const { value: latestBlockhash } = await rpc.getLatestBlockhash().send();\n  const message = pipe(\n    createTransactionMessage({ version: 0 }),\n    (current) => setTransactionMessageFeePayerSigner(input.payer, current),\n    (current) => setTransactionMessageLifetimeUsingBlockhash(latestBlockhash, current),\n    (current) => appendTransactionMessageInstructions(instructions, current),\n  );\n  return { mint: mint.address, message: await signTransactionMessageWithSigners(message) };\n}\nShow all 220 lines\nModes\n#\n\nPayout and floor bytes, and how each is settled.\n\nBoth bytes follow the product id in link_coin and are fixed for the life of the link. Credit is always computed from current token balances. Tokens use 6 decimals, so 1 token is 1,000,000 raw units.\n\nByte\tValue\tMeaning\npayout\t0\tDividends\npayout\t1\tGiveaway\nfloor\t0\t100K tokens (0.01%)\nfloor\t1\t1M tokens (0.1%)\nfloor\t2\t10M tokens (1%)\nEligibility\nA wallet qualifies if its balance is at or above the floor when the split or draw is measured.\nThe bonding curve, the Pump pool, and zero balances are excluded.\nDividends\nThe holder share is the lamport increase from the claim. It is split when the claim is credited.\nEach share is balance \u00d7 lamports / total balance, in whole lamports. Wallets are sorted by address and the remainder goes to the last wallet that receives at least one lamport.\nIf nobody qualifies, the claim is recorded without credit.\nGiveaway\nClaims are stored unassigned. At each draw, the waiting lamports are split across as many qualifying wallets as the pot can fund. Each share covers the cheapest US gift card for that brand, plus 10%.\nWeight is the wallet's whole token balance. A wallet can win at most one share. The bonding curve and the Pump pool never count.\nThe seed is the newest waiting claim's signature, read as a big-endian integer from its base58 bytes, modulo total tickets. Walking cumulative tickets over wallets sorted by address picks a wallet. Each later seat adds the seat index to that integer and drops wallets already chosen.\nIf nobody qualifies, the price is missing, or the pot cannot cover one card, the claims stay unassigned until the next draw.\nIntegration\n#\n\nThe fee route, link_coin, and accounts.\n\nLOOT program\nLootzMHHCubYFZEgg7kjbyfdsEFBxfPkrUPNzuoExCk\nFee route\n1\n\nFees accrue\n\nCreator vault [\"creator-vault\", sharing-config] under Pump\nsharing-config is [\"sharing-config\", mint] under the Pump fee program\n2\n\nClaim\n\nsweep_creator_fee, then distribute_creator_fees_v2. transfer_creator_fees_to_pump_v2 comes first when the Pump pool holds wrapped SOL fees\n2,000 bps to burn, 8,000 bps to credit\n3\n\nCredit and redeem\n\nOff-chain. See Modes for how the holder share is assigned.\nlink_coin\n\nInstruction tag 3. Data is the tag, a length byte, the product id, then payout and floor. The bonding curve must be quoted in SOL.\n\nlink-coin.ts\nCopy\nimport {\n  AccountRole,\n  address,\n  getAddressEncoder,\n  getProgramDerivedAddress,\n  type Address,\n  type Instruction,\n  type TransactionSigner,\n} from \"@solana/kit\";\n\nconst LOOT = address(\"LootzMHHCubYFZEgg7kjbyfdsEFBxfPkrUPNzuoExCk\");\nconst PUMP = address(\"6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P\");\nconst PUMP_FEE = address(\"pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ\");\nconst PAMM = address(\"pAMMBay6oceH9fJKBRHGP5D4bD4sWpmSwMn52FMfXEA\");\nconst GLOBAL = address(\"4wTV1YmiEkRvAtNtsSGPtUrqRYQMe5SKy2uB4Jjaxnjf\");\nconst SYSTEM = address(\"11111111111111111111111111111111\");\nconst TOKEN = address(\"TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA\");\nconst ATA_PROGRAM = address(\"ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL\");\nconst WSOL = address(\"So11111111111111111111111111111111111111112\");\nconst text = new TextEncoder();\nconst enc = getAddressEncoder();\n\nasync function pda(program: Address, seeds: Uint8Array[]): Promise<Address> {\n  const [derived] = await getProgramDerivedAddress({ programAddress: program, seeds });\n  return derived;\n}\n\nfunction ata(owner: Address, mint: Address, tokenProgram: Address): Promise<Address> {\n  return pda(ATA_PROGRAM, [enc.encode(owner), enc.encode(tokenProgram), enc.encode(mint)]);\n}\n\nfunction productIdBytes(productId: string): Uint8Array {\n  const bytes = text.encode(productId);\n  if (bytes.length < 1 || bytes.length > 32) throw new Error(\"Brand id must be 1\u201332 bytes.\");\n  return bytes;\n}\n\nfunction linkData(pid: Uint8Array, payout: number, floor: number): Uint8Array {\n  const data = new Uint8Array(2 + pid.length + 2);\n  data[0] = 3;\n  data[1] = pid.length;\n  data.set(pid, 2);\n  data[2 + pid.length] = payout;\n  data[3 + pid.length] = floor;\n  return data;\n}\n\n/** Instruction tag 3. Data is the tag, the product id, then payout and floor. The program checks the registry, wrapped SOL, and the fee lock. */\nexport async function linkCoinIx(input: {\n  payer: TransactionSigner;\n  mint: Address;\n  productId: string;\n  payout: number;\n  floor: number;\n}): Promise<Instruction> {\n  const mintBytes = enc.encode(input.mint);\n  const sharing = await pda(PUMP_FEE, [text.encode(\"sharing-config\"), mintBytes]);\n  const pumpVault = await pda(PUMP, [text.encode(\"creator-vault\"), enc.encode(sharing)]);\n  const pammVault = await pda(PAMM, [text.encode(\"creator_vault\"), enc.encode(sharing)]);\n  const ro = (account: Address) => ({ address: account, role: AccountRole.READONLY });\n  const rw = (account: Address) => ({ address: account, role: AccountRole.WRITABLE });\n  return {\n    programAddress: LOOT,\n    data: linkData(productIdBytes(input.productId), input.payout, input.floor),\n    accounts: [\n      { address: input.payer.address, role: AccountRole.WRITABLE_SIGNER, signer: input.payer },\n      ro(await pda(LOOT, [text.encode(\"brands\")])),\n      ro(input.mint),\n      rw(await pda(PUMP, [text.encode(\"bonding-curve\"), mintBytes])),\n      rw(await pda(LOOT, [text.encode(\"link\"), mintBytes])),\n      ro(SYSTEM),\n      rw(sharing),\n      ro(GLOBAL),\n      ro(PUMP),\n      ro(PUMP_FEE),\n      ro(await pda(PUMP_FEE, [text.encode(\"__event_authority\")])),\n      ro(await pda(PUMP, [text.encode(\"__event_authority\")])),\n      rw(pumpVault),\n      rw(await ata(pumpVault, WSOL, TOKEN)),\n      ro(WSOL),\n      ro(TOKEN),\n      ro(ATA_PROGRAM),\n      ro(PAMM),\n      ro(await pda(PAMM, [text.encode(\"__event_authority\")])),\n      rw(pammVault),\n      rw(await ata(pammVault, WSOL, TOKEN)),\n    ],\n  };\n}\nShow all 89 lines\nAccounts\n\nThe registry is a single account at [\"brands\"]. Each coin has a rent-only link account at [\"link\", mint].\n\nseeds.ts\nCopy\nimport { address, getAddressEncoder, getProgramDerivedAddress, type Address } from \"@solana/kit\";\n\nconst LOOT = address(\"LootzMHHCubYFZEgg7kjbyfdsEFBxfPkrUPNzuoExCk\");\nconst text = new TextEncoder();\nconst enc = getAddressEncoder();\n\nasync function pda(seeds: Uint8Array[]): Promise<Address> {\n  const [derived] = await getProgramDerivedAddress({ programAddress: LOOT, seeds });\n  return derived;\n}\n\nexport const registryAddress = () => pda([text.encode(\"brands\")]);\n\nexport const linkAddress = (mint: Address) =>\n  pda([text.encode(\"link\"), enc.encode(mint)]);\nFee lock\n\nlink_coin creates the Pump sharing config and sets two shareholders. Pump accepts this update only once, so the split cannot change afterwards.\n\nfee-lock.ts\nCopy\n/**\n * link_coin writes this split itself. Pump accepts the update once.\n */\nexport const lootFeeLock = [\n  { role: \"burn\", bps: 2_000 },\n  { role: \"credit\", bps: 8_000 },\n] as const;\nRead data\n#\n\nDecode the registry and a coin's link.\n\nRegistry\n\nTag 5. A 3-byte header, then 69-byte records. Readers use the count. The account can grow past 256 records, up to 10MB. Record i starts at 3 + 69i. Logos and banners live at /brands/logos/{id}.png and /brands/banners/{id}.png.\n\nOffset\tSize\tField\n0\t1\tTag (5)\n1\t2\tRecord count, u16 LE\n3 + 69i\t33\tProduct id, length-prefixed, max 32\n36 + 69i\t33\tName, length-prefixed, max 32\n69 + 69i\t3\tRGB color\nregistry.ts\nCopy\nimport { address, createSolanaRpc, getProgramDerivedAddress, type Address } from \"@solana/kit\";\n\nconst LOOT = address(\"LootzMHHCubYFZEgg7kjbyfdsEFBxfPkrUPNzuoExCk\");\nconst text = new TextEncoder();\nconst decoder = new TextDecoder();\n\nconst REGISTRY_HEADER = 3;\nconst RECORD_SIZE = 69;\nconst TAG_REGISTRY = 5;\n\nexport type BrandRecord = { productId: string; name: string; color: string; logoUrl: string; bannerUrl: string };\n\n/** One account, every card. Membership is the record. Logo and banner URLs are derived from the product id. */\nexport async function fetchRegistry(rpcUrl: string): Promise<BrandRecord[]> {\n  const registry = await registryAddress();\n  const { value } = await createSolanaRpc(rpcUrl).getAccountInfo(registry, { encoding: \"base64\" }).send();\n  if (!value || value.owner !== LOOT) return [];\n  return decodeRegistry(value.data[0]);\n}\n\nfunction decodeRegistry(dataBase64: string): BrandRecord[] {\n  const data = Uint8Array.from(atob(dataBase64), (char) => char.charCodeAt(0));\n  if (data.length < REGISTRY_HEADER || data[0] !== TAG_REGISTRY) return [];\n  const count = data[1]! | (data[2]! << 8);\n  if (data.length < REGISTRY_HEADER + count * RECORD_SIZE) return [];\n  const brands: BrandRecord[] = [];\n  for (let i = 0; i < count; i += 1) {\n    const rec = REGISTRY_HEADER + i * RECORD_SIZE;\n    const productId = readField(data, rec, 32);\n    brands.push({\n      productId,\n      name: readField(data, rec + 33, 32),\n      color: readColor(data, rec + 66),\n      logoUrl: \"/brands/logos/\" + productId + \".png\",\n      bannerUrl: \"/brands/banners/\" + productId + \".png\",\n    });\n  }\n  return brands;\n}\n\nfunction readField(data: Uint8Array, offset: number, cap: number): string {\n  const length = data[offset] ?? 0;\n  if (length < 1 || length > cap) return \"\";\n  return decoder.decode(data.subarray(offset + 1, offset + 1 + length));\n}\n\nfunction readColor(data: Uint8Array, offset: number): string {\n  const hex = (index: number) => (data[offset + index] ?? 0).toString(16).padStart(2, \"0\");\n  return \"#\" + hex(0) + hex(1) + hex(2);\n}\n\nasync function registryAddress(): Promise<Address> {\n  const [derived] = await getProgramDerivedAddress({\n    programAddress: LOOT,\n    seeds: [text.encode(\"brands\")],\n  });\n  return derived;\n}\nShow all 58 lines\nLink\n\nTag 6, 100 bytes. Payout and floor use the byte values listed in Modes.\n\nOffset\tSize\tField\n0\t1\tTag (6)\n1\t32\tMint\n33\t33\tProduct id, length-prefixed, max 32\n66\t32\tCreator\n98\t1\tPayout: 0 dividends, 1 giveaway\n99\t1\tFloor: 0 is 100K tokens, 1 is 1M, 2 is 10M\nlink.ts\nCopy\nimport { address, createSolanaRpc, getAddressEncoder, getProgramDerivedAddress, type Address } from \"@solana/kit\";\n\nconst LOOT = address(\"LootzMHHCubYFZEgg7kjbyfdsEFBxfPkrUPNzuoExCk\");\nconst text = new TextEncoder();\nconst enc = getAddressEncoder();\n\nconst LINK_SIZE = 100;\nconst TAG_LINK = 6;\n\n/** Indexed by the payout byte. */\nexport const PAYOUTS = [\"dividends\", \"giveaway\"] as const;\n/** Indexed by the floor byte. Whole tokens a wallet must hold to qualify. */\nexport const FLOOR_TOKENS = [100_000, 1_000_000, 10_000_000] as const;\n\nexport type LinkAccount = {\n  address: Address;\n  mint: Address;\n  productId: string;\n  creator: Address;\n  payout: (typeof PAYOUTS)[number];\n  floorTokens: number;\n};\n\nexport async function fetchLink(rpcUrl: string, mint: Address): Promise<LinkAccount | null> {\n  const link = await linkAddress(mint);\n  const { value } = await createSolanaRpc(rpcUrl).getAccountInfo(link, { encoding: \"base64\" }).send();\n  if (!value || value.owner !== LOOT) return null;\n  const data = Uint8Array.from(atob(value.data[0]), (char) => char.charCodeAt(0));\n  if (data.length !== LINK_SIZE || data[0] !== TAG_LINK) return null;\n  const pidLen = data[33] ?? 0;\n  if (pidLen < 1 || pidLen > 32) return null;\n  const payout = PAYOUTS[data[98] ?? -1];\n  const floorTokens = FLOOR_TOKENS[data[99] ?? -1];\n  if (payout === undefined || floorTokens === undefined) return null;\n  return {\n    address: link,\n    mint: pubkeyAt(data, 1),\n    productId: new TextDecoder().decode(data.subarray(34, 34 + pidLen)),\n    creator: pubkeyAt(data, 66),\n    payout,\n    floorTokens,\n  };\n}\n\nasync function linkAddress(mint: Address): Promise<Address> {\n  const [derived] = await getProgramDerivedAddress({\n    programAddress: LOOT,\n    seeds: [text.encode(\"link\"), enc.encode(mint)],\n  });\n  return derived;\n}\n\nfunction pubkeyAt(data: Uint8Array, offset: number): Address {\n  return enc.decode(data.subarray(offset, offset + 32));\n}\nShow all 55 lines\nLOOT\n\nLaunch a coin and pair it to a brand. Holders earn the fees and redeem them as a gift card.\n\n@lootfam\n\n\u00a9 2026 LOOT\n\nProduct\n\nBrands\nLeaderboard\nLaunch\n\nAbout\n\nDocs\nDevelopers\nWelcome to Loot\n\nLaunch a coin on pump.fun and pair it to a brand. Trading fees pay holders, who redeem what they earn for a gift card.\n\nContinue",
+      "links": [
+        {
+          "text": "Skip to main content",
+          "href": "#main"
+        },
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Explore",
+          "href": "/"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Ranks",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        },
+        {
+          "text": "Launch Token",
+          "href": "/launch"
+        },
+        {
+          "text": "Using LOOT",
+          "href": "/docs"
+        },
+        {
+          "text": "Developers",
+          "href": "/docs/developers"
+        },
+        {
+          "text": "Launch",
+          "href": "#launch"
+        },
+        {
+          "text": "Modes",
+          "href": "#mode-bytes"
+        },
+        {
+          "text": "Integration",
+          "href": "#program"
+        },
+        {
+          "text": "Read data",
+          "href": "#read"
+        },
+        {
+          "text": "llms.txt",
+          "href": "/llms.txt"
+        },
+        {
+          "text": "llms-full.txt",
+          "href": "/llms-full.txt"
+        },
+        {
+          "text": "Launch\n#",
+          "href": "#launch"
+        },
+        {
+          "text": "Modes\n#",
+          "href": "#mode-bytes"
+        },
+        {
+          "text": "Integration\n#",
+          "href": "#program"
+        },
+        {
+          "text": "Read data\n#",
+          "href": "#read"
+        },
+        {
+          "text": "LOOT",
+          "href": "/"
+        },
+        {
+          "text": "@lootfam",
+          "href": "https://x.com/lootfam"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Leaderboard",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Launch",
+          "href": "/launch"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        },
+        {
+          "text": "Developers",
+          "href": "/docs/developers"
+        },
+        {
+          "text": "Explore",
+          "href": "/"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Ranks",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Connect wallet",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Copy",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Show all 220 lines",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Copy",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Show all 89 lines",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Copy",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Copy",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Copy",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Show all 58 lines",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Copy",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Show all 55 lines",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Play",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Play",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Mute",
+          "disabled": false
+        },
+        {
+          "text": "Continue",
+          "aria": null,
+          "disabled": false
+        }
+      ],
+      "inputs": [
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "",
+          "placeholder": "Search coins or brands"
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "",
+          "placeholder": "Search docs"
+        },
+        {
+          "tag": "INPUT",
+          "type": "range",
+          "name": "",
+          "placeholder": ""
+        }
+      ]
+    },
+    "/launch": {
+      "url": "https://loot.family/launch",
+      "text": "Skip to main content\nExplore\nBrands\nRanks\nDocs\nLaunch Token\nConnect wallet\nLaunch token\non pump.fun\nName\nTicker\nDescription\n\nToken image\n\nChoose image\nTwitter\nTelegram\nInitial buy\nSOL\nOptional. Buy some of your coin with SOL when it launches.\nY\nYour token\n\nTicker\n\nBrand\n\nAirbnb\nTravel\n\nFee earnings on this coin are redeemed as a gift card for this brand.\n\nLaunch mode\n\nDividends\nGiveaway\n\nEach time fees are claimed, they are split across eligible wallets proportionally to their token holdings. Read More\n\nAdvanced settings\n1M tokens\nConnect wallet\nLOOT\n\nLaunch a coin and pair it to a brand. Holders earn the fees and redeem them as a gift card.\n\n@lootfam\n\n\u00a9 2026 LOOT\n\nProduct\n\nBrands\nLeaderboard\nLaunch\n\nAbout\n\nDocs\nDevelopers\nWelcome to Loot\n\nLaunch a coin on pump.fun and pair it to a brand. Trading fees pay holders, who redeem what they earn for a gift card.\n\nContinue",
+      "links": [
+        {
+          "text": "Skip to main content",
+          "href": "#main"
+        },
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Explore",
+          "href": "/"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Ranks",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        },
+        {
+          "text": "Launch Token",
+          "href": "/launch"
+        },
+        {
+          "text": "Read More",
+          "href": "/docs#launch-modes"
+        },
+        {
+          "text": "LOOT",
+          "href": "/"
+        },
+        {
+          "text": "@lootfam",
+          "href": "https://x.com/lootfam"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Leaderboard",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Launch",
+          "href": "/launch"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        },
+        {
+          "text": "Developers",
+          "href": "/docs/developers"
+        },
+        {
+          "text": "Explore",
+          "href": "/"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Ranks",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Connect wallet",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Airbnb\nTravel",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Open options",
+          "disabled": false
+        },
+        {
+          "text": "Dividends",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Giveaway",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Advanced settings\n1M tokens",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Connect wallet",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Play",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Play",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Mute",
+          "disabled": false
+        },
+        {
+          "text": "Continue",
+          "aria": null,
+          "disabled": false
+        }
+      ],
+      "inputs": [
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "",
+          "placeholder": "Search coins or brands"
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "",
+          "placeholder": "Token name"
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "",
+          "placeholder": "Symbol"
+        },
+        {
+          "tag": "TEXTAREA",
+          "type": "textarea",
+          "name": "",
+          "placeholder": "This coin is paired to Airbnb on https://loot.family"
+        },
+        {
+          "tag": "INPUT",
+          "type": "file",
+          "name": "",
+          "placeholder": ""
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "",
+          "placeholder": "x.com/handle"
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "",
+          "placeholder": "t.me/community"
+        },
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "",
+          "placeholder": "0.00"
+        },
+        {
+          "tag": "INPUT",
+          "type": "range",
+          "name": "",
+          "placeholder": ""
+        }
+      ]
+    },
+    "/brands": {
+      "url": "https://loot.family/brands",
+      "text": "Skip to main content\nExplore\nBrands\nRanks\nDocs\nLaunch Token\nConnect wallet\nBrands\n\nA coin is paired to one brand. You can redeem your balance for that brand's gift card.\n\nAvailable\n\nConnect a wallet to see what you can redeem.\n\nNothing to redeem\nStart trading to earn a balance.\nAll\nGames\nShopping\nFood\nEntertainment\nHome\nApparel\nBeauty\nHealth\nTravel\nGroceries\n1 / 2\nAirbnb\n\nTravel\n\nDiscord\n\nEntertainment\n\nDisney+\n\nEntertainment\n\nDoorDash\n\nFood\n\nEA Games\n\nGames\n\nFortnite\n\nGames\n\nGameStop\n\nGames\n\nGoogle Play\n\nEntertainment\n\nHulu\n\nEntertainment\n\nKFC\n\nFood\n\nNetflix\n\nEntertainment\n\nNintendo eShop\n\nGames\n\nPlayStation\n\nGames\n\nRoblox\n\nGames\n\nStarbucks\n\nFood\n\nSteam\n\nGames\n\nLOOT\n\nLaunch a coin and pair it to a brand. Holders earn the fees and redeem them as a gift card.\n\n@lootfam\n\n\u00a9 2026 LOOT\n\nProduct\n\nBrands\nLeaderboard\nLaunch\n\nAbout\n\nDocs\nDevelopers\nWelcome to Loot\n\nLaunch a coin on pump.fun and pair it to a brand. Trading fees pay holders, who redeem what they earn for a gift card.\n\nContinue",
+      "links": [
+        {
+          "text": "Skip to main content",
+          "href": "#main"
+        },
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Explore",
+          "href": "/"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Ranks",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        },
+        {
+          "text": "Launch Token",
+          "href": "/launch"
+        },
+        {
+          "text": "Airbnb\n\nTravel",
+          "href": "/brands/airbnb"
+        },
+        {
+          "text": "Discord\n\nEntertainment",
+          "href": "/brands/discord"
+        },
+        {
+          "text": "Disney+\n\nEntertainment",
+          "href": "/brands/disney"
+        },
+        {
+          "text": "DoorDash\n\nFood",
+          "href": "/brands/doordash"
+        },
+        {
+          "text": "EA Games\n\nGames",
+          "href": "/brands/ea"
+        },
+        {
+          "text": "Fortnite\n\nGames",
+          "href": "/brands/fortnite"
+        },
+        {
+          "text": "GameStop\n\nGames",
+          "href": "/brands/gamestop"
+        },
+        {
+          "text": "Google Play\n\nEntertainment",
+          "href": "/brands/google-play"
+        },
+        {
+          "text": "Hulu\n\nEntertainment",
+          "href": "/brands/hulu"
+        },
+        {
+          "text": "KFC\n\nFood",
+          "href": "/brands/kfc"
+        },
+        {
+          "text": "Netflix\n\nEntertainment",
+          "href": "/brands/netflix"
+        },
+        {
+          "text": "Nintendo eShop\n\nGames",
+          "href": "/brands/nintendo"
+        },
+        {
+          "text": "PlayStation\n\nGames",
+          "href": "/brands/playstation"
+        },
+        {
+          "text": "Roblox\n\nGames",
+          "href": "/brands/roblox"
+        },
+        {
+          "text": "Starbucks\n\nFood",
+          "href": "/brands/starbucks"
+        },
+        {
+          "text": "Steam\n\nGames",
+          "href": "/brands/steam"
+        },
+        {
+          "text": "LOOT",
+          "href": "/"
+        },
+        {
+          "text": "@lootfam",
+          "href": "https://x.com/lootfam"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Leaderboard",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Launch",
+          "href": "/launch"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        },
+        {
+          "text": "Developers",
+          "href": "/docs/developers"
+        },
+        {
+          "text": "Explore",
+          "href": "/"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Ranks",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Connect wallet",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "All",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Games",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Shopping",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Food",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Entertainment",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Home",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Apparel",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Beauty",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Health",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Travel",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Groceries",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Previous page",
+          "disabled": true
+        },
+        {
+          "text": "",
+          "aria": "Next page",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Play",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Play",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Mute",
+          "disabled": false
+        },
+        {
+          "text": "Continue",
+          "aria": null,
+          "disabled": false
+        }
+      ],
+      "inputs": [
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "",
+          "placeholder": "Search coins or brands"
+        },
+        {
+          "tag": "INPUT",
+          "type": "range",
+          "name": "",
+          "placeholder": ""
+        }
+      ]
+    },
+    "/brands/discord": {
+      "url": "https://loot.family/brands/discord",
+      "text": "Skip to main content\nExplore\nBrands\nRanks\nDocs\nLaunch Token\nConnect wallet\nAll brands\nRedeem Discord\n\nRedeem your balance for this gift card.\n\nAvailable \u2014\n\nCountry\n\n\ud83c\udf10\nGlobal\n\nAmounts\n\nUp to 5 gift cards.\n\nMax\n$4.99\n0\n$9.99\n0\n$99.99\n0\nConnect wallet\nYour gift cards\n\nGift cards bought with this wallet.\n\nConnect a wallet to view your gift cards.\n\nConnect wallet\nLOOT\n\nLaunch a coin and pair it to a brand. Holders earn the fees and redeem them as a gift card.\n\n@lootfam\n\n\u00a9 2026 LOOT\n\nProduct\n\nBrands\nLeaderboard\nLaunch\n\nAbout\n\nDocs\nDevelopers\nWelcome to Loot\n\nLaunch a coin on pump.fun and pair it to a brand. Trading fees pay holders, who redeem what they earn for a gift card.\n\nContinue",
+      "links": [
+        {
+          "text": "Skip to main content",
+          "href": "#main"
+        },
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Explore",
+          "href": "/"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Ranks",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        },
+        {
+          "text": "Launch Token",
+          "href": "/launch"
+        },
+        {
+          "text": "All brands",
+          "href": "/brands"
+        },
+        {
+          "text": "LOOT",
+          "href": "/"
+        },
+        {
+          "text": "@lootfam",
+          "href": "https://x.com/lootfam"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Leaderboard",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Launch",
+          "href": "/launch"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        },
+        {
+          "text": "Developers",
+          "href": "/docs/developers"
+        },
+        {
+          "text": "Explore",
+          "href": "/"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Ranks",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Connect wallet",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "\ud83c\udf10\nGlobal",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Open options",
+          "disabled": false
+        },
+        {
+          "text": "Max",
+          "aria": null,
+          "disabled": true
+        },
+        {
+          "text": "",
+          "aria": "Remove one $4.99",
+          "disabled": true
+        },
+        {
+          "text": "",
+          "aria": "Add one $4.99",
+          "disabled": true
+        },
+        {
+          "text": "",
+          "aria": "Remove one $9.99",
+          "disabled": true
+        },
+        {
+          "text": "",
+          "aria": "Add one $9.99",
+          "disabled": true
+        },
+        {
+          "text": "",
+          "aria": "Remove one $99.99",
+          "disabled": true
+        },
+        {
+          "text": "",
+          "aria": "Add one $99.99",
+          "disabled": true
+        },
+        {
+          "text": "Connect wallet",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "Connect wallet",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Play",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Play",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Mute",
+          "disabled": false
+        },
+        {
+          "text": "Continue",
+          "aria": null,
+          "disabled": false
+        }
+      ],
+      "inputs": [
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "",
+          "placeholder": "Search coins or brands"
+        },
+        {
+          "tag": "INPUT",
+          "type": "range",
+          "name": "",
+          "placeholder": ""
+        }
+      ]
+    },
+    "/token/kzK6etp3DNUJvUT5c4hTHuvMfJ9o9hdDutpiY2xpump": {
+      "url": "https://loot.family/token/kzK6etp3DNUJvUT5c4hTHuvMfJ9o9hdDutpiY2xpump",
+      "text": "Skip to main content\nExplore\nBrands\nRanks\nDocs\nLaunch Token\nConnect wallet\nDo not Redeem it REDEEM\n\ncreated by\nBBLL\u2026Z64x\n\npump.fun\nkzK6et\u2026pump\n\nMarket cap\n\n$15.4K\n\n+12.31%\n\n5M\n1H\n6H\n1D\nALL\nPrice\n$0.00001600\nLiquidity\n$11.7K\nVolume\n$4.4K\n$19.8K\n$17.1K\n$14.4K\n3:05 PM\n3:31 PM\n3:49 PM\n3:59 PM\n\nDESCRIPTION\n\nNo description\n\nGoogle Play\n\nEntertainment \u00b7 Available Connect a wallet\n\nRedeem\n\nHold at least 100K tokens to qualify.\n\nNext draw\n\n09:39\n\nWaiting\n\n$2.5K\n\n$0 paid out\n\nWinners\n\nNo draws yet.\n\nLOOT\n\nLaunch a coin and pair it to a brand. Holders earn the fees and redeem them as a gift card.\n\n@lootfam\n\n\u00a9 2026 LOOT\n\nProduct\n\nBrands\nLeaderboard\nLaunch\n\nAbout\n\nDocs\nDevelopers\nWelcome to Loot\n\nLaunch a coin on pump.fun and pair it to a brand. Trading fees pay holders, who redeem what they earn for a gift card.\n\nContinue",
+      "links": [
+        {
+          "text": "Skip to main content",
+          "href": "#main"
+        },
+        {
+          "text": "",
+          "href": "/"
+        },
+        {
+          "text": "Explore",
+          "href": "/"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Ranks",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        },
+        {
+          "text": "Launch Token",
+          "href": "/launch"
+        },
+        {
+          "text": "BBLL\u2026Z64x",
+          "href": "/user/BBLLCaPA7k2j1aRc4AHk1r4Lgnj6gACtUuoamBtVZ64x"
+        },
+        {
+          "text": "pump.fun",
+          "href": "https://pump.fun/coin/kzK6etp3DNUJvUT5c4hTHuvMfJ9o9hdDutpiY2xpump"
+        },
+        {
+          "text": "Redeem",
+          "href": "/brands/google-play"
+        },
+        {
+          "text": "LOOT",
+          "href": "/"
+        },
+        {
+          "text": "@lootfam",
+          "href": "https://x.com/lootfam"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Leaderboard",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Launch",
+          "href": "/launch"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        },
+        {
+          "text": "Developers",
+          "href": "/docs/developers"
+        },
+        {
+          "text": "Explore",
+          "href": "/"
+        },
+        {
+          "text": "Brands",
+          "href": "/brands"
+        },
+        {
+          "text": "Ranks",
+          "href": "/leaderboard"
+        },
+        {
+          "text": "Docs",
+          "href": "/docs"
+        }
+      ],
+      "buttons": [
+        {
+          "text": "Connect wallet",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "kzK6et\u2026pump",
+          "aria": "Copy token address",
+          "disabled": false
+        },
+        {
+          "text": "5M",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "1H",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "6H",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "1D",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "ALL",
+          "aria": null,
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Play",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Play",
+          "disabled": false
+        },
+        {
+          "text": "",
+          "aria": "Mute",
+          "disabled": false
+        },
+        {
+          "text": "Continue",
+          "aria": null,
+          "disabled": false
+        }
+      ],
+      "inputs": [
+        {
+          "tag": "INPUT",
+          "type": "text",
+          "name": "",
+          "placeholder": "Search coins or brands"
+        },
+        {
+          "tag": "INPUT",
+          "type": "range",
+          "name": "",
+          "placeholder": ""
+        }
+      ]
+    }
+  },
+  "shared": {
+    "nav": [
+      "Explore",
+      "Brands",
+      "Ranks",
+      "Docs",
+      "Launch Token"
+    ],
+    "controls": [
+      "Connect wallet",
+      "Global search coins/brands (180ms debounce; min query length from Zf)",
+      "welcome Continue",
+      "footer navigation",
+      "audio play/mute/seek"
+    ]
+  },
+  "nativeSurfaces": {
+    "/": [
+      "stat 1D/30D/All time",
+      "Top/New/Old coin sort; All/Dividends/Giveaway payout filter",
+      "brand filter",
+      "payout filter",
+      "pagination",
+      "top brands carousel"
+    ],
+    "/brands": [
+      "category tabs",
+      "pagination",
+      "available authenticated balances",
+      "brand links"
+    ],
+    "/brands/:brandId": [
+      "country selector",
+      "package quantity +/-; up to 5 cards",
+      "Max",
+      "redeem",
+      "private order list",
+      "unseal/refund",
+      "transfer brand balance",
+      "cashout SOL"
+    ],
+    "/leaderboard": [
+      "top earners/redeemed",
+      "public user profile links"
+    ],
+    "/loot": [
+      "price chart windows",
+      "buy/burn totals and chart",
+      "paginated burn tx history",
+      "pump.fun trade link"
+    ],
+    "/launch": [
+      "name",
+      "ticker",
+      "description",
+      "PNG/JPEG image",
+      "Twitter",
+      "Telegram",
+      "initial SOL buy",
+      "brand picker",
+      "Dividends/Giveaway",
+      "advanced floor settings 100K/1M/10M",
+      "wallet connect and signed launch"
+    ],
+    "/token/:mint": [
+      "copy mint",
+      "pump.fun link",
+      "creator public profile",
+      "chart 5M/1H/6H/1D/ALL",
+      "description/socials",
+      "brand redeem link",
+      "fee stats",
+      "giveaway timer",
+      "payout recipient/winner pagination"
+    ],
+    "/docs": [
+      "audience switch",
+      "search",
+      "anchor navigation"
+    ],
+    "/docs/developers": [
+      "code copy",
+      "expand all code lines",
+      "llms.txt and llms-full.txt"
+    ],
+    "/profile": [
+      "wallet connect",
+      "balances",
+      "launched coins",
+      "sign out"
+    ],
+    "/user/:wallet": [
+      "earned/redeemed stats",
+      "brand credits",
+      "creator coins"
+    ],
+    "/admin": [
+      "authenticated registry management",
+      "brand search",
+      "whitelist/remove signed admin message"
+    ]
+  },
+  "brandCatalog": [
+    {
+      "id": "disney",
+      "name": "Disney+",
+      "logo": "/brands/logos/disney.png",
+      "banner": "/brands/banners/disney.png",
+      "route": "/brands/disney"
+    },
+    {
+      "id": "doordash",
+      "name": "DoorDash",
+      "logo": "/brands/logos/doordash.png",
+      "banner": "/brands/banners/doordash.png",
+      "route": "/brands/doordash"
+    },
+    {
+      "id": "ea",
+      "name": "EA Games",
+      "logo": "/brands/logos/ea.png",
+      "banner": "/brands/banners/ea.png",
+      "route": "/brands/ea"
+    },
+    {
+      "id": "gamestop",
+      "name": "GameStop",
+      "logo": "/brands/logos/gamestop.png",
+      "banner": "/brands/banners/gamestop.png",
+      "route": "/brands/gamestop"
+    },
+    {
+      "id": "google-play",
+      "name": "Google Play",
+      "logo": "/brands/logos/google-play.png",
+      "banner": "/brands/banners/google-play.png",
+      "route": "/brands/google-play"
+    },
+    {
+      "id": "hulu",
+      "name": "Hulu",
+      "logo": "/brands/logos/hulu.png",
+      "banner": "/brands/banners/hulu.png",
+      "route": "/brands/hulu"
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "logo": "/brands/logos/netflix.png",
+      "banner": "/brands/banners/netflix.png",
+      "route": "/brands/netflix"
+    },
+    {
+      "id": "nintendo",
+      "name": "Nintendo eShop",
+      "logo": "/brands/logos/nintendo.png",
+      "banner": "/brands/banners/nintendo.png",
+      "route": "/brands/nintendo"
+    },
+    {
+      "id": "playstation",
+      "name": "PlayStation",
+      "logo": "/brands/logos/playstation.png",
+      "banner": "/brands/banners/playstation.png",
+      "route": "/brands/playstation"
+    },
+    {
+      "id": "starbucks",
+      "name": "Starbucks",
+      "logo": "/brands/logos/starbucks.png",
+      "banner": "/brands/banners/starbucks.png",
+      "route": "/brands/starbucks"
+    },
+    {
+      "id": "steam",
+      "name": "Steam",
+      "logo": "/brands/logos/steam.png",
+      "banner": "/brands/banners/steam.png",
+      "route": "/brands/steam"
+    },
+    {
+      "id": "target",
+      "name": "Target",
+      "logo": "/brands/logos/target.png",
+      "banner": "/brands/banners/target.png",
+      "route": "/brands/target"
+    },
+    {
+      "id": "twitch",
+      "name": "Twitch",
+      "logo": "/brands/logos/twitch.png",
+      "banner": "/brands/banners/twitch.png",
+      "route": "/brands/twitch"
+    },
+    {
+      "id": "uber-eats",
+      "name": "Uber Eats",
+      "logo": "/brands/logos/uber-eats.png",
+      "banner": "/brands/banners/uber-eats.png",
+      "route": "/brands/uber-eats"
+    },
+    {
+      "id": "walmart",
+      "name": "Walmart",
+      "logo": "/brands/logos/walmart.png",
+      "banner": "/brands/banners/walmart.png",
+      "route": "/brands/walmart"
+    },
+    {
+      "id": "xbox",
+      "name": "Xbox",
+      "logo": "/brands/logos/xbox.png",
+      "banner": "/brands/banners/xbox.png",
+      "route": "/brands/xbox"
+    },
+    {
+      "id": "abercrombie",
+      "name": "Abercrombie & Fitch",
+      "logo": "/brands/logos/abercrombie.png",
+      "banner": "/brands/banners/abercrombie.png",
+      "route": "/brands/abercrombie"
+    },
+    {
+      "id": "adidas",
+      "name": "Adidas",
+      "logo": "/brands/logos/adidas.png",
+      "banner": "/brands/banners/adidas.png",
+      "route": "/brands/adidas"
+    },
+    {
+      "id": "airbnb",
+      "name": "Airbnb",
+      "logo": "/brands/logos/airbnb.png",
+      "banner": "/brands/banners/airbnb.png",
+      "route": "/brands/airbnb"
+    },
+    {
+      "id": "aldi",
+      "name": "ALDI",
+      "logo": "/brands/logos/aldi.png",
+      "banner": "/brands/banners/aldi.png",
+      "route": "/brands/aldi"
+    },
+    {
+      "id": "amazon",
+      "name": "Amazon",
+      "logo": "/brands/logos/amazon.png",
+      "banner": "/brands/banners/amazon.png",
+      "route": "/brands/amazon"
+    },
+    {
+      "id": "amc",
+      "name": "AMC Theatres",
+      "logo": "/brands/logos/amc.png",
+      "banner": "/brands/banners/amc.png",
+      "route": "/brands/amc"
+    },
+    {
+      "id": "app-store",
+      "name": "App Store & iTunes",
+      "logo": "/brands/logos/app-store.png",
+      "banner": "/brands/banners/app-store.png",
+      "route": "/brands/app-store"
+    },
+    {
+      "id": "apple",
+      "name": "Apple",
+      "logo": "/brands/logos/apple.png",
+      "banner": "/brands/banners/apple.png",
+      "route": "/brands/apple"
+    },
+    {
+      "id": "asos",
+      "name": "ASOS",
+      "logo": "/brands/logos/asos.png",
+      "banner": "/brands/banners/asos.png",
+      "route": "/brands/asos"
+    },
+    {
+      "id": "banana-republic",
+      "name": "Banana Republic",
+      "logo": "/brands/logos/banana-republic.png",
+      "banner": "/brands/banners/banana-republic.png",
+      "route": "/brands/banana-republic"
+    },
+    {
+      "id": "baskin-robbins",
+      "name": "Baskin-Robbins",
+      "logo": "/brands/logos/baskin-robbins.png",
+      "banner": "/brands/banners/baskin-robbins.png",
+      "route": "/brands/baskin-robbins"
+    },
+    {
+      "id": "bath-body-works",
+      "name": "Bath & Body Works",
+      "logo": "/brands/logos/bath-body-works.png",
+      "banner": "/brands/banners/bath-body-works.png",
+      "route": "/brands/bath-body-works"
+    },
+    {
+      "id": "battle-net",
+      "name": "Battle.net",
+      "logo": "/brands/logos/battle-net.png",
+      "banner": "/brands/banners/battle-net.png",
+      "route": "/brands/battle-net"
+    },
+    {
+      "id": "best-buy",
+      "name": "Best Buy",
+      "logo": "/brands/logos/best-buy.png",
+      "banner": "/brands/banners/best-buy.png",
+      "route": "/brands/best-buy"
+    },
+    {
+      "id": "birkenstock",
+      "name": "Birkenstock",
+      "logo": "/brands/logos/birkenstock.png",
+      "banner": "/brands/banners/birkenstock.png",
+      "route": "/brands/birkenstock"
+    },
+    {
+      "id": "buffalo-wild-wings",
+      "name": "Buffalo Wild Wings",
+      "logo": "/brands/logos/buffalo-wild-wings.png",
+      "banner": "/brands/banners/buffalo-wild-wings.png",
+      "route": "/brands/buffalo-wild-wings"
+    },
+    {
+      "id": "build-a-bear",
+      "name": "Build-A-Bear",
+      "logo": "/brands/logos/build-a-bear.png",
+      "banner": "/brands/banners/build-a-bear.png",
+      "route": "/brands/build-a-bear"
+    },
+    {
+      "id": "burger-king",
+      "name": "Burger King",
+      "logo": "/brands/logos/burger-king.png",
+      "banner": "/brands/banners/burger-king.png",
+      "route": "/brands/burger-king"
+    },
+    {
+      "id": "calvin-klein",
+      "name": "Calvin Klein",
+      "logo": "/brands/logos/calvin-klein.png",
+      "banner": "/brands/banners/calvin-klein.png",
+      "route": "/brands/calvin-klein"
+    },
+    {
+      "id": "carrefour",
+      "name": "Carrefour",
+      "logo": "/brands/logos/carrefour.png",
+      "banner": "/brands/banners/carrefour.png",
+      "route": "/brands/carrefour"
+    },
+    {
+      "id": "chipotle",
+      "name": "Chipotle",
+      "logo": "/brands/logos/chipotle.png",
+      "banner": "/brands/banners/chipotle.png",
+      "route": "/brands/chipotle"
+    },
+    {
+      "id": "coles",
+      "name": "Coles",
+      "logo": "/brands/logos/coles.png",
+      "banner": "/brands/banners/coles.png",
+      "route": "/brands/coles"
+    },
+    {
+      "id": "costa-coffee",
+      "name": "Costa Coffee",
+      "logo": "/brands/logos/costa-coffee.png",
+      "banner": "/brands/banners/costa-coffee.png",
+      "route": "/brands/costa-coffee"
+    },
+    {
+      "id": "crocs",
+      "name": "Crocs",
+      "logo": "/brands/logos/crocs.png",
+      "banner": "/brands/banners/crocs.png",
+      "route": "/brands/crocs"
+    },
+    {
+      "id": "crunchyroll",
+      "name": "Crunchyroll",
+      "logo": "/brands/logos/crunchyroll.png",
+      "banner": "/brands/banners/crunchyroll.png",
+      "route": "/brands/crunchyroll"
+    },
+    {
+      "id": "cvs",
+      "name": "CVS Pharmacy",
+      "logo": "/brands/logos/cvs.png",
+      "banner": "/brands/banners/cvs.png",
+      "route": "/brands/cvs"
+    },
+    {
+      "id": "dave-busters",
+      "name": "Dave & Buster's",
+      "logo": "/brands/logos/dave-busters.png",
+      "banner": "/brands/banners/dave-busters.png",
+      "route": "/brands/dave-busters"
+    },
+    {
+      "id": "dazn",
+      "name": "DAZN",
+      "logo": "/brands/logos/dazn.png",
+      "banner": "/brands/banners/dazn.png",
+      "route": "/brands/dazn"
+    },
+    {
+      "id": "decathlon",
+      "name": "Decathlon",
+      "logo": "/brands/logos/decathlon.png",
+      "banner": "/brands/banners/decathlon.png",
+      "route": "/brands/decathlon"
+    },
+    {
+      "id": "deezer",
+      "name": "Deezer",
+      "logo": "/brands/logos/deezer.png",
+      "banner": "/brands/banners/deezer.png",
+      "route": "/brands/deezer"
+    },
+    {
+      "id": "delta",
+      "name": "Delta Air Lines",
+      "logo": "/brands/logos/delta.png",
+      "banner": "/brands/banners/delta.png",
+      "route": "/brands/delta"
+    },
+    {
+      "id": "deliveroo",
+      "name": "Deliveroo",
+      "logo": "/brands/logos/deliveroo.png",
+      "banner": "/brands/banners/deliveroo.png",
+      "route": "/brands/deliveroo"
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "logo": "/brands/logos/discord.png",
+      "banner": "/brands/banners/discord.png",
+      "route": "/brands/discord"
+    },
+    {
+      "id": "dominos",
+      "name": "Domino's",
+      "logo": "/brands/logos/dominos.png",
+      "banner": "/brands/banners/dominos.png",
+      "route": "/brands/dominos"
+    },
+    {
+      "id": "douglas",
+      "name": "Douglas",
+      "logo": "/brands/logos/douglas.png",
+      "banner": "/brands/banners/douglas.png",
+      "route": "/brands/douglas"
+    },
+    {
+      "id": "dunkin",
+      "name": "Dunkin'",
+      "logo": "/brands/logos/dunkin.png",
+      "banner": "/brands/banners/dunkin.png",
+      "route": "/brands/dunkin"
+    },
+    {
+      "id": "epic-games",
+      "name": "Epic Games",
+      "logo": "/brands/logos/epic-games.png",
+      "banner": "/brands/banners/epic-games.png",
+      "route": "/brands/epic-games"
+    },
+    {
+      "id": "etsy",
+      "name": "Etsy",
+      "logo": "/brands/logos/etsy.png",
+      "banner": "/brands/banners/etsy.png",
+      "route": "/brands/etsy"
+    },
+    {
+      "id": "expedia",
+      "name": "Expedia",
+      "logo": "/brands/logos/expedia.png",
+      "banner": "/brands/banners/expedia.png",
+      "route": "/brands/expedia"
+    },
+    {
+      "id": "five-guys",
+      "name": "Five Guys",
+      "logo": "/brands/logos/five-guys.png",
+      "banner": "/brands/banners/five-guys.png",
+      "route": "/brands/five-guys"
+    },
+    {
+      "id": "flixbus",
+      "name": "FlixBus",
+      "logo": "/brands/logos/flixbus.png",
+      "banner": "/brands/banners/flixbus.png",
+      "route": "/brands/flixbus"
+    },
+    {
+      "id": "foot-locker",
+      "name": "Foot Locker",
+      "logo": "/brands/logos/foot-locker.png",
+      "banner": "/brands/banners/foot-locker.png",
+      "route": "/brands/foot-locker"
+    },
+    {
+      "id": "fortnite",
+      "name": "Fortnite",
+      "logo": "/brands/logos/fortnite.png",
+      "banner": "/brands/banners/fortnite.png",
+      "route": "/brands/fortnite"
+    },
+    {
+      "id": "gap",
+      "name": "Gap",
+      "logo": "/brands/logos/gap.png",
+      "banner": "/brands/banners/gap.png",
+      "route": "/brands/gap"
+    },
+    {
+      "id": "greggs",
+      "name": "Greggs",
+      "logo": "/brands/logos/greggs.png",
+      "banner": "/brands/banners/greggs.png",
+      "route": "/brands/greggs"
+    },
+    {
+      "id": "grubhub",
+      "name": "Grubhub",
+      "logo": "/brands/logos/grubhub.png",
+      "banner": "/brands/banners/grubhub.png",
+      "route": "/brands/grubhub"
+    },
+    {
+      "id": "hm",
+      "name": "H&M",
+      "logo": "/brands/logos/hm.png",
+      "banner": "/brands/banners/hm.png",
+      "route": "/brands/hm"
+    },
+    {
+      "id": "hellofresh",
+      "name": "HelloFresh",
+      "logo": "/brands/logos/hellofresh.png",
+      "banner": "/brands/banners/hellofresh.png",
+      "route": "/brands/hellofresh"
+    },
+    {
+      "id": "home-depot",
+      "name": "The Home Depot",
+      "logo": "/brands/logos/home-depot.png",
+      "banner": "/brands/banners/home-depot.png",
+      "route": "/brands/home-depot"
+    },
+    {
+      "id": "hotels",
+      "name": "Hotels.com",
+      "logo": "/brands/logos/hotels.png",
+      "banner": "/brands/banners/hotels.png",
+      "route": "/brands/hotels"
+    },
+    {
+      "id": "iberia",
+      "name": "Iberia",
+      "logo": "/brands/logos/iberia.png",
+      "banner": "/brands/banners/iberia.png",
+      "route": "/brands/iberia"
+    },
+    {
+      "id": "ikea",
+      "name": "IKEA",
+      "logo": "/brands/logos/ikea.png",
+      "banner": "/brands/banners/ikea.png",
+      "route": "/brands/ikea"
+    },
+    {
+      "id": "instacart",
+      "name": "Instacart",
+      "logo": "/brands/logos/instacart.png",
+      "banner": "/brands/banners/instacart.png",
+      "route": "/brands/instacart"
+    },
+    {
+      "id": "just-eat",
+      "name": "Just Eat",
+      "logo": "/brands/logos/just-eat.png",
+      "banner": "/brands/banners/just-eat.png",
+      "route": "/brands/just-eat"
+    },
+    {
+      "id": "kfc",
+      "name": "KFC",
+      "logo": "/brands/logos/kfc.png",
+      "banner": "/brands/banners/kfc.png",
+      "route": "/brands/kfc"
+    },
+    {
+      "id": "krispy-kreme",
+      "name": "Krispy Kreme",
+      "logo": "/brands/logos/krispy-kreme.png",
+      "banner": "/brands/banners/krispy-kreme.png",
+      "route": "/brands/krispy-kreme"
+    },
+    {
+      "id": "kroger",
+      "name": "Kroger",
+      "logo": "/brands/logos/kroger.png",
+      "banner": "/brands/banners/kroger.png",
+      "route": "/brands/kroger"
+    },
+    {
+      "id": "lastminute",
+      "name": "lastminute.com",
+      "logo": "/brands/logos/lastminute.png",
+      "banner": "/brands/banners/lastminute.png",
+      "route": "/brands/lastminute"
+    },
+    {
+      "id": "lego",
+      "name": "LEGO",
+      "logo": "/brands/logos/lego.png",
+      "banner": "/brands/banners/lego.png",
+      "route": "/brands/lego"
+    },
+    {
+      "id": "levis",
+      "name": "Levi's",
+      "logo": "/brands/logos/levis.png",
+      "banner": "/brands/banners/levis.png",
+      "route": "/brands/levis"
+    },
+    {
+      "id": "lowes",
+      "name": "Lowe's",
+      "logo": "/brands/logos/lowes.png",
+      "banner": "/brands/banners/lowes.png",
+      "route": "/brands/lowes"
+    },
+    {
+      "id": "lululemon",
+      "name": "lululemon",
+      "logo": "/brands/logos/lululemon.png",
+      "banner": "/brands/banners/lululemon.png",
+      "route": "/brands/lululemon"
+    },
+    {
+      "id": "lyft",
+      "name": "Lyft",
+      "logo": "/brands/logos/lyft.png",
+      "banner": "/brands/banners/lyft.png",
+      "route": "/brands/lyft"
+    },
+    {
+      "id": "mango",
+      "name": "MANGO",
+      "logo": "/brands/logos/mango.png",
+      "banner": "/brands/banners/mango.png",
+      "route": "/brands/mango"
+    },
+    {
+      "id": "mcdonalds",
+      "name": "McDonald's",
+      "logo": "/brands/logos/mcdonalds.png",
+      "banner": "/brands/banners/mcdonalds.png",
+      "route": "/brands/mcdonalds"
+    },
+    {
+      "id": "mediamarkt",
+      "name": "MediaMarkt",
+      "logo": "/brands/logos/mediamarkt.png",
+      "banner": "/brands/banners/mediamarkt.png",
+      "route": "/brands/mediamarkt"
+    },
+    {
+      "id": "meta-quest",
+      "name": "Meta Quest",
+      "logo": "/brands/logos/meta-quest.png",
+      "banner": "/brands/banners/meta-quest.png",
+      "route": "/brands/meta-quest"
+    },
+    {
+      "id": "nandos",
+      "name": "Nando's",
+      "logo": "/brands/logos/nandos.png",
+      "banner": "/brands/banners/nandos.png",
+      "route": "/brands/nandos"
+    },
+    {
+      "id": "nike",
+      "name": "Nike",
+      "logo": "/brands/logos/nike.png",
+      "banner": "/brands/banners/nike.png",
+      "route": "/brands/nike"
+    },
+    {
+      "id": "old-navy",
+      "name": "Old Navy",
+      "logo": "/brands/logos/old-navy.png",
+      "banner": "/brands/banners/old-navy.png",
+      "route": "/brands/old-navy"
+    },
+    {
+      "id": "olive-garden",
+      "name": "Olive Garden",
+      "logo": "/brands/logos/olive-garden.png",
+      "banner": "/brands/banners/olive-garden.png",
+      "route": "/brands/olive-garden"
+    },
+    {
+      "id": "panera",
+      "name": "Panera Bread",
+      "logo": "/brands/logos/panera.png",
+      "banner": "/brands/banners/panera.png",
+      "route": "/brands/panera"
+    },
+    {
+      "id": "papa-johns",
+      "name": "Papa John's",
+      "logo": "/brands/logos/papa-johns.png",
+      "banner": "/brands/banners/papa-johns.png",
+      "route": "/brands/papa-johns"
+    },
+    {
+      "id": "paramount",
+      "name": "Paramount+",
+      "logo": "/brands/logos/paramount.png",
+      "banner": "/brands/banners/paramount.png",
+      "route": "/brands/paramount"
+    },
+    {
+      "id": "petsmart",
+      "name": "PetSmart",
+      "logo": "/brands/logos/petsmart.png",
+      "banner": "/brands/banners/petsmart.png",
+      "route": "/brands/petsmart"
+    },
+    {
+      "id": "pizza-hut",
+      "name": "Pizza Hut",
+      "logo": "/brands/logos/pizza-hut.png",
+      "banner": "/brands/banners/pizza-hut.png",
+      "route": "/brands/pizza-hut"
+    },
+    {
+      "id": "primark",
+      "name": "Primark",
+      "logo": "/brands/logos/primark.png",
+      "banner": "/brands/banners/primark.png",
+      "route": "/brands/primark"
+    },
+    {
+      "id": "publix",
+      "name": "Publix",
+      "logo": "/brands/logos/publix.png",
+      "banner": "/brands/banners/publix.png",
+      "route": "/brands/publix"
+    },
+    {
+      "id": "puma",
+      "name": "PUMA",
+      "logo": "/brands/logos/puma.png",
+      "banner": "/brands/banners/puma.png",
+      "route": "/brands/puma"
+    },
+    {
+      "id": "rakuten",
+      "name": "Rakuten TV",
+      "logo": "/brands/logos/rakuten.png",
+      "banner": "/brands/banners/rakuten.png",
+      "route": "/brands/rakuten"
+    },
+    {
+      "id": "razer-gold",
+      "name": "Razer Gold",
+      "logo": "/brands/logos/razer-gold.png",
+      "banner": "/brands/banners/razer-gold.png",
+      "route": "/brands/razer-gold"
+    },
+    {
+      "id": "roblox",
+      "name": "Roblox",
+      "logo": "/brands/logos/roblox.png",
+      "banner": "/brands/banners/roblox.png",
+      "route": "/brands/roblox"
+    },
+    {
+      "id": "safeway",
+      "name": "Safeway",
+      "logo": "/brands/logos/safeway.png",
+      "banner": "/brands/banners/safeway.png",
+      "route": "/brands/safeway"
+    },
+    {
+      "id": "sephora",
+      "name": "Sephora",
+      "logo": "/brands/logos/sephora.png",
+      "banner": "/brands/banners/sephora.png",
+      "route": "/brands/sephora"
+    },
+    {
+      "id": "shake-shack",
+      "name": "Shake Shack",
+      "logo": "/brands/logos/shake-shack.png",
+      "banner": "/brands/banners/shake-shack.png",
+      "route": "/brands/shake-shack"
+    },
+    {
+      "id": "shein",
+      "name": "SHEIN",
+      "logo": "/brands/logos/shein.png",
+      "banner": "/brands/banners/shein.png",
+      "route": "/brands/shein"
+    },
+    {
+      "id": "shopee",
+      "name": "Shopee",
+      "logo": "/brands/logos/shopee.png",
+      "banner": "/brands/banners/shopee.png",
+      "route": "/brands/shopee"
+    },
+    {
+      "id": "skechers",
+      "name": "Skechers",
+      "logo": "/brands/logos/skechers.png",
+      "banner": "/brands/banners/skechers.png",
+      "route": "/brands/skechers"
+    },
+    {
+      "id": "sonic",
+      "name": "Sonic",
+      "logo": "/brands/logos/sonic.png",
+      "banner": "/brands/banners/sonic.png",
+      "route": "/brands/sonic"
+    },
+    {
+      "id": "southwest",
+      "name": "Southwest Airlines",
+      "logo": "/brands/logos/southwest.png",
+      "banner": "/brands/banners/southwest.png",
+      "route": "/brands/southwest"
+    },
+    {
+      "id": "stubhub",
+      "name": "StubHub",
+      "logo": "/brands/logos/stubhub.png",
+      "banner": "/brands/banners/stubhub.png",
+      "route": "/brands/stubhub"
+    },
+    {
+      "id": "subway",
+      "name": "Subway",
+      "logo": "/brands/logos/subway.png",
+      "banner": "/brands/banners/subway.png",
+      "route": "/brands/subway"
+    },
+    {
+      "id": "swarovski",
+      "name": "Swarovski",
+      "logo": "/brands/logos/swarovski.png",
+      "banner": "/brands/banners/swarovski.png",
+      "route": "/brands/swarovski"
+    },
+    {
+      "id": "taco-bell",
+      "name": "Taco Bell",
+      "logo": "/brands/logos/taco-bell.png",
+      "banner": "/brands/banners/taco-bell.png",
+      "route": "/brands/taco-bell"
+    },
+    {
+      "id": "talabat",
+      "name": "Talabat",
+      "logo": "/brands/logos/talabat.png",
+      "banner": "/brands/banners/talabat.png",
+      "route": "/brands/talabat"
+    },
+    {
+      "id": "tesco",
+      "name": "Tesco",
+      "logo": "/brands/logos/tesco.png",
+      "banner": "/brands/banners/tesco.png",
+      "route": "/brands/tesco"
+    },
+    {
+      "id": "ticketmaster",
+      "name": "Ticketmaster",
+      "logo": "/brands/logos/ticketmaster.png",
+      "banner": "/brands/banners/ticketmaster.png",
+      "route": "/brands/ticketmaster"
+    },
+    {
+      "id": "tidal",
+      "name": "TIDAL",
+      "logo": "/brands/logos/tidal.png",
+      "banner": "/brands/banners/tidal.png",
+      "route": "/brands/tidal"
+    },
+    {
+      "id": "tim-hortons",
+      "name": "Tim Hortons",
+      "logo": "/brands/logos/tim-hortons.png",
+      "banner": "/brands/banners/tim-hortons.png",
+      "route": "/brands/tim-hortons"
+    },
+    {
+      "id": "tk-maxx",
+      "name": "TK Maxx",
+      "logo": "/brands/logos/tk-maxx.png",
+      "banner": "/brands/banners/tk-maxx.png",
+      "route": "/brands/tk-maxx"
+    },
+    {
+      "id": "tommy-hilfiger",
+      "name": "Tommy Hilfiger",
+      "logo": "/brands/logos/tommy-hilfiger.png",
+      "banner": "/brands/banners/tommy-hilfiger.png",
+      "route": "/brands/tommy-hilfiger"
+    },
+    {
+      "id": "topgolf",
+      "name": "Topgolf",
+      "logo": "/brands/logos/topgolf.png",
+      "banner": "/brands/banners/topgolf.png",
+      "route": "/brands/topgolf"
+    },
+    {
+      "id": "uber",
+      "name": "Uber",
+      "logo": "/brands/logos/uber.png",
+      "banner": "/brands/banners/uber.png",
+      "route": "/brands/uber"
+    },
+    {
+      "id": "ulta",
+      "name": "Ulta Beauty",
+      "logo": "/brands/logos/ulta.png",
+      "banner": "/brands/banners/ulta.png",
+      "route": "/brands/ulta"
+    },
+    {
+      "id": "under-armour",
+      "name": "Under Armour",
+      "logo": "/brands/logos/under-armour.png",
+      "banner": "/brands/banners/under-armour.png",
+      "route": "/brands/under-armour"
+    },
+    {
+      "id": "valorant",
+      "name": "Valorant",
+      "logo": "/brands/logos/valorant.png",
+      "banner": "/brands/banners/valorant.png",
+      "route": "/brands/valorant"
+    },
+    {
+      "id": "walgreens",
+      "name": "Walgreens",
+      "logo": "/brands/logos/walgreens.png",
+      "banner": "/brands/banners/walgreens.png",
+      "route": "/brands/walgreens"
+    },
+    {
+      "id": "wolt",
+      "name": "Wolt",
+      "logo": "/brands/logos/wolt.png",
+      "banner": "/brands/banners/wolt.png",
+      "route": "/brands/wolt"
+    },
+    {
+      "id": "zalando",
+      "name": "Zalando",
+      "logo": "/brands/logos/zalando.png",
+      "banner": "/brands/banners/zalando.png",
+      "route": "/brands/zalando"
+    }
+  ],
+  "observedCoinMedia": [
+    {
+      "mint": "kzK6etp3DNUJvUT5c4hTHuvMfJ9o9hdDutpiY2xpump",
+      "image": "",
+      "route": "/token/kzK6etp3DNUJvUT5c4hTHuvMfJ9o9hdDutpiY2xpump"
+    },
+    {
+      "mint": "2WZnseF9pVjbEgbyuiPA9uukpDGymsMF2JcfLQGypump",
+      "image": "https://m.rapidlaunch.io/images/TBG1K3BJK.jpg",
+      "route": "/token/2WZnseF9pVjbEgbyuiPA9uukpDGymsMF2JcfLQGypump"
+    },
+    {
+      "mint": "BGgxPseJPkPtVcMiYHRKn8M6pm6YrFJPQ2qJNdqwYKBy",
+      "image": "https://ipfs.loot.family/BGgxPseJPkPtVcMiYHRKn8M6pm6YrFJPQ2qJNdqwYKBy.png",
+      "route": "/token/BGgxPseJPkPtVcMiYHRKn8M6pm6YrFJPQ2qJNdqwYKBy"
+    },
+    {
+      "mint": "CdJsUzjHa4TNZ2xZfKjEk8J4Dn5ZkDuhsNs4j96wpump",
+      "image": "https://m.rapidlaunch.io/images/vj8ToCuGO.jpg",
+      "route": "/token/CdJsUzjHa4TNZ2xZfKjEk8J4Dn5ZkDuhsNs4j96wpump"
+    },
+    {
+      "mint": "f8tM45wefetDmtWmBFuxw3w5NLP8t2oamACZE1xmkiE",
+      "image": "https://ipfs.loot.family/f8tM45wefetDmtWmBFuxw3w5NLP8t2oamACZE1xmkiE.jpg",
+      "route": "/token/f8tM45wefetDmtWmBFuxw3w5NLP8t2oamACZE1xmkiE"
+    },
+    {
+      "mint": "2N34KaYMYLhsMscWdQaVVaBiW67h8QxwFhhG1k3G9q2P",
+      "image": "https://ipfs.loot.family/2N34KaYMYLhsMscWdQaVVaBiW67h8QxwFhhG1k3G9q2P.jpg",
+      "route": "/token/2N34KaYMYLhsMscWdQaVVaBiW67h8QxwFhhG1k3G9q2P"
+    },
+    {
+      "mint": "3HRcGD8pnGpfhXUX7uiKKfHRzqsfUg7ahvkRZk9EwWgg",
+      "image": "https://metadata.j7tracker.io/images/8DBbcGMCCH",
+      "route": "/token/3HRcGD8pnGpfhXUX7uiKKfHRzqsfUg7ahvkRZk9EwWgg"
+    },
+    {
+      "mint": "kYZSuqedcFf7kijzTgia2vFNoxnHjFu1xbtLp2kV7aJ",
+      "image": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/GPhrDJxNybU1FNZEaSnZ1FCGDdL5wnC34zwBzP9jNxNh.webp",
+      "route": "/token/kYZSuqedcFf7kijzTgia2vFNoxnHjFu1xbtLp2kV7aJ"
+    },
+    {
+      "mint": "Gzt2nw8MUVDZxE3mwjUdwcMRi2z1rd3H2y8k9XwhUkNe",
+      "image": "https://ipfs.loot.family/Gzt2nw8MUVDZxE3mwjUdwcMRi2z1rd3H2y8k9XwhUkNe.jpg",
+      "route": "/token/Gzt2nw8MUVDZxE3mwjUdwcMRi2z1rd3H2y8k9XwhUkNe"
+    },
+    {
+      "mint": "DBJBzwPwtFT1zZB8MBwVF72JHwYivnAN17jaE7xem1UG",
+      "image": "https://metadata.j7tracker.io/images/285859f227a040d6",
+      "route": "/token/DBJBzwPwtFT1zZB8MBwVF72JHwYivnAN17jaE7xem1UG"
+    },
+    {
+      "mint": "6XjctRanNu6BGPdKtde47yyQyYBz8YBkioPiS5j7pump",
+      "image": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/76eFuEdFqKQGoXdhiCz1JEvRcabvQPh7vh1f4C9n6b2x.webp",
+      "route": "/token/6XjctRanNu6BGPdKtde47yyQyYBz8YBkioPiS5j7pump"
+    },
+    {
+      "mint": "rDa3xHxQQszbuzLGpqWjFSs577Rz4Gc22LJCPMJpump",
+      "image": "https://axiomtrading-v2.axiom-cdn.io/8vLn15PE7P8qP2rgDcrHgo1U4SvMqWzoG575x2cdioos.webp",
+      "route": "/token/rDa3xHxQQszbuzLGpqWjFSs577Rz4Gc22LJCPMJpump"
+    },
+    {
+      "mint": "8vLn15PE7P8qP2rgDcrHgo1U4SvMqWzoG575x2cdioos",
+      "image": "https://ipfs.loot.family/8vLn15PE7P8qP2rgDcrHgo1U4SvMqWzoG575x2cdioos.jpg",
+      "route": "/token/8vLn15PE7P8qP2rgDcrHgo1U4SvMqWzoG575x2cdioos"
+    },
+    {
+      "mint": "HqAcuBXKi5MtErcrpaDZSidZjF995TamEkXo85rkpump",
+      "image": "https://m.rapidlaunch.io/images/js4XMKUXD.jpg",
+      "route": "/token/HqAcuBXKi5MtErcrpaDZSidZjF995TamEkXo85rkpump"
+    },
+    {
+      "mint": "B8MVTdZYp14A1GtnNS15Yexb3BiHwhUC1f7HbtypNnQ2",
+      "image": "https://ipfs.loot.family/B8MVTdZYp14A1GtnNS15Yexb3BiHwhUC1f7HbtypNnQ2.jpg",
+      "route": "/token/B8MVTdZYp14A1GtnNS15Yexb3BiHwhUC1f7HbtypNnQ2"
+    },
+    {
+      "mint": "HVEYVXxiYvUwACyYqoKKZYzmXY4UqMyJC9Ca4BiCcB4Z",
+      "image": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/J1nFRhWLxF6TgUfN6WcUYLZuSknHBqj1MdZjwztwZoVp.webp",
+      "route": "/token/HVEYVXxiYvUwACyYqoKKZYzmXY4UqMyJC9Ca4BiCcB4Z"
+    },
+    {
+      "mint": "496DXUNhYrWXvUTRCPDjXhbCashgd6JVVAhAUikjbrwN",
+      "image": "https://ipfs.loot.family/496DXUNhYrWXvUTRCPDjXhbCashgd6JVVAhAUikjbrwN.jpg",
+      "route": "/token/496DXUNhYrWXvUTRCPDjXhbCashgd6JVVAhAUikjbrwN"
+    },
+    {
+      "mint": "6wj8ndCEfQuhcZBG9skku7BU3FZKZiqn1YWnbGGeN3CJ",
+      "image": "https://ipfs.loot.family/6wj8ndCEfQuhcZBG9skku7BU3FZKZiqn1YWnbGGeN3CJ.jpg",
+      "route": "/token/6wj8ndCEfQuhcZBG9skku7BU3FZKZiqn1YWnbGGeN3CJ"
+    },
+    {
+      "mint": "8YhXTtgLqG4S4Pv7graKpD3bNgjccG2MEhXHoRNCWP12",
+      "image": "https://ipfs.loot.family/8YhXTtgLqG4S4Pv7graKpD3bNgjccG2MEhXHoRNCWP12.png",
+      "route": "/token/8YhXTtgLqG4S4Pv7graKpD3bNgjccG2MEhXHoRNCWP12"
+    },
+    {
+      "mint": "Fikz6Py5GT22wKDsRcT8dd4M6r7Dg5jVCENwU5f4iP3j",
+      "image": "https://ipfs.loot.family/Fikz6Py5GT22wKDsRcT8dd4M6r7Dg5jVCENwU5f4iP3j.png",
+      "route": "/token/Fikz6Py5GT22wKDsRcT8dd4M6r7Dg5jVCENwU5f4iP3j"
+    },
+    {
+      "mint": "7DJ4XhGjWxuacBmysz7UvrMJuD4mm84kdjmQjt3fG9YG",
+      "image": "https://ipfs.loot.family/7DJ4XhGjWxuacBmysz7UvrMJuD4mm84kdjmQjt3fG9YG.jpg",
+      "route": "/token/7DJ4XhGjWxuacBmysz7UvrMJuD4mm84kdjmQjt3fG9YG"
+    },
+    {
+      "mint": "X9fRQYEHSLkcHJ4kxjnDAp1TAdCJTtHeYxsaj8opump",
+      "image": "https://axiomtrading-v2.axiom-cdn.io/61UP5x27K9iNcBUwnrTFTwntpdTn9uCBPfdiVfdWuKrg.webp",
+      "route": "/token/X9fRQYEHSLkcHJ4kxjnDAp1TAdCJTtHeYxsaj8opump"
+    },
+    {
+      "mint": "3hRdUQVEXd1jBu2RerCYbqHCegVPi6VJjQiPMmnMPccb",
+      "image": "https://ipfs.loot.family/3hRdUQVEXd1jBu2RerCYbqHCegVPi6VJjQiPMmnMPccb.png",
+      "route": "/token/3hRdUQVEXd1jBu2RerCYbqHCegVPi6VJjQiPMmnMPccb"
+    },
+    {
+      "mint": "FYmtcmmhphAgQogTsg4wouGGRBppkyANR5SfH6m6pump",
+      "image": "https://axiomtrading-v2.axiom-cdn.io/5FDRxLEMremdJH1QK4B1KESaU6khzHrZ2Lppq7iHGwCg.webp",
+      "route": "/token/FYmtcmmhphAgQogTsg4wouGGRBppkyANR5SfH6m6pump"
+    },
+    {
+      "mint": "4kZkqqUVn8bkYi8xA7gRzpiMEgoimdqhYhCddi5CjKv1",
+      "image": "https://ipfs.loot.family/4kZkqqUVn8bkYi8xA7gRzpiMEgoimdqhYhCddi5CjKv1.png",
+      "route": "/token/4kZkqqUVn8bkYi8xA7gRzpiMEgoimdqhYhCddi5CjKv1"
+    },
+    {
+      "mint": "2kd2xL7AUpXpPq8UU7rGj7Dw4KcC18k3W3WvmcC6wH7E",
+      "image": "https://ipfs.loot.family/2kd2xL7AUpXpPq8UU7rGj7Dw4KcC18k3W3WvmcC6wH7E.jpg",
+      "route": "/token/2kd2xL7AUpXpPq8UU7rGj7Dw4KcC18k3W3WvmcC6wH7E"
+    },
+    {
+      "mint": "ECEBKXdwht5fWqJmpiyPxTR1JQ4h1KaSE6h5A5QdhedY",
+      "image": "https://ipfs.loot.family/ECEBKXdwht5fWqJmpiyPxTR1JQ4h1KaSE6h5A5QdhedY.png",
+      "route": "/token/ECEBKXdwht5fWqJmpiyPxTR1JQ4h1KaSE6h5A5QdhedY"
+    },
+    {
+      "mint": "9DjPxXa8q822rwqSTHTPv62mPZtbCooFpsvnH4g2JmSx",
+      "image": "https://ipfs.loot.family/9DjPxXa8q822rwqSTHTPv62mPZtbCooFpsvnH4g2JmSx.png",
+      "route": "/token/9DjPxXa8q822rwqSTHTPv62mPZtbCooFpsvnH4g2JmSx"
+    },
+    {
+      "mint": "5v1p7vWpJdCzfH46TpPynudtJWY5oPbLiBN2BcRUo1Qk",
+      "image": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/8i3QuAhMqU1btgt3crgegDNxFTU8gcUNSW4c3uqRpump.webp",
+      "route": "/token/5v1p7vWpJdCzfH46TpPynudtJWY5oPbLiBN2BcRUo1Qk"
+    },
+    {
+      "mint": "HFqWyvmzw4NCfvpXgXPGedyEfBK4wu56bhvMkbNNG4G4",
+      "image": "https://ipfs.loot.family/HFqWyvmzw4NCfvpXgXPGedyEfBK4wu56bhvMkbNNG4G4.jpg",
+      "route": "/token/HFqWyvmzw4NCfvpXgXPGedyEfBK4wu56bhvMkbNNG4G4"
+    },
+    {
+      "mint": "7hanRdPzQLS5LUeHa4PdznRs9H74GfQrtzN72r16Zo2Q",
+      "image": "https://ipfs.loot.family/7hanRdPzQLS5LUeHa4PdznRs9H74GfQrtzN72r16Zo2Q.png",
+      "route": "/token/7hanRdPzQLS5LUeHa4PdznRs9H74GfQrtzN72r16Zo2Q"
+    },
+    {
+      "mint": "ASmUo1Z3B2Y8RN7H8ZrYj8ingDZhhRC83KR4eiDp1W6n",
+      "image": "https://ipfs.loot.family/ASmUo1Z3B2Y8RN7H8ZrYj8ingDZhhRC83KR4eiDp1W6n.png",
+      "route": "/token/ASmUo1Z3B2Y8RN7H8ZrYj8ingDZhhRC83KR4eiDp1W6n"
+    },
+    {
+      "mint": "C3oZke1cHpfJRdHpM5CvdRLQUUKUTNLJid9juf4xeup7",
+      "image": "https://axiomtrading-v2.axiom-cdn.io/2WZnseF9pVjbEgbyuiPA9uukpDGymsMF2JcfLQGypump.webp",
+      "route": "/token/C3oZke1cHpfJRdHpM5CvdRLQUUKUTNLJid9juf4xeup7"
+    },
+    {
+      "mint": "HH88mNDeop3G5GPjB7zH4UXrZdkUATPmw2QAAoLmobVe",
+      "image": "https://metadata.j7tracker.io/images/8dc2c69736e047ec",
+      "route": "/token/HH88mNDeop3G5GPjB7zH4UXrZdkUATPmw2QAAoLmobVe"
+    },
+    {
+      "mint": "syrpxQAaATDNCKyiRpdWchVvvAYxJomhpGQ9gfSpump",
+      "image": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/CB138sUYCYqnHJqaS29MRtTz986cM5X4XTFQsgbebonk.webp",
+      "route": "/token/syrpxQAaATDNCKyiRpdWchVvvAYxJomhpGQ9gfSpump"
+    },
+    {
+      "mint": "Cz3e7nYSkLCadUPZ8TCW94GeV8bZo1PbhVoLRS4gcJz3",
+      "image": "https://axiomtrading.sfo3.cdn.digitaloceanspaces.com/CvtCSMDByj1oC15WMZPtA7QoVfJsShcZpzBuR44Dpump.webp",
+      "route": "/token/Cz3e7nYSkLCadUPZ8TCW94GeV8bZo1PbhVoLRS4gcJz3"
+    },
+    {
+      "mint": "3AeT8zcP75btKBRPXFcLzkQc35HZsx2QxV6xEphia9fV",
+      "image": "https://ipfs.loot.family/3AeT8zcP75btKBRPXFcLzkQc35HZsx2QxV6xEphia9fV.png",
+      "route": "/token/3AeT8zcP75btKBRPXFcLzkQc35HZsx2QxV6xEphia9fV"
+    },
+    {
+      "mint": "4cDy6ffUNwrpRegTHY1QStQwBLRDhKgSd6gkQaTLpump",
+      "image": "",
+      "route": "/token/4cDy6ffUNwrpRegTHY1QStQwBLRDhKgSd6gkQaTLpump"
+    },
+    {
+      "mint": "F2NFNh8rE15W3X42kfW5ccrPpJVeM6KdReQdBPqvuF13",
+      "image": "https://ipfs.loot.family/F2NFNh8rE15W3X42kfW5ccrPpJVeM6KdReQdBPqvuF13.png",
+      "route": "/token/F2NFNh8rE15W3X42kfW5ccrPpJVeM6KdReQdBPqvuF13"
+    },
+    {
+      "mint": "E7FRv1j8kttugoMhSX5BinWqpPvoMEzyrTTorSet6n4r",
+      "image": "https://ipfs.loot.family/E7FRv1j8kttugoMhSX5BinWqpPvoMEzyrTTorSet6n4r.jpg",
+      "route": "/token/E7FRv1j8kttugoMhSX5BinWqpPvoMEzyrTTorSet6n4r"
+    },
+    {
+      "mint": "45Nj1ix4Cs2csYhS6q57KhxQHWvBrWgSuEyYwi1FjYfG",
+      "image": "https://ipfs.loot.family/45Nj1ix4Cs2csYhS6q57KhxQHWvBrWgSuEyYwi1FjYfG.jpg",
+      "route": "/token/45Nj1ix4Cs2csYhS6q57KhxQHWvBrWgSuEyYwi1FjYfG"
+    },
+    {
+      "mint": "5ZMENm8yw2ZdBC6nJ6XjqmfYVp8XAN1gVVfBcWW7pump",
+      "image": "https://m.rapidlaunch.io/images/YFt8X2Mah.jpg",
+      "route": "/token/5ZMENm8yw2ZdBC6nJ6XjqmfYVp8XAN1gVVfBcWW7pump"
+    },
+    {
+      "mint": "6bHt9k2DEpv1W56UsmpEaBgCUdfQStZSME6xsecZgmN9",
+      "image": "https://ipfs.loot.family/6bHt9k2DEpv1W56UsmpEaBgCUdfQStZSME6xsecZgmN9.png",
+      "route": "/token/6bHt9k2DEpv1W56UsmpEaBgCUdfQStZSME6xsecZgmN9"
+    },
+    {
+      "mint": "CC7K28oMUqtP7j8m7275jjYpfwbLQVo2gwXf1LwYtTbE",
+      "image": "https://ipfs.loot.family/CC7K28oMUqtP7j8m7275jjYpfwbLQVo2gwXf1LwYtTbE.png",
+      "route": "/token/CC7K28oMUqtP7j8m7275jjYpfwbLQVo2gwXf1LwYtTbE"
+    },
+    {
+      "mint": "9pJxDsQUWLQ7XWHVSsQDAA6Wbp28EtsrZNZU2on1K8x8",
+      "image": "https://ipfs.loot.family/9pJxDsQUWLQ7XWHVSsQDAA6Wbp28EtsrZNZU2on1K8x8.jpg",
+      "route": "/token/9pJxDsQUWLQ7XWHVSsQDAA6Wbp28EtsrZNZU2on1K8x8"
+    }
+  ],
+  "docs": [
+    {
+      "path": "/docs#overview",
+      "title": "Overview",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs#launch-modes",
+      "title": "Launch modes",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs#balance",
+      "title": "Balances and redeeming",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs#listing",
+      "title": "Listing requirements",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs/developers#launch",
+      "title": "Launch",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs/developers#mode-bytes",
+      "title": "Modes",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs/developers#program",
+      "title": "Integration",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs/developers#read",
+      "title": "Read data",
+      "kind": "anchor"
+    }
+  ],
+  "verificationNotes": [
+    "Initial browser attempt timed out opening wallet on a page before UI loaded; subsequent networkidle navigation verified six rendered pages. Welcome dialog made final wallet locator inaccessible; connector list grounded in vendor/native source, not connection.",
+    "No hidden authenticated UI was exercised."
+  ]
+}

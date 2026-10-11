@@ -1,0 +1,11 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFile} from 'node:fs/promises';
+const launch=await readFile(new URL('../launch-direct.mjs',import.meta.url),'utf8');
+const index=await readFile(new URL('../index.html',import.meta.url),'utf8');
+assert.match(launch,/3PoPcQKmU9aXUoA6bk2xYkc6D3EfLUkCEabuEdLBpump/);
+assert.match(launch,/createV2Instruction/);
+assert.match(launch,/not live or Pump-eligible yet/);
+assert.doesNotMatch(launch,/iq_launch_passes|IQ gate/i);
+assert.match(index,/ROME.*Ecosystem launchpad/);
+console.log('ROME launchpad uses strict Pump V2 custom quote pairing with no IQ gate');

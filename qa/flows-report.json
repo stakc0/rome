@@ -1,0 +1,37 @@
+{
+  "checks": [
+    {
+      "name": "native sort fetches real new-order list",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "search exposes real token suggestions",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "brand packages load",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "docs section navigation",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "disconnected profile gate",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "name": "unconfigured purchase is explicit, not fake success",
+      "passed": true,
+      "detail": null
+    }
+  ],
+  "passed": 6,
+  "total": 6,
+  "scope": "readonly/public UI only, no wallet approval, signed transaction or purchase"
+}

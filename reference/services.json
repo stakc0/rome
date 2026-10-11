@@ -1,0 +1,951 @@
+{
+  "origin": "https://loot.family",
+  "observedAt": "2026-10-07T16:02:09.591713+00:00",
+  "sourceAsset": "/assets/index-CU_PDl1A.js",
+  "sourceSha256": "df3184a4989b03b7bc2302fee378cc4f181ad521571b0b645eaff2923486a25e",
+  "publicGets": [
+    {
+      "method": "GET",
+      "path": "/api/stats",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 2098,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "fees": {
+          "1D": "float",
+          "30D": "float",
+          "All time": "float"
+        },
+        "dividends": {
+          "1D": "float",
+          "30D": "float",
+          "All time": "float"
+        },
+        "redeemed": {
+          "1D": "float",
+          "30D": "float",
+          "All time": "float"
+        },
+        "holdersPaid": {
+          "1D": "int",
+          "30D": "int",
+          "All time": "int"
+        },
+        "feeSeries": {
+          "1D": {
+            "type": "array",
+            "observedLength": 25,
+            "item": "int"
+          },
+          "30D": {
+            "type": "array",
+            "observedLength": 25,
+            "item": "int"
+          },
+          "All time": {
+            "type": "array",
+            "observedLength": 25,
+            "item": "int"
+          }
+        },
+        "dividendSeries": {
+          "1D": {
+            "type": "array",
+            "observedLength": 25,
+            "item": "int"
+          },
+          "30D": {
+            "type": "array",
+            "observedLength": 25,
+            "item": "int"
+          },
+          "All time": {
+            "type": "array",
+            "observedLength": 25,
+            "item": "int"
+          }
+        },
+        "redeemSeries": {
+          "1D": {
+            "type": "array",
+            "observedLength": 25,
+            "item": "int"
+          },
+          "30D": {
+            "type": "array",
+            "observedLength": 25,
+            "item": "int"
+          },
+          "All time": {
+            "type": "array",
+            "observedLength": 25,
+            "item": "int"
+          }
+        }
+      },
+      "minimalSample": {}
+    },
+    {
+      "method": "GET",
+      "path": "/api/coins/brands",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 589,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "brands": {
+          "type": "array",
+          "observedLength": 21,
+          "item": {
+            "id": "str",
+            "count": "int"
+          }
+        }
+      },
+      "minimalSample": {}
+    },
+    {
+      "method": "GET",
+      "path": "/api/coins?sort=top&limit=45&offset=0",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 12152,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "coins": {
+          "type": "array",
+          "observedLength": 45,
+          "item": {
+            "mint": "str",
+            "name": "str",
+            "symbol": "str",
+            "image": "str",
+            "giftCardId": "str",
+            "createdAt": "NoneType",
+            "marketCapSol": "float",
+            "payout": "int"
+          }
+        },
+        "total": "int"
+      },
+      "minimalSample": {
+        "total": 369
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/api/leaderboard",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 9187,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "rows": {
+          "type": "array",
+          "observedLength": 100,
+          "item": {
+            "wallet": "str",
+            "earned": "float",
+            "redeemed": "int"
+          }
+        }
+      },
+      "minimalSample": {}
+    },
+    {
+      "method": "GET",
+      "path": "/api/regions",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 3995,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "regions": {
+          "type": "array",
+          "observedLength": 51,
+          "item": {
+            "code": "str",
+            "name": "str",
+            "brandIds": {
+              "type": "array",
+              "observedLength": 7,
+              "item": "str"
+            }
+          }
+        }
+      },
+      "minimalSample": {}
+    },
+    {
+      "method": "GET",
+      "path": "/api/brands/discord",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 261,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "id": "str",
+        "pending": "bool",
+        "regions": {
+          "type": "array",
+          "observedLength": 1,
+          "item": {
+            "code": "str",
+            "name": "str",
+            "currency": "str",
+            "inStock": "bool",
+            "packages": {
+              "type": "array",
+              "observedLength": 3,
+              "item": {
+                "id": "str",
+                "usd": "float",
+                "value": "str"
+              }
+            }
+          }
+        }
+      },
+      "minimalSample": {
+        "id": "discord",
+        "pending": false
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/api/loot",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 2148,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "solLamports": "str",
+        "tokens": "str",
+        "series": {
+          "type": "array",
+          "observedLength": 38,
+          "item": {
+            "solLamports": "str",
+            "tokens": "str"
+          }
+        }
+      },
+      "minimalSample": {
+        "solLamports": "21530277767",
+        "tokens": "6201541103911"
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/api/loot/burns?offset=0",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 948,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "burns": {
+          "type": "array",
+          "observedLength": 5,
+          "item": {
+            "signature": "str",
+            "solLamports": "str",
+            "tokens": "str",
+            "at": "str"
+          }
+        },
+        "total": "int"
+      },
+      "minimalSample": {
+        "total": 38
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/api/coins/kzK6etp3DNUJvUT5c4hTHuvMfJ9o9hdDutpiY2xpump",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 663,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "mint": "str",
+        "name": "str",
+        "symbol": "str",
+        "image": "str",
+        "giftCardId": "str",
+        "createdAt": "NoneType",
+        "marketCapSol": "float",
+        "payout": "int",
+        "description": "str",
+        "twitter": "str",
+        "telegram": "str",
+        "website": "str",
+        "creator": "str",
+        "feesClaimedSol": "float",
+        "feesClaimedTx": "str",
+        "creatorVault": "str",
+        "poolFeeAccount": "str",
+        "dividendsDistributedSol": "int",
+        "dividendsDistributedTx": "NoneType",
+        "floor": "int",
+        "undrawnSol": "float"
+      },
+      "minimalSample": {
+        "mint": "kzK6etp3DNUJvUT5c4hTHuvMfJ9o9hdDutpiY2xpump",
+        "name": "Do not Redeem it",
+        "symbol": "REDEEM",
+        "image": "",
+        "giftCardId": "google-play",
+        "createdAt": null,
+        "marketCapSol": 86.287242419,
+        "payout": 1,
+        "description": "",
+        "twitter": "",
+        "telegram": "",
+        "website": "",
+        "creator": "BBLLCaPA7k2j1aRc4AHk1r4Lgnj6gACtUuoamBtVZ64x",
+        "feesClaimedSol": 27.095057757,
+        "feesClaimedTx": "62rSu3i6ASmU8Y3CmYYe4hMzdZZ6timp2rBdyuDLrUjiK3agjrds1SQ3iQTbVU8UoPbZrf4rMCaD3UdtHnEMr51w",
+        "creatorVault": "HF4vkhE1s4PzN9tcLwVTzcTvF54En8QPE7RmrqXGu4zH",
+        "poolFeeAccount": "7p3d4UQGQ91LgPNzz4Zm4xFduiTG4imcHRKVZKi2gEWY",
+        "dividendsDistributedSol": 0,
+        "dividendsDistributedTx": null,
+        "floor": 0,
+        "undrawnSol": 21.676013208
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/api/coins/kzK6etp3DNUJvUT5c4hTHuvMfJ9o9hdDutpiY2xpump/payouts?offset=0",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 24,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "payouts": {
+          "type": "array",
+          "observedLength": 0,
+          "item": null
+        },
+        "total": "int"
+      },
+      "minimalSample": {
+        "total": 0
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/api/coins?sort=new&card=discord&limit=4&offset=0",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 1079,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "coins": {
+          "type": "array",
+          "observedLength": 4,
+          "item": {
+            "mint": "str",
+            "name": "str",
+            "symbol": "str",
+            "image": "str",
+            "giftCardId": "str",
+            "createdAt": "str",
+            "marketCapSol": "float",
+            "payout": "int"
+          }
+        },
+        "total": "int"
+      },
+      "minimalSample": {
+        "total": 48
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/api/coins?q=loot&limit=4&offset=0",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 1060,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "coins": {
+          "type": "array",
+          "observedLength": 4,
+          "item": {
+            "mint": "str",
+            "name": "str",
+            "symbol": "str",
+            "image": "str",
+            "giftCardId": "str",
+            "createdAt": "NoneType",
+            "marketCapSol": "float",
+            "payout": "int"
+          }
+        },
+        "total": "int"
+      },
+      "minimalSample": {
+        "total": 13
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/api/users/BBLLCaPA7k2j1aRc4AHk1r4Lgnj6gACtUuoamBtVZ64x",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 100,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "wallet": "str",
+        "earnedSol": "int",
+        "redeemedSol": "int",
+        "credits": {
+          "type": "array",
+          "observedLength": 0,
+          "item": null
+        }
+      },
+      "minimalSample": {
+        "wallet": "BBLLCaPA7k2j1aRc4AHk1r4Lgnj6gACtUuoamBtVZ64x",
+        "earnedSol": 0,
+        "redeemedSol": 0
+      }
+    },
+    {
+      "method": "GET",
+      "path": "/api/coins?creator=BBLLCaPA7k2j1aRc4AHk1r4Lgnj6gACtUuoamBtVZ64x&sort=new&limit=4&offset=0",
+      "status": 200,
+      "contentType": "application/json",
+      "bytes": 214,
+      "observedAt": "2026-10-07T16:02:09.591713+00:00",
+      "authentication": "none; no cookies or forged Origin/Referer",
+      "responseSchema": {
+        "coins": {
+          "type": "array",
+          "observedLength": 1,
+          "item": {
+            "mint": "str",
+            "name": "str",
+            "symbol": "str",
+            "image": "str",
+            "giftCardId": "str",
+            "createdAt": "NoneType",
+            "marketCapSol": "float",
+            "payout": "int"
+          }
+        },
+        "total": "int"
+      },
+      "minimalSample": {
+        "total": 1
+      }
+    }
+  ],
+  "publicGetPatterns": [
+    {
+      "path": "/api/coins",
+      "query": {
+        "sort": [
+          "top",
+          "new",
+          "old"
+        ],
+        "limit": "integer, native initial 45; search 4",
+        "offset": "nonnegative integer",
+        "card": "optional brandId",
+        "payout": "optional dividends|giveaway string; omit for All. Coin response payout byte 0=dividends, 1=giveaway; floor byte 0=100K, 1=1M, 2=10M",
+        "q": "optional search string",
+        "creator": "optional base58 wallet"
+      },
+      "note": "Do not expose arbitrary query forwarding; bound limit and offset."
+    },
+    {
+      "path": "/api/coins/:mint",
+      "query": {}
+    },
+    {
+      "path": "/api/coins/:mint/payouts",
+      "query": {
+        "offset": "nonnegative integer"
+      }
+    },
+    {
+      "path": "/api/coins/brands",
+      "query": {}
+    },
+    {
+      "path": "/api/stats",
+      "query": {}
+    },
+    {
+      "path": "/api/leaderboard",
+      "query": {}
+    },
+    {
+      "path": "/api/users/:wallet",
+      "query": {}
+    },
+    {
+      "path": "/api/regions",
+      "query": {}
+    },
+    {
+      "path": "/api/brands/:brandId",
+      "query": {}
+    },
+    {
+      "path": "/api/loot",
+      "query": {}
+    },
+    {
+      "path": "/api/loot/burns",
+      "query": {
+        "offset": "nonnegative integer"
+      }
+    }
+  ],
+  "counts": {
+    "coinTotal": 369,
+    "coinListSampleLength": 45,
+    "brandsWithCoinCounts": 21,
+    "sumBrandCoinCounts": 369,
+    "staticBrandCatalog": 125,
+    "regions": 51,
+    "leaderboardRows": 100
+  },
+  "brandCoinCounts": [
+    {
+      "id": "discord",
+      "count": 48
+    },
+    {
+      "id": "fortnite",
+      "count": 44
+    },
+    {
+      "id": "disney",
+      "count": 40
+    },
+    {
+      "id": "steam",
+      "count": 27
+    },
+    {
+      "id": "kfc",
+      "count": 22
+    },
+    {
+      "id": "twitch",
+      "count": 22
+    },
+    {
+      "id": "xbox",
+      "count": 20
+    },
+    {
+      "id": "gamestop",
+      "count": 19
+    },
+    {
+      "id": "playstation",
+      "count": 18
+    },
+    {
+      "id": "doordash",
+      "count": 15
+    },
+    {
+      "id": "netflix",
+      "count": 14
+    },
+    {
+      "id": "uber-eats",
+      "count": 13
+    },
+    {
+      "id": "starbucks",
+      "count": 12
+    },
+    {
+      "id": "nintendo",
+      "count": 10
+    },
+    {
+      "id": "roblox",
+      "count": 10
+    },
+    {
+      "id": "walmart",
+      "count": 10
+    },
+    {
+      "id": "airbnb",
+      "count": 7
+    },
+    {
+      "id": "ea",
+      "count": 6
+    },
+    {
+      "id": "target",
+      "count": 6
+    },
+    {
+      "id": "google-play",
+      "count": 5
+    },
+    {
+      "id": "hulu",
+      "count": 1
+    }
+  ],
+  "backendWrites": [
+    {
+      "method": "POST",
+      "path": "/api/session",
+      "body": {
+        "wallet": "base58 wallet",
+        "expiry": "epoch milliseconds",
+        "signature": "base64 message signature"
+      },
+      "credentials": "include",
+      "policy": "BLOCK; owner service and explicit authorization required; untested"
+    },
+    {
+      "method": "POST",
+      "path": "/api/session/logout",
+      "body": null,
+      "credentials": "include",
+      "policy": "BLOCK; owner service and explicit authorization required; untested"
+    },
+    {
+      "method": "POST",
+      "path": "/api/session/deposit",
+      "body": {
+        "wallet": "base58 wallet"
+      },
+      "credentials": "include",
+      "policy": "BLOCK; owner service and explicit authorization required; untested"
+    },
+    {
+      "method": "POST",
+      "path": "/api/session/deposit/confirm",
+      "body": null,
+      "credentials": "include",
+      "policy": "BLOCK; owner service and explicit authorization required; untested"
+    },
+    {
+      "method": "POST",
+      "path": "/api/admin/whitelist",
+      "body": {
+        "ids": "sorted unique brand IDs",
+        "expiry": "epoch milliseconds",
+        "signature": "base64 signed message"
+      },
+      "credentials": "include",
+      "policy": "BLOCK; owner service and explicit authorization required; untested"
+    },
+    {
+      "method": "POST",
+      "path": "/api/admin/remove",
+      "body": {
+        "ids": "sorted unique brand IDs",
+        "expiry": "epoch milliseconds",
+        "signature": "base64 signed message"
+      },
+      "credentials": "include",
+      "policy": "BLOCK; owner service and explicit authorization required; untested"
+    },
+    {
+      "method": "POST",
+      "path": "/api/balances/transfer",
+      "body": {
+        "fromBrandId": "brand id",
+        "toBrandId": "brand id"
+      },
+      "credentials": "include",
+      "policy": "BLOCK; owner service and explicit authorization required; untested"
+    },
+    {
+      "method": "POST",
+      "path": "/api/balances/cashout",
+      "body": {
+        "brandId": "brand id"
+      },
+      "credentials": "include",
+      "policy": "BLOCK; owner service and explicit authorization required; untested"
+    },
+    {
+      "method": "POST",
+      "path": "/api/orders",
+      "body": {
+        "brandId": "brand id",
+        "items": "array of {packageId: string, quantity: positive integer}; native UI caps total cards at 5"
+      },
+      "credentials": "include",
+      "policy": "BLOCK; owner service and explicit authorization required; untested"
+    },
+    {
+      "method": "POST",
+      "path": "/api/orders/:id/unseal",
+      "body": {},
+      "credentials": "include",
+      "policy": "BLOCK; owner service and explicit authorization required; untested"
+    },
+    {
+      "method": "POST",
+      "path": "/api/orders/:id/refund",
+      "body": {},
+      "credentials": "include",
+      "policy": "BLOCK; owner service and explicit authorization required; untested"
+    }
+  ],
+  "privateReads": [
+    {
+      "path": "/api/session",
+      "policy": "owner-session only, never gateway to reference",
+      "evidence": [
+        {
+          "method": "GET",
+          "path": "/api/session",
+          "status": 401,
+          "contentType": "application/json",
+          "bytes": 49,
+          "observedAt": "2026-10-07T16:02:09.591713+00:00",
+          "authentication": "none; no cookies or forged Origin/Referer",
+          "responseSchema": {
+            "error": "str"
+          }
+        }
+      ]
+    },
+    {
+      "path": "/api/balances",
+      "query": "zero or repeated brand query parameters",
+      "policy": "private authenticated wallet balances; do not proxy/cache reference cookies"
+    },
+    {
+      "path": "/api/orders",
+      "query": "optional brand",
+      "policy": "private gift-card order data; contains fulfilment/sealed secrets; do not proxy/cache"
+    },
+    {
+      "path": "/api/admin/brands",
+      "policy": "admin authenticated only; do not public-gateway"
+    }
+  ],
+  "rpc": {
+    "originalHttp": "https://addi-38fdhf-fast-mainnet.helius-rpc.com/",
+    "originalWebsocket": "wss://addi-38fdhf-fast-mainnet.helius-rpc.com/",
+    "policy": "Replace both with owner-configured RPC. Do not reuse reference provider; no external WS probing.",
+    "readMethods": [
+      "getAccountInfo",
+      "getMultipleAccounts",
+      "getBalance",
+      "getLatestBlockhash",
+      "getSignatureStatuses"
+    ],
+    "notes": [
+      "Brand registry read: PDA seeds [UTF8(\"brands\")] under B.program, getAccountInfo base64, check owner.",
+      "Token fee vault read uses getMultipleAccountsInfo([creatorVault,poolFeeAccount]).",
+      "No standalone holders GET appears in native fetch inventory: Winners/Recipients come from /api/coins/:mint/payouts.",
+      "Confirmation/blockhash reads belong to signed launch flow; do not enable writes through read-only gateway."
+    ],
+    "rewriteLocations": [
+      {
+        "asset": "/assets/index-CU_PDl1A.js",
+        "characterOffset": 167658,
+        "symbol": "function Wp()",
+        "excerpt": "function Wp(){return{rpcUrl:`https://addi-38fdhf-fast-mainnet.helius-rpc.com/`,rpcSubscriptionsUrl:`wss://addi-38fdhf-fast-mainnet.helius-rpc.com/`}}function Gp(){return`https://addi-38fdhf-fast-mainnet.helius-rpc.com/`}var Kp=[...ku].sort((e,t)=>e.name.localeCompare(t.name)),qp="
+      },
+      {
+        "asset": "/assets/index-CU_PDl1A.js",
+        "characterOffset": 167807,
+        "symbol": "function Gp()",
+        "excerpt": "function Gp(){return`https://addi-38fdhf-fast-mainnet.helius-rpc.com/`}var Kp=[...ku].sort((e,t)=>e.name.localeCompare(t.name)),qp"
+      },
+      {
+        "asset": "/assets/index-CU_PDl1A.js",
+        "characterOffset": 530775,
+        "symbol": "function eP(",
+        "excerpt": "function eP({children:e}){let t=(0,N.useMemo)(()=>Gp()??ce(`mainnet-beta`),[]),n=(0,N.useMemo)(()=>[new oe,new de({network:$N}),new le],[]);return(0,I.jsx)(ue,{endpoint:t,config:{commitment:`confirmed`},children:(0,I.jsx)(M,{wallets:n,autoConnect:!0,localStorageKey:`loot.wallet`,children:(0,I.jsx)(Rm,{children:e})})})}function tP(){let{brandId:e}=r"
+      },
+      {
+        "asset": "/assets/index-CU_PDl1A.js",
+        "characterOffset": 166849,
+        "symbol": "async function Rp(",
+        "excerpt": "async function Rp(e){let t=await Ip(),{value:n}=await A(e).getAccountInfo(t,{encoding:`base64`}).send();return!n||n.owner!==Fp()?new Set:Hp(n.data[0])}async function zp(e,t){return(await Rp(e)).has(t)}function Bp(e){let t=Op.encode(e);if(t.length<1||t.length>Pp)throw Error(`Brand id must be 1\u201332 byt"
+      }
+    ]
+  },
+  "price": {
+    "originalBase": "https://prime-kite-4590.secure.data.solanatracker.io",
+    "policy": "Protected project-specific source; replace with owner data provider, no reference config borrowing.",
+    "paths": [
+      {
+        "method": "GET",
+        "path": "/price",
+        "query": {
+          "token": "mint"
+        },
+        "schema": {
+          "price": "number",
+          "marketCap": "number",
+          "priceQuote": "optional number",
+          "liquidity": "optional number"
+        }
+      },
+      {
+        "method": "GET",
+        "path": "/chart/:mint",
+        "query": {
+          "type": [
+            "15s",
+            "1m",
+            "5m",
+            "15m",
+            "1h",
+            "4h"
+          ],
+          "time_to": "epoch seconds"
+        },
+        "schema": {
+          "oclhv": "array {time,open,high,low,close,volume}; source spelling oclhv"
+        }
+      },
+      {
+        "method": "GET",
+        "path": "/tokens/:mint",
+        "schema": {
+          "token": "object image,description,twitter,telegram,website,strictSocials"
+        }
+      }
+    ],
+    "rewriteLocations": [
+      {
+        "asset": "/assets/index-CU_PDl1A.js",
+        "characterOffset": 213597,
+        "symbol": "async function fg(",
+        "excerpt": "async function fg(e,t){let n=`https://prime-kite-4590.secure.data.solanatracker.io`.replace(/\\/$/,``);if(!n)throw Error(`Market data is not configured.`);let r=await fetch(`${n}${e}`,{signal:t});if(!r.ok)throw Error(`Market data is unavailable.`);return r.json()}function pg(e){return typeof e==`number`&&Number.isFinite(e)?e:null}function mg(e){return typeof "
+      },
+      {
+        "asset": "/assets/index-CU_PDl1A.js",
+        "characterOffset": 212456,
+        "symbol": "async function cg(",
+        "excerpt": "async function cg(e,t,n,r){let i=lg(t,n),a=new URLSearchParams({type:i.type});a.set(`time_to`,String(Math.floor(Date.now()/1e3)));let o=await fg(`/chart/${encodeURIComponent(e)}?${a.toString()}`,r),s=mg(o)&&Array.isArray(o.oclhv)?o.oclhv:[],c=[];for(let e of s){let t=dg(e);t&&c.push(t)}if(c.sort((e,t)=>e.time-t.time),i.from===null)return c;let l=i.from*1e3;return c.filter(e=>e.time>=l)}function lg(e,t){let n=Zh.find(t=>t.id===e)??Zh[1];if(n.windowSec!==null)return{type:n.type,from:Math.floor(Date.now()/1e3)-n.windowSec};let r=t?Date.parse(t):NaN,i=Number.isFinite("
+      }
+    ]
+  },
+  "upload": {
+    "url": "https://upload.loot.family",
+    "method": "POST",
+    "encoding": "multipart/form-data",
+    "fields": [
+      "mint",
+      "file",
+      "name",
+      "symbol",
+      "description",
+      "twitter",
+      "telegram",
+      "website"
+    ],
+    "file": "PNG/JPEG >0 and <=4194304 bytes",
+    "response": {
+      "metadataUri": "https URL <=200 characters"
+    },
+    "policy": "BLOCK original upload; owner upload implementation required",
+    "evidence": {
+      "asset": "/assets/index-CU_PDl1A.js",
+      "characterOffset": 489703,
+      "symbol": "async function cM(",
+      "excerpt": "async function cM(e){if(e.file.size<=0||e.file.size>sM)throw Error(`Token image must be a PNG or JPEG under 4 MB.`);let t=e.file.type;if(t&&t!==`image/png`&&t!==`image/jpeg`&&t!==`image/jpg`)throw Error(`Token image must be a PNG or JPEG under 4 MB.`);let n=new FormData;n.set(`mint`,e.mint),n.set(`file`,e.file),n.set(`name`,e.name),n.set(`symbol`,e.symbol),n.set(`description`,e.description),n.set(`twitter`,e.twitter),n.set(`telegram`,e.telegram),n.set(`website`,bu(e.mint));let r=B.upload.replace(/\\/$/,``),i;try{i=await fetch(r,{method:`POST`,body:n})}catch{throw Error(`Could not reach LOOT to store the token image.`)}let a;try{a=await i.json()}catch{throw Error(`Token image upload failed (${i.status}).`)}if(!i.ok)throw Error(a.error||`Token image upload failed (${i.status}).`);if(!a.metadataUri?.startsWith(`https://`)||a.metadataUri.length>200)throw Error(`Token image upload did not return a metadata URI.`);return a.metadataUri}var lM=E(`6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P`),uM=E(`pfeeUxB6jkeY1Hxd7CsFCAjcbHA9rWtchMGdZ6VojVZ`),"
+    }
+  },
+  "signedLaunch": {
+    "walletMethods": [
+      "signAllTransactions",
+      "signMessage"
+    ],
+    "policy": "BLOCK until owner deployment parameters, RPC, payees and bundle service are explicitly configured; do not sign or submit.",
+    "program": "LootzMHHCubYFZEgg7kjbyfdsEFBxfPkrUPNzuoExCk",
+    "burn": "LootB4Gs68YAg4GwjqKqgdpQhLrrsErmnxekLArG6Bq",
+    "credit": "LoottDgEBhsA8Ym6U7xAD9b2MGRMR3zhy2FiCTGi8Gx",
+    "lookupTable": "3xmv8iqATqTCqqZsm4QsvhhkbQSxi1oHQhTYDH7L36h8",
+    "pumpProgram": "6EF8rrecthR5Dkzon8Nwu78hRvfCKubJ14M5uBEwF6P",
+    "tipPayee": "astra4uejePWneqNaJKuFFA8oonqCE1sqF6b45kDMZm",
+    "tipLamports": "1000000",
+    "bundleEndpoint": "https://ams.gateway.astralane.io/iris",
+    "bundleRequest": {
+      "jsonrpc": "2.0",
+      "id": 1,
+      "method": "sendBundle",
+      "params": [
+        "base64 serialized transactions",
+        {
+          "encoding": "base64",
+          "mevProtect": true,
+          "revertProtection": true
+        }
+      ]
+    },
+    "embeddedProviderCredential": "present in KM; value intentionally omitted, must remove/replace, never reuse",
+    "rewriteSymbols": [
+      "B.program",
+      "B.burn",
+      "B.credit",
+      "B.lut",
+      "B.url",
+      "HM",
+      "KM",
+      "UM",
+      "VM",
+      "cM"
+    ],
+    "notes": [
+      "Launch creates generated mint signer, signs first transaction with mint keypair, then wallet signs both bundle transactions.",
+      "Bundle includes Pump create_v2, optional dev buy, LOOT link_coin, and system transfer tip.",
+      "Token native UI links to pump.fun to trade; no native trade execution API was found."
+    ]
+  },
+  "wallet": {
+    "connectors": [
+      "Phantom",
+      "Solflare",
+      "Backpack",
+      "Wallet Standard auto-discovered wallets"
+    ],
+    "autoConnect": true,
+    "localStorageKey": "loot.wallet",
+    "sessionSignTextSymbol": "Eu",
+    "sessionHost": "new URL(B.url).host; MUST switch to owned host",
+    "transferSignin": "deposit/confirm flow transfers SOL; BLOCK reference deposit/payee",
+    "policy": "Render original connector UI but require explicit owner auth implementation for privileged actions"
+  },
+  "media": {
+    "imageProxy": "https://img.loot.family?u=encodeURIComponent(external URL)",
+    "localBrands": [
+      "/brands/logos/:brandId.png",
+      "/brands/banners/:brandId.png"
+    ]
+  },
+  "limitations": [
+    "All write paths and authenticated private reads statically inventoried, not exercised.",
+    "No protected RPC requests, external WS subscriptions, signed messages/transactions, uploads, orders, purchases or transfers were performed.",
+    "Browser auto public market reads occurred as native page behavior; they are not an authorization to reuse provider."
+  ]
+}

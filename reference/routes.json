@@ -1,0 +1,164 @@
+{
+  "origin": "https://loot.family",
+  "observedAt": "2026-10-07T16:02:09.591713+00:00",
+  "routes": [
+    {
+      "path": "/",
+      "status": "native-router-declared",
+      "kind": "static",
+      "renderVerified": true,
+      "redirectTo": null
+    },
+    {
+      "path": "/brands",
+      "status": "native-router-declared",
+      "kind": "static",
+      "renderVerified": true,
+      "redirectTo": null
+    },
+    {
+      "path": "/cards",
+      "status": "native-router-declared",
+      "kind": "static",
+      "renderVerified": false,
+      "redirectTo": "/brands"
+    },
+    {
+      "path": "/leaderboard",
+      "status": "native-router-declared",
+      "kind": "static",
+      "renderVerified": false,
+      "redirectTo": null
+    },
+    {
+      "path": "/loot",
+      "status": "native-router-declared",
+      "kind": "static",
+      "renderVerified": false,
+      "redirectTo": null
+    },
+    {
+      "path": "/launch",
+      "status": "native-router-declared",
+      "kind": "static",
+      "renderVerified": true,
+      "redirectTo": null
+    },
+    {
+      "path": "/docs",
+      "status": "native-router-declared",
+      "kind": "static",
+      "renderVerified": true,
+      "redirectTo": null
+    },
+    {
+      "path": "/docs/developers",
+      "status": "native-router-declared",
+      "kind": "static",
+      "renderVerified": true,
+      "redirectTo": null
+    },
+    {
+      "path": "/profile",
+      "status": "native-router-declared",
+      "kind": "static",
+      "renderVerified": false,
+      "redirectTo": null
+    },
+    {
+      "path": "/admin",
+      "status": "native-router-declared",
+      "kind": "static",
+      "renderVerified": false,
+      "redirectTo": null
+    },
+    {
+      "path": "/brands/:brandId",
+      "status": "native-router-declared",
+      "kind": "pattern",
+      "redirectTo": null
+    },
+    {
+      "path": "/cards/:brandId",
+      "status": "native-router-declared",
+      "kind": "pattern",
+      "redirectTo": "/brands/:brandId"
+    },
+    {
+      "path": "/user/:wallet",
+      "status": "native-router-declared",
+      "kind": "pattern",
+      "redirectTo": null
+    },
+    {
+      "path": "/token/:mint",
+      "status": "native-router-declared",
+      "kind": "pattern",
+      "redirectTo": null
+    },
+    {
+      "path": "/*",
+      "status": "native-router-declared",
+      "kind": "pattern",
+      "redirectTo": "/"
+    }
+  ],
+  "patterns": [
+    "/brands/:brandId",
+    "/cards/:brandId",
+    "/user/:wallet",
+    "/token/:mint",
+    "/*"
+  ],
+  "docsAnchors": [
+    {
+      "path": "/docs#overview",
+      "title": "Overview",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs#launch-modes",
+      "title": "Launch modes",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs#balance",
+      "title": "Balances and redeeming",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs#listing",
+      "title": "Listing requirements",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs/developers#launch",
+      "title": "Launch",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs/developers#mode-bytes",
+      "title": "Modes",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs/developers#program",
+      "title": "Integration",
+      "kind": "anchor"
+    },
+    {
+      "path": "/docs/developers#read",
+      "title": "Read data",
+      "kind": "anchor"
+    }
+  ],
+  "staticDocuments": [
+    "/llms.txt",
+    "/llms-full.txt"
+  ],
+  "notes": [
+    "Only two native docs routes; subsections are fragment anchors, not fabricated nested paths.",
+    "Server SPA HTML is not distinct route-content evidence; finite router-pattern coverage used.",
+    "Brand id is called slug in visible URLs; native parameter is brandId."
+  ]
+}

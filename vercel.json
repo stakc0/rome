@@ -1,0 +1,1 @@
+{"version":2,"framework":null,"buildCommand":"npm run build","outputDirectory":"dist","functions":{"api/index.mjs":{"includeFiles":"dist/{index.html,runtime-manifest.json}","maxDuration":30}},"routes":[{"src":"/api/(.*)","dest":"/api/index"},{"handle":"filesystem"},{"src":"/(.*)","dest":"/api/index"}]}
