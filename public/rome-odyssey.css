@@ -44,3 +44,17 @@ html,body,#root,.rome-app{background:#070807!important;color:#f4f1e7!important}
 .rome-logo-img{display:block;width:116px;height:auto;max-height:42px;object-fit:contain;object-position:left center;flex:0 0 auto;background:transparent!important;border:0!important;border-radius:0!important;box-shadow:none!important}
 .rome-mark{display:none!important}
 @media(max-width:900px){.rome-logo-img{width:96px;max-height:36px}}
+
+
+/* ROME blue-black logo gradient + Odyssey-like typography pass */
+:root{--paper:#020306!important;--ink:#f5f1e8!important;--muted:#a9aaad!important;--line:#1b2546!important;--orange:#4169ff!important;--bg:#020306!important;--panel:#07102d!important;--acid:#f5f1e8!important}
+html,body,#root{background:#020306!important;color:#f5f1e8!important;font-family:Geist,Inter,system-ui,-apple-system,Segoe UI,sans-serif!important}
+body{background:linear-gradient(180deg,#020306 0%,#020306 36%,#071641 68%,#294df0 140%)!important;min-height:100vh}
+.rome-site,.rome-app{background:linear-gradient(180deg,#020306 0%,#020306 34%,#071641 70%,#294df0 132%)!important;color:#f5f1e8!important;position:relative;overflow:hidden}
+.rome-site:before,.rome-app:before{content:"";position:fixed;inset:0;pointer-events:none;background:radial-gradient(900px 420px at 50% 46%,rgba(42,77,240,.22),transparent 58%),linear-gradient(180deg,rgba(0,0,0,.22),transparent 48%);z-index:0}.rome-site>*,.rome-app>*{position:relative;z-index:1}
+.rome-header,.rome-top{background:rgba(2,3,6,.72)!important;border-color:rgba(245,241,232,.12)!important;backdrop-filter:blur(18px)!important}.rome-wordmark,.rome-word{font-weight:600!important;letter-spacing:-.09em!important;color:#f5f1e8!important}.rome-nav a,.rome-text-link{color:#d6d8df!important}.rome-nav a:hover,.rome-nav a.active{color:#fff!important;background:rgba(255,255,255,.06)!important;border-color:rgba(255,255,255,.14)!important}
+.rome-connect,.rome-button.dark,.rome-launch-btn,.btn.primary,button[type=submit]{background:#f5f1e8!important;color:#020306!important;border-color:#f5f1e8!important;font-weight:700!important;text-shadow:none!important}.rome-connect *,.rome-button.dark *,.rome-launch-btn *,.btn.primary *,button[type=submit] *{color:#020306!important}
+.rome-hero h1,.rome-page h1,h1{font-weight:500!important;letter-spacing:-.095em!important;color:#f5f1e8!important}.rome-hero h1 em,.rome-page h1 em,h1 em{color:#f5f1e8!important}.rome-lede,.lede{color:#d6d8df!important}.rome-eyebrow,.eyebrow,.rome-card-index{color:#8da6ff!important}
+.rome-sim-stage,.orbit{background:linear-gradient(180deg,#020306 0%,#071641 68%,#294df0 145%)!important;border-color:rgba(245,241,232,.12)!important}.rome-orbit,.ring{border-color:rgba(245,241,232,.24)!important}.rome-node,.node{background:rgba(2,3,6,.72)!important;color:#f5f1e8!important;border-color:rgba(245,241,232,.16)!important}.rome-node i,.node i{background:#f5f1e8!important}
+.rome-models{background:rgba(245,241,232,.12)!important}.rome-models article,.rome-stat,.rome-card,.panel,.market-card,.doc,.tick,.notice{background:rgba(2,3,6,.58)!important;color:#f5f1e8!important;border-color:rgba(245,241,232,.12)!important}.rome-models p,.rome-models code,.rome-footer,.rome-quote span,.meta,.field,.empty,label{color:#b7bdd2!important}
+.rome-logo-img{display:block!important;object-fit:contain!important;background:transparent!important;border:0!important;border-radius:0!important;box-shadow:none!important;filter:none!important}.rome-mark{display:none!important}
