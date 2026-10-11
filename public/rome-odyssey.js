@@ -11,7 +11,7 @@
   }
   function shell(content) {
     document.title = 'ROME · Ecosystem Launchpad';
-    document.body.innerHTML = `<div class="rome-app"><div class="rome-shell"><header class="rome-top"><a class="rome-brand" href="/" data-route><span class="rome-mark">R</span><span class="rome-word">ROME</span></a>${nav()} </header><main class="rome-page">${content}</main><footer class="footer"><span>ROME / ECOSYSTEM LAUNCHPAD</span><span>PAIR MINT ${short(CA)}</span><span>SOLANA SYSTEMS INTERFACE</span></footer></div></div>`;
+    document.body.innerHTML = `<div class="rome-app"><div class="rome-shell"><header class="rome-top"><a class="rome-brand" href="/" data-route><img class="rome-logo-img" src="/rome-logo.png" alt="ROME"><span class="rome-word">ROME</span></a>${nav()} </header><main class="rome-page">${content}</main><footer class="footer"><span>ROME / ECOSYSTEM LAUNCHPAD</span><span>PAIR MINT ${short(CA)}</span><span>SOLANA SYSTEMS INTERFACE</span></footer></div></div>`;
     bind();
   }
   function bind() {

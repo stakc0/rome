@@ -39,3 +39,8 @@ html,body,#root,.rome-app{background:#070807!important;color:#f4f1e7!important}
 .rome-app .orbit{background:radial-gradient(circle at 50% 50%,rgba(224,184,90,.15),transparent 34%),#090a08!important}
 .rome-app .node{background:#0d0f0e!important;color:#f4f1e7!important;border-color:#3a3528!important}
 .rome-app a{color:inherit}
+
+/* supplied logo, no frame, no crop */
+.rome-logo-img{display:block;width:116px;height:auto;max-height:42px;object-fit:contain;object-position:left center;flex:0 0 auto;background:transparent!important;border:0!important;border-radius:0!important;box-shadow:none!important}
+.rome-mark{display:none!important}
+@media(max-width:900px){.rome-logo-img{width:96px;max-height:36px}}
