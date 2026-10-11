@@ -1,5 +1,5 @@
 (() => {
-  const CA = '3PoPcQKmU9aXUoA6bk2xYkc6D3EfLUkCEabuEdLBpump';
+  const CA = 'FQSsRzYw7jyqbJBoqf7XVy23ejXgyVuQWREhY7M5pump';
   const api = async (path, options) => { const r = await fetch(path, {cache:'no-store', ...options}); const data = await r.json().catch(() => ({})); if (!r.ok) throw Error(data.error || data.message || `Request failed (${r.status})`); return data; };
   const esc = (s) => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   const short = s => s ? `${s.slice(0,6)}…${s.slice(-5)}` : '—';

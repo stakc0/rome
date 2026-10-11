@@ -6,7 +6,7 @@ ROME is an Odyssey-inspired Solana launchpad built from the working launch/index
 
 Every launch is configured for this Pump quote mint:
 
-`3PoPcQKmU9aXUoA6bk2xYkc6D3EfLUkCEabuEdLBpump`
+`FQSsRzYw7jyqbJBoqf7XVy23ejXgyVuQWREhY7M5pump`
 
 The backend resolves the mint through the official Pump SDK and passes the resolved `quoteMint`, `quoteTokenProgram`, and `pumpQuote` into `createV2Instruction`. If Pump does not recognize the mint as an eligible quote, the launch returns an explicit `409` instead of creating the wrong pair.
 
