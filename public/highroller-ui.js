@@ -1,7 +1,7 @@
 (()=>{
 const $=s=>document.querySelector(s);
 const short=s=>s?`${s.slice(0,5)}…${s.slice(-4)}`:'—',fmt=(n,d=3)=>Number(n||0).toLocaleString('en-US',{minimumFractionDigits:d,maximumFractionDigits:d}),money=n=>n==null||!Number.isFinite(Number(n))?'—':Number(n).toLocaleString('en-US',{style:'currency',currency:'USD',notation:Number(n)>=1e6?'compact':'standard',maximumFractionDigits:Number(n)>=1000?1:2}),esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-const ROLLD_CA='FiYeLkgGRKHkPFphif1G81R4p2LiUsqyB3px4XuHpump';
+const ROLLD_CA='5zaAuBykMkGPjTM6otf1T1nitrZn9AbgjzmWsccwpump';
 let overview=null, connectedWallet=null, busy=false,homeLoading=false,rolldMarket=null,rolldState='loading',rolldLoading=false,lastMarketAt=0;
 const get=async u=>{const r=await fetch(u,{headers:{accept:'application/json'},cache:'no-store'}),d=await r.json();if(!r.ok)throw Error(d.error||'Request failed');return d;};
 const btn='inline-flex items-center justify-center rounded-full border px-4 py-2 text-sm font-medium btn-glass text-white hover:bg-white/10 disabled:opacity-40';
